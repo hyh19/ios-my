@@ -1,0 +1,158 @@
+// 用户标示
+message Identifier {
+    // Vendor标识用户 (是通过BundleID的DNS反转的前两部分进行匹配，如果相同就是同一个Vender,如果用户将属于此Vender的所有App卸载，
+    //则idfv的值会被重置，即再重装此Vender的App，idfv的值和之前不同。)
+    required string idfv = 1;
+    // 广告id
+    optional string idfa = 2;
+    // 用户登陆后的业务用户id
+    optional string user_id = 3;
+}
+
+// 硬件信息
+message Device {
+	// 获取设备所有者的名称
+	required string name = 1;
+	// 设备型号
+	required string model = 2;
+	// 本地化版本
+	required string localizedmodel = 3;
+	// orientation 朝向
+	required int32 orientation = 4;
+	// 是否启动电池监控
+	required bool battery_monitoring_enabled = 5;
+	//当前设备是否有转向通知
+	required bool orientation_notifications = 6;
+    // 剩余电量
+    required int32 available_battery = 7;
+    // 电池状态
+    required string battery_state = 8;
+    // mac address
+    optional string mac_address = 9; 
+}
+
+// 系统相关信息
+message System {
+    // 系统名称
+    required string system_name = 1;
+    // 系统版本
+    required string system_version = 2;
+    // 地区
+    required string country_code = 3;
+    // 网络类型，0=未获取到网络类型，1=wifi,2=2G,3=3G,4=4G,5=未知网络
+    required int32 network_type = 4;
+    // 运营商信息
+    required string network_information = 5;
+}
+
+// 产品信息
+message Product {
+    // 产品应用id
+    required string packge_name = 1;
+    // App整形版本号
+    required int32 app_version_code = 2;
+    // 用户安装APP时间戳
+    required int64 install_time = 3;
+    // 用户升级APP时间戳
+    required int64 update_time = 4;
+}
+
+// 事件行为参数
+message EventParameter {
+	// 行为key  
+	optional string key = 1;
+	// 行为参数
+	optional string value = 2;
+}
+
+// 事件行为定义
+message Event {
+	// Session ID
+	required int64 session_id = 1;
+	// 事件Id
+	required string id = 2;
+	// 时间触发时间戳
+	required int64 time = 3;
+	// Event Parameters 
+	repeated EventParameter event_parameters = 4;
+}
+
+// 事件打点
+message EventsData {
+    // 协议版本号
+    required int32 protocol_version = 1;
+    required Identifier identifier = 2;
+    required Device device = 3;
+    required System system = 4;
+    required Product product = 5;
+    repeated Event events = 6;
+
+     // 用户登陆时间
+    optional int64 login_timestamp = 7;
+}
+
+// 安装、活跃、主动活跃打点
+message AppActiveData {
+    // 协议版本号
+    required int32 protocol_version = 1;
+    // 是否是主动活跃
+    required bool is_initiative = 2;
+    required Identifier identifier = 3;
+    required Device device = 4;
+    required System system = 5;
+    required Product product = 6;
+     // 用户登陆时间
+    optional int64 login_timestamp = 7;
+}
+
+// 直播间事件行为参数
+message RoomEventParameter {
+    // 行为key  
+    optional string key = 1;
+    // 行为参数
+    optional string value = 2;
+}
+
+// 直播间事件
+message RoomEvent {
+    // 模块Id
+    required int32 moudle_id = 1;
+    // 位置id
+    required int32 position_id = 2;
+    // 房间ID
+    required int32 room_id = 3;
+    // 主播ID
+    required int32 broadcast_id = 4; 
+    // 时间触发时间戳
+    required int64 time = 5;
+    // 直播间事件行为Id
+    required string id = 6;
+    // 直播间事件行为参数列表
+    repeated RoomEventParameter roomevent_parameters = 7;
+}
+
+//  用户直播间行为数据
+message UserActionData {
+    // 协议版本号
+    required int32 protocol_version = 1;
+    required Identifier identifier = 2;
+    required Device device = 3;
+    required System system = 4;
+    required Product product = 5;
+    // Session_id 进入房间的seesion_id
+    required int64 room_session_id = 6;
+    repeated RoomEvent roomevents = 7;
+
+    // 用户登陆时间
+    optional int64 login_timestamp = 8;
+}
+
+
+
+
+
+
+
+
+
+

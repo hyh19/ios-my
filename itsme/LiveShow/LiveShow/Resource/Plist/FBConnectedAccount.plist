@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>user_icon_facebook</string>
+		<key>account</key>
+		<string>Facebook</string>
+		<key>platform</key>
+		<string>facebook</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>user_icon_twitter</string>
+		<key>account</key>
+		<string>Twitter</string>
+		<key>platform</key>
+		<string>twitter</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>user_icon_vk</string>
+		<key>account</key>
+		<string>VK</string>
+		<key>platform</key>
+		<string>vk</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>user_icon_email</string>
+		<key>account</key>
+		<string>Email</string>
+		<key>platform</key>
+		<string>fb_mail</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: id-ID, Indonesian (Indonesia)
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "Pengaturan";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "Populer";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "Baru";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "Live";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "Replay";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "Rekomendasi";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "Replay";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "Judul dengan tag lebih mudah ditemukan";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "Go Live";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "Live";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "Bintang";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d Exp";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "Pembelian:";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "Kirim";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "Jangan malu, perkenalkan diri Anda!";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "Terkirim";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "Live";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "Pengikut";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "Pesan";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "Ikuti";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "Blokir";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "Tidak ada teman yang online sekarang!";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "Temukan Live Video Terbaru";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "0 Replay";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "Baru";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "Hot";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "Tidak ada video yang tersedia";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "Tidak tertarik dengan siapapun";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "Tidak ada pengikut sekarang T-T";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "Nama pengguna";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "Mood";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "Tentang Kami";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "Keuntungan";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "Pembelian";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "Level";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "Pengaturan";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "Keluar";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "Undangan";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "Pengikut Super";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "Pengaturan Pemberitahuan";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "Tentang Kami";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "Tinggalkan saran";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "Daftar Blokir";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "Edit profil";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "keluar";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "Pemberitahuan Pesan Live";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "Matikan pemberitahuan";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "Edit profil";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "Foto Profil";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "Ambil Foto";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "Album";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "Bintang";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "Keuntungan";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "Jumlah yang tersedia saat ini";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "Tukar";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "Penarikan";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "FAQ";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "Konfirmasi";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "Penarikan melalui WeChat";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "Rekening:";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "Aplikasi disubmit, silakan cek WeChat";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "¥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "Lengkap";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "Lamanya transfer bisa sampai 24 jam";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "Jumlah Total:";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "Saldo:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "Keuntungan";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "Penarikan berhasil!";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "Total Penarikan:";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "Catatan";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "Sambungan gagal!";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "Verifikasi:%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "Mengikuti:%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "Terkirim:%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "Pengikut:%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "Bintang:%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "Ikuti";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "Pengikut";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "Live";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "Cari berdasarkan nama atau id";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "Cari";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "Ikuti";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "Balas";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "Pesan";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "Home";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "Lapor";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "Terkirim %1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "Bintang";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "Mengelola";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "Silakan pilih metode pembayaran";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "Pembayaran WeChat";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "Gratis";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "Bila terdapat masalah, silakan hubungi 'meepay' melalui WeChat";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0 Koin";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "Bonus 0 Berlian Biru";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "Abaikan";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "Tidak ada pesan dari pengikut, silakan chat dengan mereka!";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "Garfield00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "Memberikan %1$d Bintang";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "Kirim lebih banyak hadiah untuk menambah peringkat Anda";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "Lebih banyak";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "Memuat...";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "No.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "Rekaman Live Saya";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "Mengikuti";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "Deblock";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "Simpan";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "Kirim";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "Combo";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "Pengingat";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "Batalkan";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "Konfirmasi";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "Akhiri siaran?";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "Anda yakin ingin memblokir?";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "Ruang Chat";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ Zone";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "Facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "Twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "Weibo";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "Peristiwa";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "Tanda tangan";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "Tidak lebih dari 32 karakter";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "Nama pengguna tidak lebih dari 16 karakter";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "Nama pengguna mengandung karakter ilegal";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "Nama pengguna lebih dari 16 karakter";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "Nama pengguna sudah dipakai. Coba yang lainnya.";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "Nama pengguna";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "Menggunakan kata sensitif";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "Berhasil!";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "Orang";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "Teman";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "Tak dikenal";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "Gagal...";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "Kirim";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "Keyboard";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "Kirim";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "Sekarang";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "Beberapa menit yang lalu";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "Beberapa jam yang lalu";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "Kemarin";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "Beberapa hari yang lalu";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "Minggu";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "Senin";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "Selasa";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "Rabu";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "Kamis";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "Jumat";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "Sabtu";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "Ngobrol dengan %@";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "Kosong";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "Tidak lebih dari %d karakter";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "Pesan";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "Kata kunci";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "Dengan masuk, Saya menyetujui";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "Syarat StarMe";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "Pilih mode login Anda";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "Masuk";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "Jaringan error";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "Memuat. Silakan tunggu...";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "Gagal masuk";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "Pengguna tidak terdaftar";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "Anda yakin untuk melaporkan orang ini?";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "Ikuti";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "Home";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "Bagikan ke";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "Mendapat 0 Bintang";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0 Orang";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "&d Orang";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "Mendapat %d Bintang";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "Siaran Selesai";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "Flip";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "Flash";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "Gagal untuk memuat";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "Anda yakin untuk membuka blokir?";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "Bersiaplah untuk tampil live.";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "Teman Anda:%@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "sedang siaran di %, datang dan bergabunglah!";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "Mars";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "Bintang: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "maaf, Anda tidak bisa mengikutinya sekarang";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "Saldo Saya";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "Pilih jumlah yang ingin dibeli:";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "Akun Penarikan";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "Harap diingat bahwa semua bagian yang kosong harus diisi dengan benar, atau penarikan akan gagal.";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "Nama keluarga:";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "Nama depan:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "Rekening:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "Nomor telepon:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "Menyetujui perjanjian penarikan";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "Menautkan akun Paypal Anda";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "Penarikan";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "Aplikasi disubmit";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "Akan ditransfer ke akun Anda dalam kurun waktu 15 hari dengan pengurangan pajak dan biaya sesuai dengan hukum yang berlaku";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "Akun paypal Anda:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "Jumlah:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "Jumlah Setelah Pengurangan";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "Pendapatan Saat Ini";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "Putuskan tautan";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "maaf, Anda hanya diperbolehkan melakukan penarikan sekali setiap 15 hari.";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "Anda harus memiliki saldo minimal $100 untuk penarikan.";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "Tidak cukup berlian. Dapatkan lebih banyak!";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "Salin";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "Halaman Utama";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "Bintang";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "Penarikan";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "Syarat Penarikan";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "Silakan sambungkan akun Anda untuk penarikan";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "Sambungkan";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "Perbaharui";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "aktif";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "Saran:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "Kirim";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "Terkirim: %1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "Nonton Sekarang: It\'s %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "Edisi terbaru ditemukan";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "Baiknya Anda!";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "Jaringan error";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "Saran berhasil!";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "Sedang mengunggah, harap tunggu.";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "Aplikasi sedang memperbaharui";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "Sedang memuat daftar, harap tunggu.";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "Sedang memuat, harap tunggu.";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "Pembelian berhasil:\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "Pembelian gagal akibat jaringan, silakan coba lagi nanti.";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "Silakan unduh [Google Play] sebelum mencoba untuk membayar.";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "Maaf, produk sudah dihapus dari katalog";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "Pembelian gagal:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "Foto profil";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "Jenis kelamin";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "Email";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "Pria";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "Wanita";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "Jenis kelamin Anda";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "I\'m LIVE! Gabung ke StarMe:%@ Sekarang!\nStarMe adalah aplikasi live streaming gratis untuk mengekspresikan diri Anda dan bertemu dengan penyiar berbakat lainnya.";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "Syarat";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "Peraturan";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "Peraturan pribadi";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "Ketik sesuatu..";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "Ikuti penyiar favorit Anda\nJangan ketinggalan!";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "Nama pengguna";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "Kata sandi";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "Daftar";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "Email";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "Registrasi";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "Lupa kata sandi Anda?";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "Masuk";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "Memuat";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "Registrasi gagal";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "Silakan masukkan email ";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "Masukkan nama pengguna";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "Masukkan kata sandi Anda";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "Email salah";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "Kata sandi harus lebih dari 6 huruf";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "Email sudah terdaftar";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "Kata sandi salah";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "Email tidak terdaftar";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@ sedang siaran sekarang di [StarMe]";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "Jenis kelamin";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "Apakah Anda yakin ingin melaporkan pengguna ini?";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "Jaringan error. Silakan hubungi customer service kami bila ada masalah. \n Hubungi kami di: support@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "Gagal memuat.";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "Memuat ulang.";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "Memuat ...";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "Tarik ke bawah untuk memuat ulang";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "Lepaskan untuk memuat ulang";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "Memuat ...";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "Masuk dengan";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "Menyambung ulang..";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "Jaringan error.";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "Jaringan error, Livestream dihentikan.";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "live";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "Konten yang vulgar, porno, tidak sehat seperti merokok sangat dilarang. Semua akun yang melanggar akan ditangguhkan. Admin akan terus memantau 24 jam.";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "1 berlian per komen";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "StarMe sistem pemberitahuan\nApakah Anda ingin menerima pemberitahuan langsung dari orang yang Anda ikuti?";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "Ya";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "Tidak";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@ membagikan siaran";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "Broadcast diri Anda sendiri";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "kata sandi tidak lebih dari 16 karakter";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "Geser untuk membatalkan pemblokiran";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "Geser untuk menghapus";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "Hapus";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "tidak ada hasil untuk /\"%@/\"";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "Berhasil dilaporkan";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "Akun ada telah masuk dengan perangkat lain dan keluar dari sini.";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "Bagikan ke:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "Nyala";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "Mati";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "Anda masih memiliki perintah untuk disetujui, lihat dan ambil tindakan!";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "Berhasil!";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "Error";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "Berhasil dibagikan";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "Gagal dibagikan";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "pindahkan ke atas untuk memuat lebih";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "Kirim";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "Terkirim.";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "Kode Verifikasi";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "Kata sandi Baru";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "konfirmasi baru";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "email tidak terdaftar";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "lupa kata sandi Anda?";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "terkirim";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "kode verifikasi";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "kata sandi baru";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "konfirmasi kata sandi";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "kata sandi salah";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "harap isi yang kosong";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "berhasil!";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "reset";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "kirim ulang";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "nyala";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "mati";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "Jauh dari channel, kembali lagi nanti.";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "kurang dari 30 menit, tidak dapat disimpan.";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "Siaran telah disimpan untuk diputar ulang";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "ingin menghapusnya?";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "sedang berlangsung, datang dan bergabung!";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "Kirim";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "Jaringan error";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "kode salah";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "Pengaturan ulang kata sandi gagal";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "Sistem meminta Anda untuk menyalakan GPS";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "Pengaturan";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "Nyalakan";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "Matikan";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "Flip";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "Klik di sini dan mulai siaran";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "Email tidak terdaftar";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "Pesan tidak dapat dikirim";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "error";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "Gagal";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "Berhasil!";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "Reset";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "Dengan melakukan siaran langsung, Anda diharapkan mematuhi";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "Beri tahu kami apa yang Anda pikirkan";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "Silakan masukkan email yang valid";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "Bintang";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "Beauty Magic";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "Untuk mengganti kata sandi, silakan masukkan email Anda yang terdaftar. Email akan dikirimkan.";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "Peraturan StarMe";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "Geser ke kanan untuk membersihkan layar";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "Geser ke atas atau bawah untuk mengganti ruangan";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "Bintang";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "Untuk menggunakan kamera pada aplikasi ini, pergi ke 'pengaturan' dan nyalakan 'StarMe' Kamera.";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "pergi sebentar, akan kembali lagi nanti";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "Fungsi Bullet Screen";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "Untuk menggunakan kamera pada aplikasi ini, buka 'pengaturan' > 'StarMe' dan nyalakan Kamera.";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "Tidak dapat menggunakan microphone";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "Untuk menggunakan microphone pada aplikasi ini, buka 'pengaturan' > 'StarMe' dan nyalakan Microphone";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "Versi baru ditemukan, perbaharui sekarang!";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "Reset";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "Kirim ulang";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "kata sandi tidak cocok";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "Tidak dapat menggunakan kamera";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "Kartu Telepon";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "Pilih Metode Pembayaran";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "True Money";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12CALL";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "HAPPY";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "Pilih jenis kartu pembayaran:";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "Kartu pembayaran digunakan";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "Password tidak terdaftar";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "Kartu ATM melampaui batas waktu";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "Anda tidak bisa membayar melalui Line sampai mendapatkan izin";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "Line Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "Broadcast berada di lv.2! Ajak yang lainnya!";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "Server sedang lambat, silakan coba lagi nanti";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "Line";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "Jaringan buruk, ubah ke kualitas SD";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "Jaringan sempurna, ubah ke kualitas HD";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "Perhatian! Penyiar memiliki jaringan buruk sekarang!";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "Versi ini sudah tidak dapat digunakan, silakan unduh versi terbaru.";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "Admin";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "daftar admin";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "Mute";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "Harap install Line terlebih dahulu";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "Layanan Pelanggan:";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "OK";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "Anda dilarang siaran secara permanen karena pelanggaran serius";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "Anda sementara ditangguhkan selama satu hari karena pelanggaran";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "Harap mematuhi peraturan pada acara Anda berikutnya.";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "Syarat StarMe";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "Nonton:%@ live streaming! Tonton di StarMe SEKARANG!";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "Konten yang Anda streaming saat ini telah melanggar peraturan StarMe";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "Pengguna akan ditangguhkan sementara selama satu hari";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "Pengguna akan dilarang siaran secara permanen";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "Adanya pelanggaran lain dapat berdampak pada larangan permanen";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "Siaran berakhir dikarenakan pelanggaran peraturan";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "Untuk menggunakan microphone pada aplikasi ini, buka 'pengaturan' > 'StarMe' dan nyalakan Microphone.";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "Siaran berakhir dikarenakan pelanggaran peraturan, akun sementara ditangguhkan selama satu hari, bila terjadi pelanggaran lain akan berdampak pada larangan permanen.";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "Siaran berakhir dikarenakan pelanggaran peraturan, akun telah dilarang secara permanen.";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "Akun sementara ini ditangguhkan selama satu hari, silakan coba lagi nanti, patuhi peraturan saat streaming berikutnya:";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "Akun Anda telah dilarang secara permanen untuk streaming.";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "FAQ";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "Jaringan buruk, \nubah ke kualitas SD";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "Pertanyaan yang sering ditanyakan";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "Pertanyaann Terkait Isi Ulang";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "Pertanyaan Terkait Streaming";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "Pertanyaan Terkait Akun";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "Pertanyaan Terkait Keluhan";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "Beri peringkat bintang 5?";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "Tentu saja!";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "Saya tidak bisa";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "Bantu saya untuk lebih baik";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "Belum ada tayangan ulang";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "Hanya streaming lebih dari 30 menit yang dapat disimpan";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "Bakat Anda menanti untuk ditampilkan";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "Semakin sering Anda siaran, semakin besar kesempatan Anda bertemu dengan fans!";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "Pilih foto profil dengan baik untuk menarik penonton lebih banyak";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "Pilih dari album";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "Klik di sini untuk memulai siaran";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "Beri tahu fans Anda setiap saat Anda siaran!";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "Telepon Anda sebaiknya memiliki pengaturan kotak surat, silakan atur melalui pengaturan - iCloud Drive.";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "Beri tahu fans Anda setiap saat Anda siaran!";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "Silakan atur kamera Anda";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "Pilih foto profil dengan baik untuk menarik penonton lebih banyak.";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "Dengan mengirimkan hadiah, Anda meningkatkan popularitas penyiar dan bintang!";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "Bakat Anda menanti untuk ditampilkan";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "Semakin sering Anda siaran, semakin besar kesempatan Anda bertemu dengan fans!";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "Bakat ini menanti untuk ditampilkan";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "Jadilah pengikut super dengan mengirimkan hadiah!";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "Tidak tertarik dengan siapapun?";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "Tonton siaran, temukan penyiar menarik, ikuti dan jangan lewatkan semua konten mereka";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "Tonton siaran yang menarik";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "Belum ada balasan";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "Hanya streaming lebih dari 30 menit yang dapat disimpan";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "Sistem sedang mempersiapkan...";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "Selamat datang kembali! Ingin tetap streaming?";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "Daftar admin";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "Mute";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "Hapus sebagai admin";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@ telah dipilih sebagai admin channel";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@ telah dimute";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "Operasi gagal, silakan coba lagi";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "Operasi gagal, silakan coba lagi";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "Operasi gagal, silakan coba lagi";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@ telah kehilangan hak sebagai admin";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "Tambahan berlian: %@";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "Jaringan bermasalah";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "Akun terhubung";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "Tidak tersambung";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "Memutuskan sambungan";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "Akun Anda";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "Kenapa menghubungkan akun Anda dengan sosial media?";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "Anda dapat secara otomatis mengirimkan post ke akun Facebook atau Twitter setiap kali Anda menekan Go Live!";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "Anda dapat menggunakan akun sosial media lain untuk masuk, tetapi selalu gunakan ID StarMe yang sama!";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "Saat Anda menautkan ID StarMe dengan email atau akun sosial media, Anda bisa membatalkan atau mengedit tautan ini di lain waktu. Namun, harap pastikan jika ID Anda terhubung dengan setidaknya salah satu media di atas. Lebih lanjut, harap diingat bahwa satu akun email atau sosial media tidak dapat terhubung dengan lebih dari satu akun ID StarMe.";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "Penonton telah memberikan Anda hadiah! Jangan lupa berterima kasih kepadanya!";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "Tambahkan";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "Anda telah dimute";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "Jaringan bermasalah";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "Tersambung";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "Pengguna dimute, tidak dapat menjadi admin";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "Hapus admin";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "Hapus status admin?";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "Berhasil terhubung";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "Gagal terhubung";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "Akun sudah terhubung";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "Gagal untuk memutuskan hubungan";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "Tidak dapat memutuskan hubungan, setidaknya satu akun harus terhubung";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "Lihatlah gaya hidup unik dari berbagai belahan dunia!";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMe akan menunjukkan gaya hidup unik dari seluruh dunia!";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "Banyak selebriti di StarMe, kunjungi dan lihatlah sendiri!";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "Tidak tertarik?";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "Di bawah ini adalah beberapa penyiar keren!";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "Selesai";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "Ikuti sekarang, tidak akan melewatkan acara lainnya!";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "Kirimkan pesan Anda dengan menggunakan fungsi bullet screen!";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "Versi terbaru tersedia!";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "Fitur lebih banyak tersedia pada versi terbaru, perbaharui untuk pengalaman lebih baik!";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "Segera diperbaharui";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "Silakan tunggu";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "Keuntungan";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "Riwayat";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "Bintang saat ini";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "Daftar penarikan tunai";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "Penarikan tunai";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "Penarikan tunai gagal";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "Transaksi sebelumnya masih belum lengkap";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "Kategori ini tidak dapat dikosongkan";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "Aplikasi penarikan tunai sudah disubmit";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "Jumlah penarikan tunai:";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "Konfirmasi";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "Isi informasi akun";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "Simpan";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "Informasi pribadi";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "Nama lengkap";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "Nomor telepon";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "Alamat rumah";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "Nomor tanda pengenal";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "Detail akun";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "Nama Bank";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "Pemilik Akun";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "Nomor rekening Bank:";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "Alamat Bank";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "Nama cabang Bank (cabang dimana Anda membuat akun Anda)";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "Informasi persetujuan";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "Agensi Anda:";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "Persentase komisi yang diterima agensi Anda adalah:";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "Sudahkah Anda menandatangani kontrak dengan StarMe?";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "Penyimpanan berhasil";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "Penarikan tunai berhasil";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "Sedang diproses...";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "Verifikasi gagal";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "Peraturan penarikan tunai";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "Anda dapat mendaftar penarikan tunai kapan saja, namun, Anda harus menunggu hingga aplikasi Anda diproses sebelum mendaftar untuk berikutnya.";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "Rekaman live stream";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "Tidak ada rekaman live stream saat ini";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "Pembelian Anda sebelumnya tidak berhasil, ulangi?";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "Waktu kalkulasi";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "Rata-rata pengguna bersamaan";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "Submit";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "Catatan penarikan tunai";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "Bila ingin membagikan siaran Anda ke %@, Anda harus terhubung ke akun StarMe terlebih dahulu";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "Anda tidak lagi menjadi admin";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "Anda telah dipilih sebagai admin";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "Bagian ini tidak dapat dikosongkan";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "Harap pilih metode pembayaran";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "Masukkan nomor kartu Anda";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "Verifikasi kartu prabayar gagal";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "Kartu prabayar telah digunakan untuk isi ulang";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "Pilih metode pembayaran kartu prabayar";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "Masukkan nomor serial";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "Kartu prabayar";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "Gunakan kartu prabayar";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "Tidak dapat mengisi ulang";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "Tidak ada catatan tersedia saat ini";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "Lihat hashtag lebih banyak";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "Leaderboard";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "Mingguan";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "Keseluruhan";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "tekan utk pesan cepat";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "Anda dapat mendaftar penarikan tunai bila memperoleh 40.000 bintang";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "Setiap penarikan tunai menggunakan bintang harus dikalikan 10.000";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "Inisialisasi data";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "Berhasil! Laporan sedang ditinjau";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "Hapus streamer ini dari umpan?";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "Vulgar atau Pornografi";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "Ilegal atau Diskriminasi";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "Foto profil ilegal";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "Lainnya";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "Akun terdaftar. Masuk";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "Hadiah";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "Selamat! Anda mendapatkan %d berlian biru untuk dibagikan";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "Trending - Dunia";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "Lihat halaman Facebook";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "Lihat halaman Twitter";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "Anda telah menonaktifkan pemberitahuan aplikasi, aktifkan untuk memastikan Anda tidak melewati konten terbaik?";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "Tersedia sekarang!";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "Mungkin nanti";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "Jangan ditampilkan kembali";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "Anda telah menonaktifkan pemberitahuan aplikasi, aktifkan untuk memastikan Anda tidak melewati konten terbaik?";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "Harap lengkapi email Anda agar kami dapat menghubungi Anda";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "Lebih banyak";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "Masuk ke Kakao";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "Masuk ke VK";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "Bagikan kepada teman";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "Harap install Kakao terlebih dahulu";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "Permintaan Pertemanan Facebook";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "Tidak ada konten yang tersedia saat ini";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "Tidak ada akun Twitter yang terhubung";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "Anda belum tersambung ke akun Twitter, Anda dapat menambahkan akun Twitter pada halaman profil, di bawah \"Pengaturan\"";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "Otorisasi Kakao gagal";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "Selamat! Anda mendapatkan gratis labu!";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "Berikan kepada penyiar favorit Anda!";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "Rincian Acara";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "Anda telah kehabisan labu.. Anda dapat membeli lebih banyak di bagian hadiah!";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "Tingkat";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "Menerima exp dengan menonton streamer dan berinteraksi dengan mereka /nMenerima lebih banyak exp dengan memulai streaming sendiri /nTidak dapat menunggu? Naik tingkat lebih cepat dengan mengirimkan hadiah";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "Simbol status khusus";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "Peringkat di depan antrian di ruang streaming";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "Keluar dari efek khusus";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "Ikuti streamer, tidak pernah ketinggalan live streaming lain";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "Mengobrol dengan streamer";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "Menyukai streamer ini? Kirim beberapa hadiah kecil untuk menunjukkannya!";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "Ajak teman untuk menonton bersama";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "% S telah memasuki ruangan, menyapalah";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "Ingatlah untuk berterima kasih kepada penonton";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "Ingatkan audiens Anda bahwa mereka dapat mengikuti Anda dengan mengklik gambar profil Anda";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "Masuk";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "Sebuah sinar lampu emas berkedip, %@ telah memasuki ruangan!";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "dekat";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "Streamer yang Anda ikuti belum memulai streaming";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "%@ otorisasi akun telah berakhir, silakan kembali diotorisasi";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "Kami berterima kasih atas dukungan Anda, ini hadiahnya %d berlian! Selamat menikmati!";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "Asisten StarMe: Selamat dating di StarMe dimana Anda dapat bertemu teman-teman, mendapatkan pengikut, dan mendapatkan hadiah serta uang tunai";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "Asisten StarMe: Untuk menjadi popular, pastikan Anda memiliki koneksi internet yang stabil, pencahayaan yang baik dan topic yang menarik";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "Asisten StarMe:Ajak teman-teman  Anda dan berbagi stream Anda ke jaringan sosial lainnya untuk meningkatkan penonton Anda";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "Asisten StarMe: Ucapkan salam kepada pengguna baru yang telah memasuki ruangan, berterima kasih kepada mereka untuk mengirimkan Anda hadiah dan menyukai Anda. Tingkatkan popularitas Anda melalui interaksi dengan mereka";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "Asisten StarMe:Anda dapat memeriksa streaming unggulan untuk mempelajari apa yang mereka lakukan selama streaming sebagai ide";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "Gambar profil yang jernih menarik lebih banyak fans";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "Ini dia! Saya memilih yang ini!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "Otorisasi Ulang";

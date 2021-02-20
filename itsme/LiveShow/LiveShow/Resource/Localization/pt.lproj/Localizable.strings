@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: pt, Portuguese
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "Configurações";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "Seguir";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "Popular";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "Novo";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "Ao Vivo";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "Seguindo";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "Replays";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = " Recomendado";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "Replay";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "Títulos com tags são mais fáceis de encontrar";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "Ficar Ao Vivo";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "Ao Vivo";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "Estrela";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d Exp";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "Comprar:";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "Enviar";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "Não seja tímido, faça uma breve introdução pessoal!";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "Enviado";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "Ao Vivo";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "Seguindo";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "Seguidores";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "Mensagem";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "Seguir";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "Bloquear";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "Seguindo";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "Nenhum amigo ao vivo agora!";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "Descubra Novos Vídeos Ao Vivo";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "0 Replays";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "Novo";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "Quente";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "Não há vídeos disponíveis";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "Não interessado em ninguém(╯^╰)";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "Sem seguidores ainda T-T";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "Nome de Usuário";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "Humor";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "Sobre nós";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "Meu Balanço";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "Comprar";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "Nível";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "Configurações";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "Deslogar";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "Convidar";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "Super Seguidores";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "Configurações de Notificações";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "Sobre nós";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "Deixar feedback";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "Lista Negra";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "Editar Perfil";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "Deslogar";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "Mensagem de Alertas Ao Vivo";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "Desligar notificações";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "Editar perfil";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "Foto de Perfil";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "Tirar Foto";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "Álbuns";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "Estrela";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "Meu Balanço";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "Montante disponível hoje";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = " Trocar";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "Retirar";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "FAQ";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "Confirmar";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "Retirar para WeChat";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "Conta:";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "Aplicação enviada, por favor, verifique  o WeChat";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "Completo";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "As transferências podem demorar até 24 horas";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "Valor Total:";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "Balanço:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "Lucro";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "Retirada com sucesso!";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "Total Retirado:";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "Registros";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "Falha de conexão!";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "Verificado:%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "Seguindo:%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "Enviado:%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "Seguidores:%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "Estrelas:%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "Seguir";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "Seguidores";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "Ao Vivo";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "Pesquisar nome ou id";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "Pesquisar";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "Seguidor";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "Responder";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "Mensagem";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "Home";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "Reportar";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "Enviar%1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "Estrela";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "Gerenciar";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "Por favor, selecione um metodo de pagamento";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "WeChat Pay";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "Grátis";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "Se você tiver qualquer problema, entre em contato com 'meepay' via WeChat";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0 Moedas";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "Bônus 0 Diamantes Azul";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "Ignorar";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "Nenhuma mensagem de seguidores, vá e fale com eles!";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "Garfield00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "Contribuir com %1$d Estrelas";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "Envie mais presentes para subir no rank";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "Mais";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "Carregando...";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "N°.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "Seguindo";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "Minhas Gravações";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "Seguindo ";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "Desbloquear";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "Salvar";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "enviar um(a)";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "Combo";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "Lembrete";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "Cancelar";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "Confirmar";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "Terminar Transmissão?";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "Você tem certeza que quer bloquear?";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "Sala de Chat";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ Zone";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "Weibo";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "Momentos";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "Assinatura";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "Não mais que 32 caracteres";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "Nome de Usuário não mais que 16 caracteres";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "Nome de Usuário contém caracteres ilegais";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "Nome de Usuário tem mais que 16 caracteres";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "Nome de Usuário existente. Por favor, tente outro.";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "Nome de Usuário";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "Palavra sensível utilizado";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "Sucesso!";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "Pessoas";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "Amigos";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "Estranhos";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "Falhou...";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "Enviar";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "Teclado";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "Enviar";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "Agora mesmo";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "minuto(s) atrás";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "hora(s) atrás";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "Ontem";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "dias(s) atrás";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "Domingo";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "Segunda";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "Terça";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "Quarta";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "Quinta";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "Sexta";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "Sábado";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "Chat com %@ ";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "Vazio";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "Não mais que %d caracteres";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "Mensagens";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "Palavra chave";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "Logue depois de concordar com";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "StarMe Termos";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "Escolha o seu modo de login";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "Registrar";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "Erro de rede";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "Carregando. Por favor, aguarde...";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "Login falhou";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "Usuário inexistente";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "Tem certeza de que quer denunciar esta pessoa?";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "Seguir";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "Principal";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "Compartilhar";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "Ganhou 0 Estrelas";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0 Pessoas";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "%d Pessoas";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "Ganhou %d Estrelas";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "Transmissão finalizada";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "Flip";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "Flash";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "Falhou ao carregar";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "Tem certeza que deseja desbloquear?";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "Prepare-se para ficar ao vivo.";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "Seu amigo: %@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "está transmitindo em %@, venha e junte-se!";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "Marte";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "Estrelas: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "Desculpe, você não pode seguir ele(a) agora.";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "Meu Balanço";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "Selecione o montante da compra: ";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "Retirado da Conta";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "Por favor, note que todos os espaços em branco devem ser preenchidos e corretamente, ou não pode ser retirado.";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "Sobrenome:";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "Nome:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "Conta:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "Número de Celular:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "Visto e aceito os termos de retirada";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "Conectar sua conta Paypal";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "Retirada";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "Aplicação enviada";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "Isso deverá ser transferido para sua conta dentro de 15 dias com certa dedução dos impostos e taxa com base nos requisitos da lei.";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "Sua conta Paypal:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "Total:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "Total Atual:";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "Receitas Correntes";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "Desconectar";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "Desculpe, você só pode aplicar a cada 15 dias.";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "Desculpe, você não pode aplicar até sua receita atingir pelo menos $100.";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "Diamantes insuficientes, por favor, carregue.";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "Copiado";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "Principal";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "Estrela";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "Retirar";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "Regras de retirada";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "Por favor conecte uma conta para sua retirada.";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "Conectar";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "Atualizar";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "ativou";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "Feedback:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "enviou um";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "Enviou：%1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "Assista agora: It's %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "Nova edição econtrada";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "Você é uma pessoa legal!";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "Erro na rede";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "Feedback Enviado!";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "Upando, por favor aguarde.";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "Atualizando aplicação";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "A lista está carregando, por favor aguarde.";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "Carregando, por favor aguarde.";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "Comprado com sucesso:\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "Falha na compra com a rede atual, por favor tente novamente.";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "Por favor baixe [Google Play] antes de tentar carregar.";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "Desculpe, o produto foi removido do catálogo.";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "Falha na compra:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "Foto do Perfil";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "Gênero";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "Email";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "Masculino";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "Feminino";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "Seu sexo";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "Estou AO VIVO! Vem comigo no StarMe: %@ Agora mesmo!\nStarMe é um app grátis de streaming ao vivo para você mostrar quem você é e descobrir talentos.";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "Termos";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "Regras";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "Privacidade";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "Diga alguma coisa";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "Siga o broadcaster que você gosta\nNão perca nenhum momento maravilhoso";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "Nome de usuário";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "Senha";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "Registrar";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "Email";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "Registro";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "Esqueceu a senha?";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "Login";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "Carregando";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "Registro falhou";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "Por favor digite seu email.";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "Por favor digite seu nome de usuário.";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "Por favor digite sua senha.";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "Email inválido ";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "Senha deve ter mais que 6 letras.";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "Email existente.";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "Senha incorreta";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "Conta não registrado.";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@ está transmitindo no [StarMe]";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "Gênero";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "Tem certeza que quer reportar o usuário?";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "Erro na rede. Por favor contate nosso serviço ao cliente se o seu produto estiver faltando. \n Contate-nos: support@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "Carregamento falhou.";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "Recarregar.";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "Carregando...";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "Desça para atualizar";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "Solte para atualizar";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "Carregando...";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "Logar com";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "Erro de rede. Reconectando...";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "Erro de rede. Parando de assistir.";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "Erro de rede. Live finalizada.";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "ao vivo";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "Mantenha suas transmissões e chat amigáveis, #Obrigado! Quebrar as regras podem suspender sua conta.";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "1 diamante de cada vez.";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "Sistema de notificações do StarMe \n Você quer receber notificações de lives uma vez que você seguir?";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "Sim";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "Não";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@ compartilhou a stream";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "Transmita você mesmo";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "senha não pode ter mais que 16 caracteres";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "Deslize para cancelar bloqueio";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "Deslize para deletar";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "Deletar";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "sem resultado para \”%@\”";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "Reportado com sucesso";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "Sua conta foi logada em outro dispositivo e deslogou daqui.";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "Compartilhar para:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "On";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "Off";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "Você ainda tem um pedido para aprovar, vá e tome alguma medida!";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "Sucesso!";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "Erro";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "Compartilhado com sucesso";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "Compartilhamento falhou";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "Arraste pra cima para carregar mais";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "Enviar";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "Enviado.";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "Código de Verificação";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "Nova Senha";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "Confirmar novo";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "Email não registrado";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "esqueceu sua senha?";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "Enviado.";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "código de verificação";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "nova senha";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "confirmar senha";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "senha incorreta";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "por favor preencha o espaço em branco";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "sucesso!";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "Resetar";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "Reenviar";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "on";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "off";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "Ausente do canal, volto logo.";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "menos de 30 min, não pode ser salvo.";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "A live foi salva nos replays,";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "deseja deletar?";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "está AO VIVO, venha você também!";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "enviar";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "erro de rede";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "código errado";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "resetar senha falhou";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "Sistema deve ligar o serviço de localização.";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "Configuração";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "On";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "Off";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "Flip";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "Clique aqui e fique ao vivo.";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "Email não registrado.";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "O email não pode ser enviado.";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "erro";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "Falhou";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "Sucesso!";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "Resetar";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "Ficar ao vivo com aprovação das";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "Deixe-nos saber o que você acha";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "Por favor deixe seu email de contato.";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "Recebido";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "Beleza Mágica";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "Para resetar sua senha, por favor digite seu email.\n Um email será enviado.";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "Regras do StarMe";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "Deslize para direita para limpar a tela";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "Deslize para cima ou para baixo para mudar de canal";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "Estrela";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "Use a câmera nesse app, abra 'Configurações' e ligue em 'StarMe' Câmera.";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "deixe um momento, voltar logo";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "Comentário ao vivo";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "Use a câmera nesse app, abra 'Configurações' > 'StarMe' e ligue a Câmera.";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "Microfone não pode ser usado";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "Use o microfone nesse app, abra 'Configurações' > 'StarMe' e ligue o Microfone.";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "Nova versão encontrada, atualize agora!";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "Resetar";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "Reenviar";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "senha não correspondem";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "Não usar Câmera";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "Cartão";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "Selecione o Método de Pagamento";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "True money";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12CALL";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "HAPPY";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "selecione o tipo de cartão:";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "Cartão usado";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "Senha não existe";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "Cartão em atraso";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "Você não pode pagar via LINE até que autorize a permissão.";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "Line Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "Transmissão no Nv.2!\nEnvolva-se com os outros primeiro!";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "O servidor precisa descansar,\npor favor tente depois.";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "Line";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "Conexão ruim,\n mudando para qualidade SD";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "Conexão perfeita,\n mudando para qualidade HD";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "Atenção!\n Conexão ruim com o broadcaster!";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "Esta versão não é mais utilizavel,\nPor favor baixe a versão mais recente";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "autorizar";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "lista de admin";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "Silenciar";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "Por favor, instale Line primeiro";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "Serviço ao cliente:";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "OK";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "Você não está permitido de fazer transmissão por quebrar seriamente nossos termos.";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "Você está sob restrição por quebrar os nossos termos, por favor tente 1 dia depois.";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "Por favor cumpra os termos no seu próximo show.";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "Termos do StarMe";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "assistindo: %@ na stream ao vivo! Sintonize no StarMe AGORA!";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "O conteúdo que você está streamando viola as regras do StarMe";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "Usuário será suspenso temporariamente de streamer por um dia";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "Usuário foi banido de streamar permanentemente";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "Outra violação pode resultar em uma proibição permanente";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "Stream fechada por violar as regras";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "Use o microfone nesse app, abra 'Configurações' > 'StarMe' e ligue o Microfone.";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "Transmissão finalizada por violar as regras, conta temporariamente suspensa de transmitir por um dia, outra violação pode resultar em punição permanente.";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "Transmissão finalizada por violar as regras, conta foi banida permanentemente.";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "Conta foi suspensa temporariamente de streamer por um dia, por favor tente novamente mais tarde, cumpra as regras e regulamentos quando você fizer sua próxima Transmissão.";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "Sua conta foi banida permanentemente de fazer transmissão.";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "FAQ";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "Rede ruim,\nmudando para qualidade SD";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "Perguntas Mais Frequentes";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "Questões Relacionadas a Recarga";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "Questões Relacionadas a Transmissão";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "Questões Relacionadas a Conta";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "Questões Relacionadas a Reclamações";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "Avaliar com 5 estrelas?";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "Claro!";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "Não posso";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "Me ajudar a melhorar";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "Sem replay ainda";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "Somente transmissões com mais de 30 min podem ser salvas";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "Seu talento está esperando para ser descoberto";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "Quanto mais você transmitir, melhor suas chances de ser descoberto por fãs incondicionais!";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "Escolha a foto do perfil com cuidado para atrair mais espectadores.";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "escolher álbum";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "clique aqui para começar suas transmissões";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "Notifique seus fãs sempre que você transmitir";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "O telefone deve configurar uma caixa de email, por favor configure via Configurações - iClould Drive.";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "Notifice seus fãs sempre que você transmitir!";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "Por favor defina sua câmera";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "Escolha a foto do perfil com cuidado para atrair mais espectadores.";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "Através do envio de presentes, você aumenta a popularidade e Estrelas do streamer!";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "Seu talento está esperando para ser descoberto";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "Quanto mais você transmitir, melhor suas chances de ser descoberto por fãs incondicionais!";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "Esse talento está esperando para ser descoberto";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "Seja um super seguidor enviando presentes!";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "Sem interesse em ninguém?";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "Assistir a transmissões, descubra o broadcaster perfeito,\nsiga-os e nunca perca um segundo do seu conteúdo";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "Assistir a lives incríveis";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "sem replay ainda";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "Somente transmissões com mais de 30 min são salvas";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "Preparando sistema...";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "Bem vindo de volta! Quer continuar transmitindo?";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "Lista de Admin";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "Silenciar";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "Cancelar";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@ foi designado como admin do canal";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@ foi silenciado.";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "A operação falhou, tente novamente";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "A operação falhou, tente novamente";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "A operação falhou, tente novamente";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@ perdeu os privilégios de admin";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "Diamantes extras: %@";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "Conexão Avariada";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "Contas Conectadas";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "Não conectado";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "Desconectar";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "Sua Conta";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "Por que conectar sua conta com a mídia social?";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "Você pode enviar automaticamente um post na sua conta do Facebook ou Twitter cada vez que você pressionar ao vivo!";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "Você pode usar diferentes contas de mídia social para acessar, mas sempre manter o mesmo ID StarMe!";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "Uma vez que você linkar o seu ID StarMe a um e-mail ou conta de mídia social, é possível cancelar ou editar esta associação no futuro. No entanto, certifique-se de que seu ID está linkado a pelo menos uma das plataformas acima. Além disso, observe que um único e-mail ou conta de mídia social não pode ser associado a mais de um ID StarMe.";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "Um espectador enviou um presente! Lembre-se de agradecer ele!";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "Adicionar";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "Você foi silenciado.";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "Conexão Avariada";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "Conectar";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "Usuário silenciado, não é possível definir como admin.";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "Remover admin";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "Remover status de admin?";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "Conectado com sucesso";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "Falha ao conectar";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "Conta foi conectada";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "Falha para desconectar";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "Não é possível desconectar, pelo menos, uma conta deve estar conectada.";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "Venha dar uma olhada em estilos de vida únicos de todo o mundo!";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMe mostra estilos de vidas únicos em volta de todo mundo!";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "Muitas celebridades estão no StarMe, veja você mesmo!";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "Não interessado em anda?";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "Abaixo alguns broadcasters do StarMe";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "Pronto";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "Siga agora, nunca mais perca um show!";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "Passar a sua mensagem usando a função de bala na tela!";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "Atualização de versão disponível!";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "Mais recursos disponíveis na versão atualizada, atualize para uma experiência ainda melhor!";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "Atualize imediatamente";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "Por favor aguarde";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "Lucro";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "Histórico ";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "Estrelas atuais";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "Aplicar para retirada de dinheiro";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "Retirada de dinheiro";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "Retirada de dinheiro falhou";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "A transação anterior ainda está incompleta";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "Essa categoria não pode deixar em branco";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "Aplicação de retirada de dinheiro enviada";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "Total de retirada de dinheiro:";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "Confirmar";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "Preencha as informações da conta";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "Salvar";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "Informações pessoais";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "Nome completo";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "Número de Telefone";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "Endereço residencial";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "Número de Identificação";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "Detalhes da Conta";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "Nome do Banco";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "Nome do Beneficiário ";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "Número da Agência";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "Endereço da agência";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "Nome agência bancária (o ramo onde você abriu a sua conta)";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "Informações de contrato";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "Sua agência:";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "O percentual de comissão que sua agência irá receber é:";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "Você já assinou o contrato com o StarMe?";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "Salvo com sucesso";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "Retirada de dinheiro com sucesso";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "Processando...";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "Verificação falhou";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "Regras de retirada de dinheiro";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "Você pode aplicar para retirada de dinheiro a qualquer momento, no entanto, você deve esperar a sua aplicação atual ser processada antes de aplicar a próxima.";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "Lives gravadas";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "Não há registros de transmissão ao vivo no momento";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "Sua compra anterior não foi bem sucedida, tente novamente?";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "Tempo calculado";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "Média de Usuários Simultâneos";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "Enviado";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "Retirada de dinheiro gravadas";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "Se você gosta de compartilhar suas streams no %@, conecte essa conta com o StarMe primeiro";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "Você não é mais um admin";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "Você foi designado como admin";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "Esta seção não pode ficar em branco";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "Selecione o método de pagamento";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "Digite seu número do cartão";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "Prepaid card verification failed";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "Prepaid card already used for recharge";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "Select prepaid card payment method";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "Input serial no.";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "Prepaid card";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "Use prepaid card ";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "Unable to complete recharge";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "Não há registros disponíveis atualmente";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "Ver mais hashtags";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "Classificação";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "Semanal";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "Geral";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "Segure p/ msg rápida";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "Você pode começar a aplicar para saques em dinheiro quando chegar a 40.000 Estrelas";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "Cada retirada de dinheiro usando estrelas devem ser múltiplos de 10.000";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "app iniciando dados";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "Sucesso! Relatório a ser revisado";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "Remover esse streamer do seu feed?";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "Vulgar ou Pornografia";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "Ilegal ou Discriminação";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "Imagem de perfil ilegal";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "Outro";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "Conta registrada. Logar";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "Prêmio";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "Parabéns! Você recebeu %d diamantes azuis por compartilhar";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "Tendência";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "Ver Facebook";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "Ver Twitter";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "Você atualmente desativou as notificações de live stream, ativar para ter certeza que você não vá perder nenhum dos melhores conteúdos?";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "Ativar agora!";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "Mais tarde";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "Não mostrar novamente";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "Você atualmente desativou a notificação do app, ativar para ter certeza que você não vá perder nenhum dos melhores conteúdos?";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "Por favor providencie seu email para entrarmos em contato";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "Mais";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "Login com Kakao";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "Login com VK";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "Compartilhar para um amigo";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "Por favor, instale Kakao primeiro";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "Pedido de Amigo do Facebook";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "Sem conteúdo atualmente disponível";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "Nenhum Twitter conectado";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "Você ainda se conectou com uma conta do Twitter, você pode adicionar uma conta do Twitter no seu página de perfil, em \"Configurações\"";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "Autorização Kakao falhou";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "Parabéns! Você recebeu uma Abóbora grátis!";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "Dê para seu broadcaster favorito!";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "Detalhes do Evento";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "Você não tem Abóboras. Você pode comprar mais na seção de presentes!";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "Nível";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "Receba experiência ao assistir streamers e interagir com eles /nReceba ainda mais experiência fazendo uma live você mesmo /nNão aguenta esperar? Suba de nível rápido enviando presentes";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "Símbolo de status especializado";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "Classificação na frente da fila na sala de live";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "Efeito especial de saída";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "Siga streamer, nunca perca outra stream ao vivo";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "Tenha um chat com o streamer";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "Gosta do streamer? Envie alguns pequenos presentes para mostrar isso!";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "Convite um amigo para assistir";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@ entrou na sala, diga oi!";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "Lembre-se de agradecer seu público";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "Lembre seu público de que eles podem segui-lo clicando na sua foto de perfil";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "Entrar";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "Um raio de luz dourado pisca, %@ entrou na sala!";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "Próximo";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "Os streamers que você seguiu ainda não começaram a transmitir";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "autorização de conta %@ expirou, por favor re-autorize";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "Agradecemos seu apoio contínuo, aqui está uma recompensa de %d diamantes! Aproveite!";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "Assistente StarMe: Bem vindo ao StarMe, onde você pode encontrar amigos, ganhar seguidores e ganhar presentes e prêmios em dinheiro";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "Assistente StarMe: Para se tornar popular, tenha certeza que você tem uma conexão de internet estável, boa iluminação e um tema envolvente";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "Assistente StarMe: Convide seus amigos e compartilhe suas streams em outras redes sociais para aumentar seus espectadores";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "Assistente StarMe: Diga oi para novos usuários que entrarem na sala, obrigado para os presentes enviados e nos toques de gostei. Aumente sua popularidade com engajamento.";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "Assistente StarMe: Você pode verificar as streams em destaque para saber o que os outros estão fazendo durantes as lives para ter ideias ";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "Imagens de perfil claras atraem mais fãs";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "É isso! Eu escolho este!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "Reautorizar";

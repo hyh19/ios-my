@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: th, Thai
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "ตั้งค่า";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "ติดตาม";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "ยอดนิยม";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "ใหม่";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "ถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "ติดตาม";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "เริ่มเล่นใหม่";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "แนะนำ";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "เริ่มเล่นใหม่";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "ไตเติลที่มีแท็กจะช่วยให้ค้นหาง่ายขึ้น";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "เริ่มถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "ถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "บลูไดมอนด์";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d ยกเว้น";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "เติมเงิน:";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "ส่ง";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "อย่าอาย, แนะนำตัวเองหน่อยน่ะ!";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "ส่งไปแล้ว";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "ถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "ติดตาม";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "ผู้ติดตาม";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "จดหมายส่วนตัว";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "กดเป็นแฟน";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "บล็อก";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "เป็นแฟนแล้ว";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "ไม่มีเพื่อนถ่ายทอดสดในขณะนี้!";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "ค้นหารายการถ่ายทอดสดใหม่";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "เริ่มเล่นใหม่";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "รายการมาใหม่";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "รายการยอดนิยม";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "ไม่มีรายการที่ต้องการ";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "ยังไม่ติดตามใคร";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "ยังไม่มีแฟนติดตาม";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "ชื่อผู้ใช้";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "ลายเซ็นต์";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "เกี่ยวกับเรา";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "จำนวนไดมอนด์คงเหลือของฉัน";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "เติมเงิน";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "ระดับ";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "ตั้งค่า";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "ออกจากระบบ";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "เชิญเพื่อน";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "ซุปเปอร์แฟน";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "ตั้งค่าการแจ้งเตือน";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "เกี่ยวกับเรา";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "ข้อเสนอแนะ";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "บัญชีดำ";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "แก้ไขข้อมูลส่วนตัว";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "ออกจากระบบ";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "แจ้งเตือนข้อความ";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "ปิดการแจ้งเตือน";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "แก้ไขข้อมูลส่วนตัว";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "ภาพโปรไฟล์";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "ถ่ายรูป";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "อัลบั้ม";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "เรดไดมอนด์";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "ยอดคงเหลือ";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "ยอดที่ใช้ได้วันนี้";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "แลกเปลี่ยน";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "ถอนเงิน";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "คำถามที่พบบ่อย";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "ยืนยัน";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "ถอนเงินไปที่ Wechat";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "บัญชี";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "ใบสมัครถูกส่งไปแล้ว,กรุณาตรวจสอบ Wechat";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "เสร็จสมบูรณ์";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "การโอนเงินอาจจะใช้เวลาถึง 24 ชั่วโมง";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "จำนวนทั้งหมด";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "ยอดคงเหลือ:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "กำไร";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "การถอดเงินสำเร็จ";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "จำนวนที่ถอดทั้งหมด:";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "บันถึงการถอนเงิน";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "การเชื่อมต่อล้มเหลว!";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "ตรวจสอบแล้ว:%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "กำลังติดตาม:%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "ส่ง:%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "แฟน:%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "เรดไดมอนด์:%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "แฟนที่ติดตาม";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "แฟน";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "ถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "ค้นหาชื่อหรือหมายเลข ID";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "ค้นหา";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "จำนวนแฟนที่ดู";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "ตอบกลับ";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "จดหมายส่วนตัว";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "หน้าหลัก";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "จัดการ";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "ส่ง%1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "เรดไดมอนด์";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "จัดการ";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "กรุณาเลือกวิธีการจ่ายเงิน";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "WeChat Pay";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "ฟรี";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "หากมีปัญหาเกิดขึ้น, กรุณาติดต่อ ‘meepay’ ผ่านทาง WeChat";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0 เหรียญ";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "โบนัส 0 บลูไดมอนด์";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "เพิกเฉย";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "ยังไม่มีเพื่อนพูดคุยกับคุณ หาพวกเขา";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "การ์ฟีล00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "ให้ %1$d เรดไดมอนด์(s)";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "ส่งของขวัญมากขึ้นเพื่อยกอันดับของคุณ";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "เพิ่มเติม";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "กำลังโหลด..";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "อันดับที่%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "กำลังติดตาม";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "ตรวจสอบการถ่านถอดสดของฉัน";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "ติดตามเป็นแฟนแล้ว";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "แบล็กลิส";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "บันทึก";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "ส่ง1ชิ้น";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "ส่งต่อเนื่อง";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "เตือนความจำ";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "ยกเลิก";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "ยืนยัน";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "จบการถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "คุณแน่ใจแล้วใช่ไหมที่จะบล็อก?";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "ห้องสนทนา";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ โซน";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "เฟสบุ๊ก";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "ทวิสเตอร์";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "Weibo";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "ซักครู่";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "ลายเซ็นต์";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "ไม่เกิน 32 ตัวอักษร";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "ชื่อผู้ใช้ไม่เกิน 32 ตัวอักษร";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "ชื่อนี้ผิดกฎหมาย";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "ชื่อนี้มีตัวอักษรเกิน 16 ตัวอักษร";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "ชื่อนี้ถูกนำไปใช้แล้ว กรุณาใช้ชื่ออื่น.";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "ชื่อผู้ใช้มีคนใช้งานแล้ว";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "ชื่อนี้อ่อนไหวมากเกินไป";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "สำเร็จแล้ว!";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "คนธรรมดา";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "เพื่อน";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "คนแปลกหน้า";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "ไม่สำเร็จ...";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "ส่ง";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "เปลี่ยนคีย์บอร์ด";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "ส่ง";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "ตอนนี้เลย";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "นาทีก่อน";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "ชั่วโมงก่อน";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "เมื่อวาน";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "วันก่อน";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "อาทิตย์";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "จันทร์";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "อังคาร";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "พุธ";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "พฤหัส";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "ศุกร์";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "เสาร์";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "กำลังแชทกับ %@ ";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "กรอกเป็นว่าง";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "จำนวนอักษรไม่เกิน %d ตัว";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "ข้อความแชท";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "โปรดใส่คำค้นหา";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "ล็อคอินถือว่าท่านยอมรับo";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "เงื่อนไขข้อตกลง";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "เลือกวิธีการล็อคอิน mode";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "ยังไม่ล็อคอิน";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "เครือข่ายไม่เชื่อมต่อ ";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "ดาวน์โหลด รอสักครู่...";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "ล็อคอินล้มเหลว";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "ไม่พบผู้ใช้ที่ท่านต้องการค้นหา";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "ยืนยันรายงานผู้ใช้นี้หรือไม่?";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "ติดตามถ่ายทอดสด";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "กลับหน้าแรก";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "แชร์ไปยัง";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "ได้รับ 0 เรดไดมอนด์(s)";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0 คนดู";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "%d คนดู";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "ได้รับ %d coin(s)";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "จบการถ่ายทอด";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "หมุน";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "เปิดแฟรช";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "การโหลดล้มเหลว";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "คุณแน่ใจแล้วใช่ไหมว่าต้องการอันบล็อก";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "พร้อมที่จะถ่ายทอดสดแล้ว";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "เพื่อนของคุณ:%@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "กำลังถ่ายทอดที่%@  มาสนุกด้วยกัน!";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "ดาวอังคาร";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "ไดมอนด์: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "ต้องขออภัยด้วย แต่เราไม่สามารถติดตามเขาหรือเธอคนนี้ได้ในตอนนี้";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "ยอดคงเหลือ";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "เลือกจำนวนที่ต้องการเติม";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "บัญชีถอนเงิน";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "กรุณาเติมข้อมูลให้ครบถ้วย ไม่เช่นนั้นจะไม่สามารถทำรายการถอนเงินได้.";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "นามสกุล:";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "ชื่อ:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "บัญชี:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "เบอร์โทรศัพท์:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "ตรวจสอบและตกลงในข้อตกลงการถอนเงินแล้ว";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "เชื่อมบัญชีเพยพอล";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "ถอนเงิน";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "ใบสมัครถูกส่งไปแล้ว";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "เงินจะถูกส่งเข้าไปในบัญชีของคุณภายใน 15 วัน โดยจะถูกหักค่าธรรมเนียมตามกฎหมาย.";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "บัญชีเพยพอล:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "จำนวน:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "ยอดที่มีอยู่";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "รายได้ปัจจุบัน";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "ไม่มีการเชื่อมต่อ";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "ต้องขออภัยแต่คุณสามารถเชื่อมต่อได้แค่1ครั้งในทุก 15 วันเท่านั้น.";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "ต้องขออภัยแต่คุณจะไม่สามารถยื่นเรื่องได้หากยอดไม่เกิน 100  เหรียญ.";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "ยอดไดมอนด์ไม่พอ กรุณาเติมด้วยค่ะ";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "คัดลอก";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "หน้าหลัก";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "เรดไดมอนด์";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "ถอน";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "ระเบียบการถอนเงิน";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "กรุณาเชื่อมต่อบัญชีของคุณสำหรับการถอนเงิน";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "เชื่อมต่อ";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "อัพเดท";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "กำลังออนไลน์";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "ข้อติชม:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "ส่ง";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "ส่ง：%1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "กำลังถ่ายทอดสด %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "พบฉบับแก้ไขตัวใหม่";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "คุณเป็นคนดีจริงๆ!";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "เกิดข้อผิดพลาดกับเครือข่าย";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "คำติชมถูกส่งเรียบร้อยแล้ว";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "รอสักครู่ กำลังอัพโหลด";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "แอ็พพลิเคชั่นกำลังอัพเดท";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "กำลังโหลดรายชื่อ กรุณารอสักครู่";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "กำลังโหลด โปรดรอสักครู่";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "การสั่งซื้อเรียบร้อยแล้ว";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "การสั่งซื้อภายใต้เครือข่ายปัจจุบันล้มเหลว\nโปรดลองใหม่อีกสักครู่";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "กรุณาดาว์นโหลด [Google play]ก่อนที่จะชาร์จ";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "ขออภัย สินค้าดังกล่าวได้ถูกเอาออกจากแค็ตตาล็อกแล้ว";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "การสั่งซื้อล้มเหลว:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "รูปโปรไฟล์";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "เพศ";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "อีเมล์";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "ผู้ชาย";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "ผู้หญิง";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "เพศของคุณ\n";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "ฉันถ่ายทอดสดแล้ว กดเข้า StarMe:%@ ได้เลย \nStarMe เป็นแอ้พถ่ายทอดสดฟรีที่คณสามารถแสดงตัวตนของคุณและค้นหาผู้ถ่ายทอดสดที่มีพรสวรรค์ได้";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "ข้อกำหนด";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "กฎเกณฑ์";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "ความเป็นส่วนตัว";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "พิมพ์พูดคุย";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "ติดตามคนที่คุณชื่นชอบ \n อย่าได้พลาดทุกช่วงเวลาสุดประทับใจ";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "ชื่อบัญชี";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "รหัส";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "ลงทะเบียนใหม่";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "เข้าสู่ระบบโดยอีเมล์";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "ลงทะเบียนใหม่โดยอีเมล์";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "ลืมรหัสผ่าน";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "เข้าสู่ระบบ";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "กำลังเข้าสู่ระบบ";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "การลงทะเบียนล้มเหลว";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "กรุณาใส่อีเมล์";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "กรุณาใส่ชื่อ";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "กรุณาใส่รหัส";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "อีเมล์ไม่ถูกต้อง";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "ความยาวของรหัสเกินหกตัวอักษร";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "อีเมล์ถูกลงทะเบียนเรียบร้อยแล้ว กรุณาไปที่การเข้าสู่ระบ";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "รหัสไม่ถูกต้อง";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "อีเมลยังไม่ถูกใช้งาน";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@ กำลังถ่ายทอดสดอยู่ ที่  [StarMe]";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "เพศ";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "แน่ใจหรือที่จะรายงานผู้ใช้รายนี้";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "เครื่อข่ายล่ม กรุณาติดต่อฝ่ายบริการลูกค้าของเราหากสินค้าของคุณมีปัญหา ติดต่อ support@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "การโหลดล้มเหลว";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "โหลดใหม่";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "กำลังโหลด";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "ปล่อยลงเพื่อให้รีเฟรชหน้าใหม่";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "ปล่อยเพื่อให้รีเฟรชหน้าใหม่";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "กำลังโหลด...";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "เข้าสู่ระบบด้วย";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "เครื่อยข่ายล่ม กำลังเชื่อมต่อ";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "เครื่อยข่ายล่ม หยุดการดู";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "เครื่อยข่ายล่ม การถ่ายทอดสดสิ้นสุด";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "ถ่ายทอดสด";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "กรุณาถ่ายทอดสดแต่สิ่งที่ดี และสนทนาอย่างเป็นมิตร, #ขอบคุณ! การละเมิดนโยบายจะทำให้บัญชีของคุณถูกระงับ";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "ใช้เพชร 1 เม็ดในแต่ละคอมเม้นท์";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "การแจ้งเตือนระบบ StarMe n\ คุณต้องการรับแจ้งเตือนการถ่ายทอดสดของคนที่คุณเป็นแฟนอยู่หรือไม่?";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "อนุญาติ";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "ไม่อนุญาติ";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@ แบ่งปันการถ่ายทอดสด";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "ถ่ายทอดสดตัวเอง";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "ใส่รหัสผ่านไม่เกิน16 อักษร";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "เลื่อนเพื่อยกเลิกการบล็อก";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "เลื่อนเพื่อลบออก";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "ลบออก";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "ไม่มีผลลัพธ์สำหรับ \”%@\”";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "การรายงานเสร็จสมบูรณ์";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "บัญชีของคุณถูกเข้าสู่ระบบด้วยอุปกรณ์อื่นออกจากระบบที่นี่";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "แบ่งปันไปยัง:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "แสดงตำแหน่ง";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "ซ่อนตำแหน่ง";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "คุณยังมีคำสั่งซื้อที่ต้องอนุมัติ โปรดดำเนินการให้เสร็จเรียบร้อย";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "เสร็จสมบูรณ์";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "ข้อผิดพลาด";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "การแบ่งปันเสร็จสมบูรณ์";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "การแบ่งปันล้มเหลว";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "เลื่อนขึ้นเพื่อโหลดเพิ่ม";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "ส่ง";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "รหัสยืนยันได้ถูกส่งไปยังอีเมลของคุณแล้ว โปรดตรวจสอบตามนั้นด้วย";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "รหัสยืนยัน";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "รหัสผ่านใหม่";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "ยืนยันเดี๋ยวนี้";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "อีเมลนี้ยังไม่ถูกลงทะเบียน";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "ลืมรหัสผ่านของคุณหรือ?";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "รหัสยืนยันถูกส่งไปยังอีเมลของคุณแล้ว";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "รหัสยืนยัน";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "รหัสผ่านใหม่";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "ยืนยันรหัสผ่าน";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "รหัสไม่ถูกต้อง";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "กรุณาเติมในช่องว่าง";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "เสร็จสมบูรณ์";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "ตั้งค่าเริ่มต้น";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "ส่งใหม่";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "เปิด";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "ปิด";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "ตอนนี้ไม่อยู่ เดี๋ยวกลับมานะ";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "น้อยกว่า 30 นาที ไม่สามารถบันทึกได้";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "การถ่ายทอดสดได้ถูกบันทึกเป็นคลิปย้อนหลังแล้ว";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "ต้องการลบหรือไม่";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "กำลังถ่ายทอดสด  กดเข้าชมได้เลย!";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "ส่ง";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "เครื่อข่ายล่ม";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "รหัสไม่ถูกต้อง";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "รหัสยื่นยันใหม่ไม่สามารถใช้ได้";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "กรุณาเปิดระบบการเข้าพื้นที่ของคุณ(Location))ด้วยค่ะ";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "ตั้งค่า";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "เปิด";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "ปิด";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "เลื่อน";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "คลิ๊กตรงนี้และถ่ายทอดสด";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "อีเมล์ยังไม่ถูกสมัคร";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "อีเมล์ไม่สามารถส่งได้";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "ระบบไม่ทำงาน";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "ระบบล่ม";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "ตั้งค่าสำเร็จแล้ว";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "ตั้งค่าใหม่";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "กฎการถ่ายทอดสด";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "คำติชมและแนะนำ";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "อีเมล์แนะนำติชม";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "ผู้สร้างเนื้อหา";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "กล้องฟรุ้งฟริ้ง";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "ตั้งค่าพาสเวิร์ดใหม่";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "กฎของแอพลิเคชั่นStarMe";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "ตกลง";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "เลื่อนไปทางขวาเพื่อชมแบบเต็มจอ";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "เลื่อนขึ้นหรือลงเพื่อเปลี่ยนช่อง";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "เรดไดมอนด์";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "จะใช้กล้องในแอ้พนี้ ให้ไปที่ ตั้งค่า > เปิดก้อง StarMe";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "ไม่อยู่  เดี๋ยวกลับมาจ้า";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "คอมเม้นท์สดๆ";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "ใช้กล้องนแอ้พนี้ ไปที่ตั้งค่า > StarMe และเปิดกล้อง";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "ไม่สามารถใช้ไมค์";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "จะใช้ไมค์ในแอ้พนี้ ให้ไปที่ตั้งค่า > StarMe และกดปุ่มเปิดไมค์";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "เวอร์ชั่นใหม่มาแล้ว อัพเดทเดี๋ยวนี้!";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "ตั้งค่าใหม่";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "ส่งใหม่";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "รหัสไม่ตรง";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "กล้องไม่สามารถใช้งานได้";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "บัตรเติมเงินมือถิอ";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "เลือกวิธีการเติมเงิน";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "ทรูมันนี่";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12call";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "Happy Dtac";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "โปรดเลือกชนิดบัตรเงินสด";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "บัตรเงินสดถูกใช้แล้ว";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "รหัสไม่ถูกต้อง";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "บัตรเงินสดหมดอายุแล้ว";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "คุณไม่สามารถเติมเงินผ่าน Line Pay ได้จนกว่าจะมีการอนุญาติแล้ว";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "Line Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "ถ่ายทอดสดระดับ 2!\n ดึงดูดผู้อื่นก่อน!";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "สัญญาณเครือข่ายต้องการหยุดพักชั่วคราว\n กรุณาลองใหม่ภายหลัง";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "Line";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "สัญญาณเครือยข่ายแย่ลง \n เปลี่ยนเป็นคุณภาพสดแบบ SD";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "เครือข่ายสมบูรณ์ \n เปลี่ยนเป็นการถ่ายทอดสดแบบคุณภาพ HD";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "ระวัง!\n สัญญาณเครือข่ายของผู้ถ่ายทอดสดแย่ลง!";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "เวอร์ชั่นนี้ใช้ไม่ได้อีกต่อไป\n กรุณาดาว์นโหลดเวอร์ชั่นใหม่ล่าสุด";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "อนุญาติ";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "รายชื่อของแอดมิน";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "เงียบ";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "กรุณาติดตั้งโปรแกรม Line ก่อน";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "การบริการลูกค้า:";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "ตกลง";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "คุณไม่ได้รับอนุญาตให้ถ่ายทอดสดอีกต่อไปเนื่องจากทำการละเมิดข้อกำหนดของเราที่ร้ายแรง";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "คุณอยู่ภายใต้ข้อจำกัดสำหรับการละเมิดข้อตกลงของเรา โปรดลองใหม่ในวันถัดไป ";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "โปรดปฏิบัติตามข้อตกลงสำหรับการถ่ายทอดสดต่อไปของคุณ";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "ข้อตกลง StarMe ";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "ชม:%@ กำลังถ่ายทอดสด กดเข้า StarMe ได้เลย";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "เนื้อหาที่คุณกำลังถ่ายทอดสดในขณะนี้ มีการละเมิดกฎระเบียบของ StarMe";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "ผู้ใช้จะถูกระงับไม่ให้ถ่ายทอดสดชั่วคราวเป็นเวลา 1 วัน";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "ผู้ใช้จะถูกแบนไม่ให้ทำการถ่ายทอดสดอย่างถาวร";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "การละเมิดอื่นๆอาจทำให้ถูกแบนอย่างถาวร";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "การถ่ายทอดสดสิ้นสุดลงเนื่องจากมีการละเมิดกฎ";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "จะใช้ไมค์ในแอ้พนี้ ให้ไปที่ตั้งค่า > StarMe แล้วกดปุ่มเปิดไมค์";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "การถ่ายทอดสดสิ้นสุดวันเนื่องจากมีการละเมิดกฎ บัญชีถูกระงับชั่วคราวไม่ให้ถ่ายทอดสดเป็นเวลา 1 วัน การละเมิดอื่นๆอาจทำให้มีผลอย่างถาวร";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "การถ่ายทอดสดสิ้นสุดวันเนื่องจากมีการละเมิดกฎ บัญชีถูกระงับอย่างถาวรแล้ว";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "บัญชีถูกระงับชั่วคราวจากการถ่ายทอดสดเป็นเวลา 1 วัน โปรดลองอีกครั้งในภายหลัง ยึดตามกฎและระเบียบเมื่อคุณถ่ายทอดสดครั้งต่อไป";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "บัญชีของคุณถูกแบนไม่ให้ถ่ายทอดสดอย่างถาวรแล้ว";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "คำถามที่พบบ่อย";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "สัญญาณเครือข่ายแย่ลง \n สลับไปยังคุณภาพความคมชัดแบบ SD";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "คำถามที่พบบ่อย";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "คำถามต่างๆที่เกี่ยวกับการเติมเพชร";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "คำถามต่างๆที่เกี่ยวกับการถ่ายทอดสด";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "คำถามต่างๆที่เกี่ยวกับบัญชี";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "คำถามต่างๆที่เกี่ยวกับการร้องทุกข์";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "ให้เรา 5 ดาว?";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "แน่นอน!";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "ฉันไม่สามารถ";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "ช่วยฉันเพื่อปรับปรุงให้ดีขึ้น";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "ยังไม่มีการตอบกลับ";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "การถ่ายทอดสดที่นานกว่า 30 นาทีขึ้นไปเท่านั้นที่จะถูกบันทึก";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "พรสวรรค์ที่คุณมีกำลังรอให้ถูกแฟนๆค้นพบ";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "ยิ่งคุณถ่ายทอดสดบ่อยขึ้น คุณก็จะยิ่งมีโอกาสถูกค้นพบโดยแฟนๆได้ง่ายขึ้น!";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "ใส่รูปโปรไฟล์ด้วยความเอาใจใส่เพื่อดึงดูดผู้ชมให้มากขึ้น";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "เลือกจากอัลบั้ม";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "กดปุ่มนี้เพื่อทำการถ่ายทอดสด";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "แจ้งให้แฟนๆคุณได้รู้ทุกเมื่อที่คุณถ่ายทอดสด!";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "มือถือของคุณควรทำการสร้างกล่องข้อความ กรุณาสร้าง โดยไปที่ การตั้งค่า - ไดรฟ์ ICould ";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "แจ้งให้แฟนๆคุณได้รู้ทุกเมื่อที่คุณถ่ายทอดสด!";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "กรุณาตั้งค่ากล้องของคุณ";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "ใส่รูปโปรไฟล์ด้วยความเอาใจใส่เพื่อดึงดูดผู้ชมให้มากขึ้น";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "การส่งของขวัญจะเป็นการช่วยให้ Red dimonds และค่าความนิยมของคนที่คุณชื่นชอบเพิ่มขึ้น";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "พรสวรรค์ที่คุณมีกำลังรอให้ถูกแฟนๆค้นพบ";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "ยิ่งคุณถ่ายทอดสดบ่อยขึ้น คุณก็จะยิ่งมีโอกาสถูกค้นพบโดยแฟนๆได้ง่ายขึ้น";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "คนมีพรสวรรค์คนนี้กำลังรอให้ถูกคุณค้นพบ";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "กลายเป็นซุปเปอร์แฟนของเขาได้ด้วยการส่งของขวัญให้";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "ยังไม่สนใจใครเลยใช่ไหม";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "ชมการถ่ายทอดสด พบกับผู้ถ่ายทอดสดที่ครบครัน  \n กดติดตามคนที่คุณชื่นชอบเพื่อไม่ให้พลาดเนื้อหาการถ่ายทอดสดของเขาแม้สักวินาทีเดียว";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "ชมการถ่ายทอดสดที่น่าสนใจ";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "ยังไม่มีการตอบกลับ";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "การถ่ายทอดสดที่นานกว่า 30 นาทีขึ้นไปเท่านั้นที่จะถูกบันทึก";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "ระบบกำลังเตรียม....";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "ยินดีต้อนรับกลับมา! อยากแพร่ภาพสดต่อมั้ย?";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "รายชื่อแอดมิน";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "ปิดเสียง";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "ยกเลิก";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@ ถูกกำหนดเป็นช่องแอดมิน";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@ ถูกปิดเสียง";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "การดำเนินการล้มเหลว กรุณาลองใหม่อีกครั้ง";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "การดำเนินการล้มเหลว กรุณาลองใหม่อีกครั้ง";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "การดำเนินการล้มเหลว กรุณาลองใหม่อีกครั้ง";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@ ได้เสียสิทธิพิเศษของแอดมิน";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "เพชรเพิ่มอีก %@ เม็ด";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "เน็ตเวิร์คล้มเหลว";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "เชื่อมต่อบัญชีแล้ว";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "ไม่มีการเชื่อมต่อ";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "ยกเลิกการเชื่อมต่อ";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "บัญชีของคุณ";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "ทำไมถึงเชื่อมต่อบัญชีของคุณกับโซเชียลมีเดีย?";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "คุณสามารถส่งโพสต์ไปยังบัญชี Facebook หรือ Twitter โดยอัตโนมัติทุกครั้งที่คุณกดเริ่มถ่ายทอดสด!";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "คุณสามารถใช้บัญชีในโซเชียลมีเดียต่าง ๆ กันเพื่อล็อกอิน แต่ขอให้ใช้ StarMe ID เดียวกัน!";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "ทันทีที่คุณเชื่อมต่อ StarMe ID ของคุณไปยังอีเมลหรือบัญชีโซเชียลมีเดีย คุณสามารถยกเลิกหรือแก้ไขได้ในภายหลัง อย่างไรก็ตามขอให้แน่ใจว่าไอดีของคุณเชื่อมต่อกับอย่างน้อย 1 แพลตฟอร์ม นอกจากนี้กรุณารับทราบว่าอีเมลหรือบัญชีโซเชียลมีเดียหนึ่งบัญชีจะไม่สามารถเชื่อมต่อกับ StarMe ID หลาย ๆ ไอดีได้";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "ผู้ชมเพิ่งส่งของขวัญให้คุณ! อย่าลืมที่จะขอบคุณเขา/เธอ!";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "เพิ่ม";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "คุณถูกปิดเสียง";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "เน็ตเวิร์คล้มเหลว";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "เชื่อมต่อ";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "ปิดเสียงผู้ใช้อยู่ ไม่สามารถตั้งเป็นผู้ดูแลได้";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "ลบผู้ดูแล";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "ลบสถานะผู้ดูแล?";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "การเชื่อมต่อเสร็จสมบูรณ์";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "การเชื่อมต่อล้มเหลว";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "บัญชีได้รับการเชื่อมต่อแล้ว";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "การยกเลิกการเชื่อมต่อล้มเหลว";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "ไม่สามารถยกเลิกการเชื่อมต่อได้ ต้องมีการเชื่อมต่ออย่างน้อย 1 บัญชี";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "มาชมไลฟ์สไตล์ที่เป็นเอกลักษณ์จากทั่วทุกมุมโลก!";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMe จะแสดงไลฟ์สไตล์ที่เป็นเอกลักษณ์จากทั่วทุกมุมโลกให้คุณดู!";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "คนดังหลายคนอยู่ใน StarMe มาดูด้วยตัวคุณเอง!";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "ไม่สนใจหรือ?";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "ด้านล่างนี้คือวีเจสุดเจ๋งของ StarMe";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "เสร็จ";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "ติดตามตอนนี้เลย อย่าพลาดโชว์ต่อไป!";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "รับข้อความของคุณผ่านทางฟังก์ชั่น bullet screen!";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "มีเวอร์ชั่นใหม่ให้อัพเดต";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "ยังมีฟีเจอร์อื่นๆที่พร้อมใช้งานในเวอร์ชั่นใหม่ อัพเดตเพื่อสัมผัสประสบการณ์ที่ดีกว่า!";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "อัพเดตทันที";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "กรุณารอสักครู่";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "กำไร";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "ประวัติ";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "ยอดดาวปัจจุบัน";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "ยื่นคำขอแลกดาว";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "การแลกดาว";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "การแลกดาวล้มเหลว";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "การซื้อขายก่อนหน้านี้ยังไม่เสร็จสิ้น";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "หมวดหมู่นี้ไม่สามารถปล่อยว่างได้";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "ยื่นคำขอแลกดาวแล้ว";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "ยอดเงินสดที่จะถอน:";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "ยืนยัน";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "เติมข้อมูลบัญชี";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "บันทึก";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "ข้อมูลส่วนตัว";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "ชื่อเต็ม";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "เบอร์โทรศัพท์";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "ที่อยู่";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "เลขประจำตัวประชาชน";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "รายละเอียดบัญชี";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "ชื่อธนาคาร";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "ชื่อบัญชี";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "เลขบัญชีธนาคาร";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "ที่อยู่ธนาคาร";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "ชื่อสาขาธนาคารที่คุณเปิดบัญชี";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "ข้อมูลสัญญา";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "เอเจนซีของคุณ:";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "เปอร์เซ็นต์คอมมิชชั่นที่เอเจนซีของคุณจะได้คือ:";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "คุณได้เซ็นสัญญากับ StarMe หรือยัง?";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "บันทึกสำเร็จ";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "การแลกเงินสดสำเร็จ";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "กำลังประมวลผล...";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "การยืนยันล้มเหลว";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "กฎการแลกดาว";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "คุณสามารถยื่นขอแลกดาวเมื่อใดก็ได้ อย่างไรก็ตาม คุณต้องรอให้คำขอแลกดาวปัจจุบันของคุณผ่านการประมวลผลก่อนที่จะยื่นขอครั้งต่อไป";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "บันทึกภาพสด";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "ไม่มีการบันทึกภาพสดใดๆขณะนี้";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "การจ่ายเงินของคุณก่อนหน้านี้ไม่ประสบความสำเร็จ ลองใหม่?";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "คำนวณเวลา";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "ค่าเฉลี่ยผู้เข้าชม";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "ส่งแล้ว";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "บันทึกการแลกดาว";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "ถ้าอยากจะแชร์วิดีโอของคุณใน %@ คุณต้องเชื่อมต่อบัญชี StarMe ก่อน";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "คุณไม่ได้เป็นผู้ดูแลแล้ว";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "คุณได้รับแต่งตั้งให้เป็นผู้ดูแล";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "ช่องนี้ห้ามเว้นว่างไว้";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "กรุณาเลือกวิธีการจ่ายเงิน";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "ใส่หมายเลขบัตร";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "การยืนยันบัตร Prepaid ล้มเหลว";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "บัตร Prepaid ใช้เติมแล้ว";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "เลือกวิธีการจ่ายเงินแบบบัตร prepaid";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "ใส่ serial no.";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "บัตร Prepaid";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "ใช้บัตร prepaid";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "เติมไม่สำเร็จ";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "ไม่มีการบันทึกในขณะนี้";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "ดูแฮชแท็กเพิ่มเติม";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "กระดานผู้นำ";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "รายสัปดาห์";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "ภาพรวม";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "กดค้างส่งข้อความไวขึ้น";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "คุณสามารถเริ่มแลกดาวได้เมื่อคุณมีดาวเกิน 40,000 ดวง!";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "การแลกเงินสดทุกครั้งต้องมีดาวหลักหมื่นขึ้นไป";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "แอพกำลังเตรียมข้อมูล";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "สำเร็จ! ได้รับรายงานแล้ว!";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "ลบวีเจนี้ออกจากฟีด";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "หยาบคายหรือโป๊เปลือย";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "ผิดกฎหมายหรือเป็นการแบ่งแยก";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "รูปภาพผิดกฎหมาย";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "อื่นๆ";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "สมัครบัญชีผู้ใช้แล้ว ล็อกอิน";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "รางวัล";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "ยินดีด้วย! คุณได้เพชรสีฟ้า %d เม็ดสำหรับการแชร์";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "เทรนด์ทั่วโลก";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "ดูหน้า Facebook";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "ดูหน้า Twitter";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "คุณได้ปิดการแจ้งเตือนการถ่ายทอดสดอยู่ในขณะนี้ ต้องการเปิดการแจ้งเตือนเพื่อจะได้ไม่พลาดเนื้อหาเด็ด ๆ ไหม?";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "เปิดใช้งานตอนนี้";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "อาจจะภายหลัง";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "ไม่แสดงอีก";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "คุณได้ปิดการแจ้งเตือนแอพอยู่ในขณะนี้ ต้องการเปิดการแจ้งเตือนเพื่อจะได้ไม่พลาดเนื้อหาเด็ด ๆ ไหม?";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "กรุณาใส่ email สำหรับติดต่อของคุณ";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "เพิ่มเติม";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "ล็อกอิน Kakao";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "ล็อกอิน VK";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "แชร์ให้เพื่อน";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "กรุณาติดตั้งโปรแกรม Kakao ก่อน";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "คำข้องร้องเป็นเพื่อนใน Facebook";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "ไม่มีเนื้อหาที่พร้อมใช้งานในขณะนี้";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "ยังไม่มีบัญชีTwitterผูกมัด";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "บัญชีtwitterยังไม่ได้ผูกมัด，คุณสามารถไปเพิ่มที่“ตั้งค่า”หรือสร้างบัญชีtwitter";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "Kakao อนุมัติล้มเหลว";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "ได้รับของขวัญฟักทอง";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "รีบส่งให้วีเจที่ชอบกันเถอะ！";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "แนะนำกิจกรรม";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "ของขวัญที่รับถูกส่งสำเร็จแล้ว ยังสามารถเข้าไปซื้อได้ที่ร้านค้าของขวัญได้อีก";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "เลเวล";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "เข้าชมถ่ายทอดสดและพูดคุยวีเจจะได้รับค่าประสบการณ์ /nถ่ายทอดสดด้วยตนเองจะได้รับค่าประสบการณ์ที่มากขึ้น /nอย่ารอให้เสียเวลา ส่งของขวัญเลเวลจะขึ้นอย่างรวดเร็ว";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "สัญลักษณ์เฉพาะ";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "อันดับแรก";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "ผลลัพธ์พิเศษ";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "ติดตามวีเจจะพลาดการถ่ายทอดสดครั้งต่อไป";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "พูดคุยกับวีเจกันเถอะ";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "ชอบวีเจก็ส่งของขวัญ";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "เชิญเพื่อนมาดู";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@เข้าห้องถ่ายทอดสด ทักทายกันสักหน่อย";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "อย่าลืมกล่าวขอบคุณ";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "เตือนทุกคนว่ากดรูปวีเจเพื่อกดติดตาม";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "เข้า";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "แสงสีทอง %@เข้าห้องถ่ายทอดสด";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "ใกล้ๆ";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "วีเจที่คุณติดตามยังไม่ได้ถ่ายทอดสด";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "สิทธิบัญชี%@หมดอายุลงแล้ว ได้สิทธิใหม่จึงจะใช้งานได้";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "ขอขอบคุณท่านสนับสนุนมาโดยตลอด รางวัลเพชร+%d";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "ผู้ช่วยStarMe: ยินดีต้อนรับใช้งานStarMe คุณสามาาถพบเพื่อนได้จากที่นี่ จะมีผู้ติดตามและได้ของขวัญและเงินรางวัลเมื่อชนะเลิศ";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "ผู้ช่วยStarMe: อยากเป็นบุคคลยอดนิยม คุณต้องมีระบบอินเทอร์เน็ตที่เหมาะสม การจัดไฟที่เหมาะสมและหัวข้อที่น่าสนใจ";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "ผู้ช่วยStarMe: ชวนเพื่อนมาร่วมสนุก และแชร์การถ่ายทอดสดของท่านไปที่โซเชียล เน็ตเวิร์คอื่นๆเพื่อเพิ่มจำนวนผู้เข้าชม\n";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "ผู้ช่วยStarMe:  ทักทายยูสเซอร์ที่เพิ่งเข้าห้อง ขอบคุณพวกเขาที่มอบของขวัญและกดไลค์ ทำให้คุณได้รับความนิยมมากขึ้น";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "ผู้ช่วยStarMe: ท่านสามารถชมการถ่ายทอดสด ทำความเข้าใจกับเรื่องราวที่นำเสนอขึ้นมา จะได้รับแรงบันดาลใจมากมาย";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "ใช้รูปภาพที่ชัดเจนจะทำให้เป็นที่ดึงดูดมากขึ้น";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "รูปนี้ใช้ได้เลย! ฉันเลือกรูปนี้!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "มอบอำนาจใหม่";

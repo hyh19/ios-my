@@ -1,0 +1,28 @@
+/*
+#define SGMLocalizedString(key) [[NSBundle mainBundle] localizedStringForKey:(key) value:@"" table:nil]
+
+SGMLocalizedString(@"reach maximum download limit")
+*/
+
+// 弹出框提示语
+"unknow error" = "网络访问失败";
+"updata new version by constraint" = "检测到当前有新版本V%@可以更新，由于版本兼容的问题，当前版本已不被支持，需要强制更新，是否立即更新？";
+"updata new version by volunteer" = "检测到当前有新版本V%@可以更新，是否立即更新？";
+"without updata new version" = "已是最新版本";
+
+"btn_constraint updata" = "强制更新";
+"btn_updata immediately" = "立即更新";
+
+
+// 网络访问失败提示
+"asi_request_error_code_1" = "网络不给力哦";          // ASIConnectionFailureErrorType = 1,
+"asi_request_error_code_2" = "网络不给力哦";          // ASIRequestTimedOutErrorType = 2,
+"asi_request_error_code_3" = "无法完成授权！";       // ASIAuthenticationErrorType = 3,
+"asi_request_error_code_4" = "访问被取消！";        // ASIRequestCancelledErrorType = 4,
+"asi_request_error_code_5" = "无法访问服务！";       // ASIUnableToCreateRequestErrorType = 5,
+"asi_request_error_code_6" = "";// ASIInternalErrorWhileBuildingRequestType = 6,
+"asi_request_error_code_7" = "";// ASIInternalErrorWhileApplyingCredentialsType  = 7,
+"asi_request_error_code_8" = "";// ASIFileManagementError = 8,
+"asi_request_error_code_9" = "重定向过多！";         // ASITooMuchRedirectionErrorType = 9,
+"asi_request_error_code_10" = "";// ASIUnhandledExceptionError = 10,
+"asi_request_error_code_11" = "";// ASICompressionError = 11

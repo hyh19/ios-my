@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: ko, Korean
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "설정";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "팔로우";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "인기";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "신규";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "라이브";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "팔로잉";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "다시보기";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "추천했습니다. ";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "다시보기";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "제목에 태그를 붙여주세요";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "라이브하러 가기";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "Live";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "별";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d Exp";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "충전:";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "보내기";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "자기소개";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "보내기";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "라이브";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "팔로잉";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "팔로워";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "메시지";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "팔로워";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "차단";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "팔로잉";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "접속해있는 친구가 없습니다! ";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "새로운 라이브 영상 찾기";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "0 다시보기";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "신규";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "Hot";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "가능한 영상이 없습니다. ";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "팬이 아닙니다. ";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "팬이 아닙니다. ";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "닉네임";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "상태 메시지";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "회사소개";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "수익";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "충전";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "레벨";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "설정";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "로그아웃";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "초대";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "슈퍼 팔로워";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "알림 설정";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "회사소개";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "피드백";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "블랙리스트";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "프로필 편집";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "로그아웃";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "라이브 메세지 알람";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "공지 끄기";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "편집";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "프로필";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "사진찍기";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "앨범";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "별";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "수익";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "금일 캐시 환전 가능 수량";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "교환";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "캐시환전";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "FAQ";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "확인";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "위챗으로 캐시환전하기";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "계좌:";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "신청서가 제출되었습니다. 위챗을 확인해주세요. ";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "완료";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "24시간 내로 전달됩니다. ";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "전체 수량: ";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "계정 잔액:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "수익";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "캐시환전 성공!";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "전체 캐시환전:";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "기록";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "연결 실패!";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "확인되었습니다.:%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "팔로잉:%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "보내기:%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "팔로잉:%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "별:%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "팔로우";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "팔로워";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "Fans";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "이름 혹은 ID 찾기";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "찾기";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "팔로우";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "답장";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "메시지";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "Home";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "Report";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "보내기%1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "별";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "관리";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "결제 방식을 선택해주세요. ";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "위챗 페이";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "무료";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "만약 문제가 있다면, 위챗을 통해 'meepay'에 연락해주세요. ";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0 코인";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "보너스 0 블루 다이아몬드";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "무시";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "팔로워들의 메시지가 없습니다. 그들과 대화해보세요! ";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "가필드00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "기부하기 %1$d 별";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "더 많은 선물을 보내고 높은 순위를 얻으세요!";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "More";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "로딩중...";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "아니오.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "팔로잉";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "내 라이브 기록";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "팔로잉";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "차단";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "저장";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "보내기";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "콤보";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "리마인더";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "취소";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "확인";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "방송을 끝낼까요?";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "차단할까요?";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "채팅방";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ존";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "Weibo";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "Moments";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "사인";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "32자를 넘을 수 없습니다. ";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "닉네임은 16자를 넘을 수 없습니다. ";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "사용할 수없는 닉네임 입니다";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "닉네임은 16자를 넘을 수 없습니다. ";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "존재하는 닉네임입니다. 다른 이름을 사용해주세요. ";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "닉네임";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "감성적인 단어를 사용했습니다. ";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "성공!";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "사람";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "친구";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "방문자";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "실패했습니다...";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "보내기";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "키보드";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "보내기";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "지금 바로";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "몇 분 전";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "몇 시간 전";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "어제";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "며칠 전";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "일요일";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "월요일";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "화요일";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "수요일";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "목요일";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "금요일";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "토요일";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "%@ 와 채팅하기";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "비어있습니다. ";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "%d 글자를 넘을 수 없습니다. ";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "메시지";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "키워드";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "가입절차에 동의합니다. ";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "StarMe 이용약관";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "로그인 방식을 선택하세요.";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "가입하기";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "네트워크 에러";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "로딩 중. 기다려 주세요. ";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "로그인 실패";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "존재하지 않는 유저";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "이 사람을 신고 할까요?";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "팔로우";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "Home";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "공유하기";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "0 별을 얻었습니다. ";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0 사람";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "%d 사람";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "%d 별을 얻었습니다. ";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "라이브 끝내기";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "Flip";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "플래시";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "다운로드에 실패했습니다. ";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "차단하시겠습니까?";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "라이브할 준비가 되셨나요?";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "당신의 친구:%@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "sedang siaran di %, datang dan bergabunglah!";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "화성";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "별: %1$s ";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "죄송합니다, 상대를 팔로우 할 수 없습니다. ";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "나의 다이아몬드";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "충전할 수량을 선택하세요. ";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "캐시환전 계좌 ";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "모든 빈칸을 정확하게 작성하셔야 캐시 환전을 할 수 있습니다. \n\n";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "성: ";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "이름:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "계좌:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "전화번호:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "중개수수료차감 동의서를 확인 후, 동의해주세요. ";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "페이팔 계좌와 연동하기";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "캐쉬전환";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "신청서 제출하기";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "세금 및 수수료를 공제한 금액은 15일 이내로 당신의 계좌에서 확인할 수 있습니다";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "페이팔 계좌:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "금액:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "공제 후 금액:";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "현재 수익";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "연동 해제";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "죄송합니다, 15일에 한 번만 캐시전환이 가능합니다. ";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "최소 100$가 있어야 캐시 전환이 가능합니다. ";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "다이아몬드가 부족합니다. 충전 후 사용해주세요! ";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "복사";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "홈페이지";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "별";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "캐시 전환\n";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "캐시 전환 약관";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "캐시 전환을 위해 계좌를 연동해주세요. ";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "캐시 전환계정연동";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "설치";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "좋아요";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "피드백:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "보내기";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "보내기：%1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "지금 보기: It\'s %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "새로운 에디션이 발견됐습니다. ";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "정보를 찾을 수 없습니다. ";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "네트워크 에러";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "성공적인 피드백!";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "업로드 중입니다. 잠시만 기다려주세요. ";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "신청서를 업데이트 중입니다. ";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "리스트를 다운로드 중입니다. 잠시만 기다려주세요. ";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "로딩 중입니다. 잠시만 기다려주세요. ";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "성공적으로 충전했습니다. :\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "현재 네트워크에서 충전이 실패했습니다, 나중에 다시 시도해주세요. ";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "충전 전에 [Google Play]를 다운로드 해주세요. ";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "죄송합니다. 상품 판매가 끝났습니다. ";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "충전 실패:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "프로필";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "성별";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "이메일";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "남자";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "여자";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "당신의 성별";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "I\'m LIVE!  StarMe:%@에 채널을 고정하세요! \nStarMe는 멋진 여러분을 소개하고, 숨겨진 재능의 방송인들을 찾아내는 무료 라이브 스트리밍 앱입니다. ";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "이용약관";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "규칙";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "프라이버시";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "채팅을 입력해 주세요";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "좋아하는 방송인을 팔로우하세요! ";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "이름";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "패스워드";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "가입하기";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "Email";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "등록";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "패스워드를 잊어버리셨나요?";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "로그인";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "로딩중";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "등록 실패";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "이메일을 넣어주세요. ";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "닉네임";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "비밀번호를 입력해주세요";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "잘못된 이메일";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "패스워드는 6자 이상이어야 합니다. ";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "존재하는 이메일";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "잘못된 패스워드";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "등록되지 않은 이메일";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@ 는 [StarMe]에서 지금 방송 중입니다.";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "성별";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "유저들에게 공지할까요?";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "네트워크 불안정, 만약 여전히 문제가 발생한다면 소비자센터에 문의해주세요. \n 문의처: support@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "로딩 실패.";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "다시 저장.";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "로딩중...";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "리프레시 끄기";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "리프레시 중...";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "로딩중...";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "가입하기";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "재접속 중입니다..";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "네트워크 불안정";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "네트워크 불안정!! 라이브 방송이 종료되었습니다. ";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "라이브";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "아름다운 소통과 배려로 모두가 즐거운 스타미! 우리 함께 모니터링하며 스타미를 지켜요^^ 모든 사용자는 흡연,비방과 비하,노출 유도 채팅은 이용정지 대상이 됩니다.";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "총알 한개당 1다이아몬드";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "StarMe 시스템 알림 n\ 팬으로 등록한 라이브 앱의 공지를 받아보시겠습니까?";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "네";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "아니요";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@ 스트림을 공유했습니다. ";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "당신의 스테이지, 당신의 라이프. ";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "패스워드는 16자를 넘길 수 없습니다. ";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "슬라이드 하시면 수신차단이 해제됩니다";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "슬라이드하시면 삭제됩니다. ";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "삭제하기";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "결과가 없습니다 \”%@\”";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "성공적으로 전달했습니다";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "다른 기기에서 로그인이 되어있습니다. 로그아웃 후 다시 시도해주세요. ";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "공유하기:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "On";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "Off";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "승인을 요청했습니다. ";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "성공!";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "에러";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "성공적으로 공유했습니다. ";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "공유를 실패했습니다. ";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "더 많이 다운로드하세요. ";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "보내기";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "보냈습니다. ";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "인증번호";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "새로운 패스워드";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "새로운 패스워드가 확인됐습니다. ";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "이메일이 등록되지 않았습니다. ";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "패스워드를 잊어버리셨나요?";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "보냈습니다.";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "인증번호";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "새로운 패스워드";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "비밀번호를 확인하세요.";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "잘못된 패스워드";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "빈칸을 채워주세요.";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "성공!";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "리셋";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "재발송";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "on";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "off";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "잠시만기다려주세요, 금방돌아올께요!!";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "30분 이내의 영상은 저장할 수 없습니다";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "방송 다시보기가 저장됐습니다. ";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "삭제하길 원하시나요?";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "Live에 지금 바로 들어오세요! ";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "보내기";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "네트워크 에러";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "잘못된 코드";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "새 비밀번호가 일치하지 않습니다. 다시입력해주세요";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "위치 서비스를 활성화시켜주세요. ";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "설정";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "On";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "Off";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "전환";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "이곳을 클릭 후, 라이브하세요. ";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "등록되지 않은 이메일입니다. ";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "메일을 발송할 수 없습니다. ";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "에러";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "실패했습니다.";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "성공!";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "리셋";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "라이브 승인";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "피드백";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "이메일 주소를 알려주세요. ";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "별";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "Beauty Magic";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "패스워드를 재설정하고 싶으면, 등록된 이메일 주소로 들어가세요.\이메일이 발송됐습니다.  ";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "StarMe 규칙";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "오른쪽으로 넘겨보세요";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "상 하로 슬라이드 하시면 \n다른 채널로 이동이 가능합니다";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "별";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "카메라를 사용하고 싶으면, '설정'에 들어가 'StarMe' 카메라를 켜세요. ";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "잠시만요, 바로 돌아올게요. ";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "총알채팅";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "카메라를 사용하고 싶으면, '설정'에서 'StarMe'에 들어가 카메라를 켜세요. ";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "마이크를 사용할 수 없습니다. ";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "마이크를 사용하고 싶으면, '설정' 에서 'StarMe'를 열고 마이크를 켜세요. ";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "새로운 버전이 발견됐습니다. 지금 다운로드 하세요! ";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "리셋";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "재발송";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "패스워드가 일치하지 않습니다. ";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "카메라를 사용할 수 없습니다. ";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "카드 결제";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "결제 방법을 선택하세요. ";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "진짜 돈";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12CALL";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "HAPPY";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "카드를 선택하세요:";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "사용된 카드";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "존재하지 않는 비밀번호입니다. ";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "기한이 지난 카드";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "승인 전까지는 LINE을 통해 결제할 수 없습니다. ";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "구글 플레이";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "라인 페이";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "방송 레벨 2!\n다른 사람보다 먼저 참여하세요! ";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "네트워크 경로를 찾지 못했습니다\n 잠시 후에 다시 시도해주세요. ";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "라인";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "네트워크가 불안정합니다,\nSD 라이브 수준으로 변경합니다.";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "최고의 네트워크,\nHD 라이브 수준으로 변경합니다! ";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "상대방 네트워크가 좋지않습니다. ";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "현재 버전은 사용 불가입니다,\n최신버전으로 다운 하시기 바랍니다.";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "권한을 부여합니다. ";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "관리자 목록";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "침묵";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "먼저 Line을 설치해주세요. ";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "고객센터: ";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "OK";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "규정 위반으로 더 이상 방송하실 수 없습니다";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "규정을 위반했습니다. 1일 후에 다시 시도해주세요. ";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "다음 방송에서 규정을 준수해주세요. ";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "StarMe 이용약관";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "보기:%@는 라이브 스트리밍 중입니다! StarMe에 지금 채널 고정하세요! ";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "지금 영상한 콘텐츠는 StarMe의 규정 위반입니다. ";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "사용자는 하루 동안 일시적으로 스트리밍이 중단됩니다. ";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "사용자는 스트리밍으로 부터 영구 정지 됩니다. ";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "또 다른 규정 위반 시, 영구 정지될 수 있습니다. ";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "규정 위반으로 스트림이 종료되었습니다. ";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "마이크를 사용하고 싶으면, '설정' 에서 'StarMe'를 열고 마이크를 켜세요. ";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "규정을 위반해 영상이 종료됐습니다. 하루 동안 계정이 일시적으로 중지됩니다. 다른 규정을 추가로 위반 시, 영구적으로 이용이 불가합니다. ";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "규칙을 위반해 영상이 종료됐습니다. 일시적으로 계정 이용이 중지됩니다. ";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "해당 계좌는 하루동안 일시적으로 이용 불가합니다. 다음에 다시 시도해주세요. 다음 방송에서는 규정과 규칙을 잘 지켜주시기 바랍니다. ";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "해당 계정는 영구정지 되었습니다. ";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "FAQ";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "네트워크가 불안정 합니다, \n SD 라이브 수준으로 변경됩니다. ";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "자주 묻는 질문 ";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "재충전에 관련된 질문들 ";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "스트리밍에 관련된 질문들 ";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "계정에 관련된 질문들 ";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "불만과 관련된 질문들 ";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "저희에게 별점 5점을 주시겠어요? ";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "물론! ";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "난 할 수 없어. ";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "발전할 수 있도록 도와주세요. ";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "다시보기 영상이 없습니다\n";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "30분 이상 방송을 하셔야 영상이 저장됩니다";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "여러분의 재능이 누군가의 눈에 띄이길 기다리고 있습니다. ";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "스트림을 많이할 수록, 여러분의 독특함이 하드코어 팬들에게 더 많이 발견됩니다! ";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "더 많은 뷰어들을 불러모을 수 있도록 프로필 사진을 선택하세요. ";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "앨범에서 선택하세요. ";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "스트림을 시작하려면 이곳을 클릭하세요. ";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "팬들에게 언제든 여러분의 스트림에 대해 공지하세요. ";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "메일 설정이 필요합니다, 설정에 들어가서 셋팅을 완료해 주세요. - iCould Drive.";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "팬들에게 당신의 스트림을 공지하세요. ";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "카메라를 설정해주세요. ";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "더 많은 시청자를 불러모을 수 있도록 프로필 사진을 선택하세요. ";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "선물을 보내서 방송인들의 별을 증가시키고, 인기를 높이는데 도움을 주세요! ";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "여러분의 재능이 누군가의 눈에 띄이길 기다리고 있습니다. ";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "스트림을 많이할 수록, 여러분의 독특함이 하드코어 팬들에게 더 많이 발견됩니다! ";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "여러분의 재능이 누군가의 눈에 띄이길 기다리고 있습니다. ";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "선물을 보내서 슈퍼 팔로워가 되세요! ";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "흥미로운 사람이 없나요? ";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "스트림을 시청하고, 훌륭한 방송인을 찾아보세요! \n 방송인들을 팔로우하여 모두 시청해보세요. ";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "라이브 방송을 즐겨봐요!";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "다시보기 영상이 없습니다";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "30분 이상 방송을 하셔야 영상이 저장됩니다";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "로딩중입니다";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "돌아오신 것을 환영합니다! 방송을 계속 시작할까요? ";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "관리 목록";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "침묵되었습니다. ";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "취소";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@님이 채널 관리자로 임명되었습니다. ";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@ 님이 침묵 상태가 되었습니다. ";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "관리자임명실패, 다시 시도해주세요. ";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "경고실패, 다시 시도해주세요. ";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "관리자취소 실패, 다시 시도해주세요. ";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@님이 관리자 권한을 잃었습니다. ";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "추가로 %@다이아 증정";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "네트워크 끊김";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "연동된 계정";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "연결 되어있지 않습니다. ";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "연결 끊기";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "계정";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "왜 여러분의 계정을 소셜 미디어와 연결하나요? ";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "당신은 '라이브 하러 가기'를 누를 때마다, 자동으로 여러분의 페이스북 또는 트위터 계정에 알림을 낼 수 있습니다. ";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "당신이 다른 소셜 미디어에  계정을 로그인하셔도, 동일한 StarMe ID는 언제나 유지됩니다. ";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "StarMe ID를 이메일이나 소셜 미디어 계정에 연동해도, 해당 연동을 취소나 편집할 수 있습니다. 여러분의 ID를 적어도 하나의 플랫폼과는 연동해두시길 바랍니다. 더불어, StarMe ID와 연동한 이메일이나 소셜 미디어 계정 중 하나는 꼭 기억해두세요. ";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "한 뷰어가 여러분에게 선물을 보냈어요! 그/그녀에게 감사의 한마디를 전하세요! ";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "추가";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "침묵 상태가 되었습니다. ";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "네트워크 끊김";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "연결";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "사용자는 침묵 상태입니다. 관리자로 설정할 수 없습니다. ";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "취소";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "관리자 권한을 삭제할까요? ";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "성공적으로 연결됐습니다. ";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "연결에 실패했습니다. ";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "계정이 이미 연동되어 있습니다. ";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "연동 끊기에 실패했습니다. ";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "연동 끊기를 할 수 없습니다, 적어도 하나의 계정은 반드시 연동되어 있어야 합니다. ";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "전 세계의 특별한 라이프 스타일을 구경하세요! ";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMe는 여러분의 특별한 라이프 스타일을 전 세계에 알릴 것입니다. ";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "정말 많은 유명인들이 StarMe에 접속 중입니다. 여러분 어서 들어오세요! ";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "흥미가 없으신가요? ";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "아래에는  StarMe의 인기 방송인들입니다! ";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "끝내기";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "지금 팔로우 해서, 다른 방송들을 놓치지 마세요! ";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "총알 스크린 기능을 사용해 메시지를 전달하세요! ";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "버전 업데이트가 가능합니다! ";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "업데이트 버전에서는 더 많은 기능을 사용할 수 있습니다, 더 풍성한 경험을 위해 업데이트 하세요! ";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "곧 업데이트 됩니다. ";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "잠시만 기다려주세요.";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "이익";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "기록";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "현재 별 수량";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "캐쉬 인출 신청";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "캐쉬 전환";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "캐쉬 전환 실패";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "이전 거래가 완료되지 않았습니다. ";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "빈칸으로 남길 수 없습니다. ";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "캐시 전환 신청이 제출되었습니다. ";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "캐시 전환 수량:";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "확인";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "계좌 정보를 입력해주세요";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "저장";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "개인 정보";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "이름";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "전화번호";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "집 주소";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "주민등록번호";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "계좌 상세정보";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "은행명";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "계좌 소유자";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "은행 계좌 번호";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "은행 주소";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "은행 지점명 (계정을 만든 지점)";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "계약 정보";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "매니저:";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "매니저가 받을 수수료 비율 : ";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "StarMe 계약서에 서명 하셨나요? ";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "저장 성공";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "캐시전환 성공! ";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "진행 중...";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "인증 실패";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "캐시전환 규정 ";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "언제든지 캐시전환 신청을 할 수 있습니다. 단 이전 캐시전환 결제가 완료 된 후 다음 캐시전환이 진행됩니다";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "라이브 스트림 기록";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "지금은 라이브 스트림 기록이 없습니다. ";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "구매를 실패했습니다, 다시 시도할까요?";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "시간 계산하기";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "평균 동시접속 유저";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "제출완료";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "캐시전환 기록";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "만일 여러분의 스트림을 %@에 공유하고 싶다면, 해당 계정을 StarMe에 먼저 연결하세요. ";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "더 이상 관리 할 수 없습니다. ";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "관리자로 임명되었습니다. ";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "빈칸으로 남겨둘 수 없습니다. ";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "결제 방식을 선택하세요. ";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "카드번호를 입력하세요. ";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "선불카드 확인에 실패했습니다. ";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "이미 재충전을 위해 사용된 선불카드입니다. ";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "선불 카드 결제 방식을 선택하세요.";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "시리얼 넘버를 적어주세요.";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "선불 카드";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "선불 카드를 사용하세요.";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "충전을 완료할 수 없습니다.";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "현재 기록이 없습니다. ";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "더 많은 해시태그 보기";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "랭킹";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "주간";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "전체";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "길게 터치해 보세요";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "별은 40,000개부터 캐시전환 신청을 할 수 있습니다.";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "모든 캐시전환은 10,000개 별을 기준으로 가능합니다.";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "앱 데이터 초기화";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "신고 성공, 검토";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "리스트에 선택하신 방송인을 삭제하시겠습니까？";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "비하 또는 성";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "위반 또는 인종차별";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "프로필 사진으로 적합하지 않습니다";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "기타";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "이미 사용중인 아이디입니다 ";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "보너스";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "축하합니다!공유 성공，다이아몬드 %d개 획득";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "전 세계 인기 태그";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "Facebook 페이지 보기";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "트위터 페이지 보기";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "현재 방송 알림이 닫힘 상태입니다. 알림으로 변경하여 멋진 방송을 감상하시겠습니까?";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "곧 오픈합니다";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "잠시 후에 말씀해주세요";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "다시 보지 않음";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "현재 어플 알림시스템이 닫힘 상태입니다. 알림을 설정하여 멋진 방송을 감상하시겠습니까?";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "메일주소를 입력해 주세요";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "더 많다";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "카카오계정으로 로그인";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "VK로 로그인";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "친구에게 공유하기";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "먼저 카카오톡을 설치해주세요. ";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "페이스북 친구 신청하기";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "잠시 내용이 없음";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "카카오톡";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "아직 트위터 계정이 연동되지 않았습니다";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "아직 트위터 계정이 연동되지 않았습니다, \"설정\"에서 계정 추가 혹은 트위터 계정 생성을 할 수 있습니다";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "카카오톡 접속실패";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "호박 하나를 받았습니다";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "좋아하는 BJ에게 선물하세요!";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "이벤트 설명";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "선물이 없어요,선물창에서 구매하세요!";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "등급";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "BJ에게 선물하시면 레벨이 올라가요/n본인이 라이브 방송을 하시면 레벨이 더 빨리 올라요/n기다리지 마세요,선물 보내고 레벨 올려보세요\n";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "전속 아이콘";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "상위권";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "특별공간";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "팔로잉BJ 방송을 놓치지 마세요";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "BJ와 함께 소통해요\n";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "좋아하는 BJ에게 마음을 전하세요";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "친구들을 초대하세요";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@ 시청자들에게 인사해보세요";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "감사합니다 말하는 것을 잊지 마세용";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "BJ 팔로잉 눌러 주세용";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "시청자가 들어왔습니다";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "%@ 님이 입장했습니다!!";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "근처";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "팔로잉 하신 BJ는 아직 방송시간이 아닙니다 ";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "%@ 권한을 잃었습니다";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "변함없는 사랑에 감사드립니다 무료다이아몬드+%d";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "StarMe 세컨드: StarMe 오신걸 환영합니다 친구를 사귀고 많은 팬들을 모아서 선물과환전혜택을 받으세요";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "StarMe세컨드: 인기쟁이가 되시려면, 안정된 네트워크와 적합한 컨텐츠가 필요합니다";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "StarMe세컨드: 친구초대와 SNS에 방송을 공유하시면 더 많은 시청자 기회가 생겨요";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "StarMe세컨드: 방금 들어오신 시청자에게 인사하세요 선물을 받으시면 리액션 해주세요 더 많은 사랑을 받으실 거에요";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "StarMe세컨드: 인기BJ 방송을 시청하시면 더 많은 컨텐츠 아이디어가 생각나요";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "고화질 프사는 더 환영받습니당";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "좋아요! 이사진으로 결정해요!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "권한 부여";

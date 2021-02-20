@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="14D136" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="ChannelItem" representedClassName="ChannelItem" syncable="YES">
+        <attribute name="channelId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="channelName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="createTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isSelect" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="loadFinished" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="updateTime" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Friend" representedClassName="Friend" syncable="YES">
+        <attribute name="actionType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="channelID" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentCount" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="headImgUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="newsComment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsDetailUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsPicPath" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsType" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="nickName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="operTime" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="praiseNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="relativeOperTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="targetId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <relationship name="friends" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="FriendList" syncable="YES"/>
+    </entity>
+    <entity name="FriendList" syncable="YES">
+        <attribute name="headImageUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nickName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userID" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="HotReadList" representedClassName="HotReadList" syncable="YES">
+        <attribute name="author" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="channel" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="cNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="detailUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayType" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="dNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="lNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="newsId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="newsSource" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="promotion" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="publishTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="sNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="zNum" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="HotTalkList" representedClassName="HotTalkList" syncable="YES">
+        <attribute name="comment" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="nickName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="praiseCount" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="reportCount" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="reviewTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="uIcon" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="NewsLike" representedClassName="NewsLike" syncable="YES">
+        <attribute name="alreadyApproval" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="channel" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="newsId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="NewsList" representedClassName="NewsList" syncable="YES">
+        <attribute name="adId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="author" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="channel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="cNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="detailUrl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="displayType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="lNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loadFinished" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="markType" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="newsId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsSource" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="newsTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="promotion" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="publishTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="readNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sNum" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="spreadstate" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="state" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="timestamp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="topicTitle" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zNum" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="newsPic" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="NewsPicList" syncable="YES"/>
+    </entity>
+    <entity name="NewsPicList" representedClassName="NewsPicList" syncable="YES">
+        <attribute name="newsId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="picId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="picName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="picUrl" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="TalkInfoList" representedClassName="TalkInfoList" syncable="YES">
+        <attribute name="alreadyApproval" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="alreadyReport" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="commentId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="ChannelItem" positionX="907" positionY="-54" width="128" height="150"/>
+        <element name="Friend" positionX="666" positionY="108" width="128" height="298"/>
+        <element name="FriendList" positionX="844" positionY="135" width="128" height="90"/>
+        <element name="HotReadList" positionX="378" positionY="144" width="128" height="268"/>
+        <element name="HotTalkList" positionX="378" positionY="-27" width="128" height="150"/>
+        <element name="NewsLike" positionX="585" positionY="99" width="128" height="88"/>
+        <element name="NewsList" positionX="513" positionY="-18" width="128" height="405"/>
+        <element name="NewsPicList" positionX="576" positionY="90" width="128" height="103"/>
+        <element name="TalkInfoList" positionX="576" positionY="90" width="128" height="103"/>
+    </elements>
+</model>

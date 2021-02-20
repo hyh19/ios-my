@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: zh-Hant, Traditional Chinese
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "設置";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "關注";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "熱門";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "最新";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "直播";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "關注好友的直播";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "精彩重播";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "達人推荐";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "重播";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "加上標籤的標題更容易被人發現噢~";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "開始直播";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "直播Live";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "星星";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d經驗";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "儲值:";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "發送";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "他好像忘記寫簽名了...";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "已送";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "直播";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "關注";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "粉絲";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "私訊";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "關注";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "封鎖";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "關注";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "你的好友静静悄悄\n此时还没有直播";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "去看看最新精彩直播";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "%1$d個精彩重播";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "最新";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "最熱";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "該主播還沒有直播過哦";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "該主播還沒有關注人哦";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "該主播還沒有粉絲哦";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "暱稱";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "簽名";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "關於我們";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "我的收益";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "儲值";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "我的等級";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "設置";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "退出登入";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "邀請好友";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "粉絲親密度";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "推送管理";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "關於";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "用戶回報";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "黑名单";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "编辑個人資料";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "退出";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "直播消息提醒";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "你可以關閉某個人的提醒，不再收該主播的直播消息";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "編輯資料";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "拍攝封面";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "拍照";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "從相冊選擇";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "星星";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "可提現金額";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "今日可提現金額";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "兌換";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "提現";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "常見問題";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "確認提現";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "提現至wechat帳號";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "提現至wechat帳號:";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "提現申请已經提交，請去微信查看";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "完成";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "預計24小時內到賬";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "提現金額:";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "賬戶餘額:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "我的收益";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "提現成功";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "累計提現：";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "提現記錄";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "伺服器發瘋了請稍等";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "認證：%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "關注：%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "送出：%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "粉絲：%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "星星：%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "關注";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "粉絲";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "直播";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "請輸入好友暱稱/ID";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "搜索";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "關注";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "回覆";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "私信";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "主頁";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "舉報";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "送出:%1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "星星";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "管理";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "請選擇付款方式";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "付款方式:wechat付款";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "免费";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "儲值遇到問題請關注官方wechat meepay 進行詢問";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0積分";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "贈送０鑽石";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "忽略未讀";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "還沒有好友和你說話，找他們聊聊吧";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "Garfield00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "貢獻%1$d星星";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "送禮物給主播可以增加親密度呦";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "更多";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "加載中…";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "NO.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "關注的人";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "我的直播";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "已關注";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "解除封鎖";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "保存";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "送一個";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "連發";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "提示";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "取消";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "確定";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "你確定退出直播嗎？";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "你確定封鎖嗎？";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "聊天室";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ空間";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "Facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "Twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "微博";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "朋友圈";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "wechat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "修改簽名";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "最多輸入32個字";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "暱稱最多16個字";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "暱稱含有不合法字符哦";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "暱稱最多16個字";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "暱稱太搶手了已被使用，殘念！換一個吧～";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "修改暱稱";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "個性簽名包含禁用字哦";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "完成";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "在看";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "好友";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "未關注";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "加載失敗";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "發送";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "切回鍵盤";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "發送訊息";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "剛剛";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "分鐘以前";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "小時以前";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "昨天";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "天以前";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "星期天";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "星期一";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "星期二";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "星期三";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "星期四";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "星期五";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "星期六";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "與%@聊天中";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "輸入為空";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "字數不能超過%d個";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "聊天消息";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "請輸入關鍵字";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "登入即代表你同意喔";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "StarMe條例";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "選擇登入方式";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "未登入";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "網路連線失敗，請檢查後重試";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "加載中，請稍候…";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "登入失敗";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "沒有搜索到你想要的用戶";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "確定舉報該用戶？";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "關注";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "返回首頁";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "分享到";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "得到0個星星";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0人觀看";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "觀看人數: %d";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "獲得星星: %d";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "直播已結束";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "翻轉";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "閃光";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "抱歉沒有取得相關內容";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "是否確定解除封鎖";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "全世界都在等待你的直播";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "你的好友:%@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "正在%@直播, 邀你一起来看";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "火星";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "星星數: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "暫時無法關注對方";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "我的鑽石";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "選擇儲值金額：";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "提現帳戶";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "請填寫真實資料並確認無誤，否則將導致提現失敗，所有資料皆為必填";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "姓氏:";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "名字:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "帳號:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "手機:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "已閱讀並同意抽成協議";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "綁定PAYPAL帳户";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "收益提現";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "申请已提交";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "提現後，預計15天到賬，提現金額按照相關法律規定需要扣除一定的稅率和手續費";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "PAYPAL帳户:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "提現金額:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "到帳金額:";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "目前收益";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "未绑定";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "15天內只能提現一次";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "目前可提現金額少於100美元，不能提取。";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "點數不足，請儲值後再送禮";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "已經復制到剪貼板";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "首頁";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "星星";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "提現";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "收益結算及提現規則";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "使用提現功能請綁定一個能提現的賬戶";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "綁定提現賬戶";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "安裝";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "點亮了";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "你的問題:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "送了一個";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "送出：%1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "快來看看: %@正在開播";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "發現新版本";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "找不到該搜索內容";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "上傳失敗，請稍後調整網路再試";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "上傳成功！感謝您的反饋，我們會繼續努力！";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "正在上傳，請稍等…";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "App更新中…";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "列表正在加載中，請稍後…";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "加載中，請稍等……";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "儲值成功:\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "由於網路異常，暫時無法儲值，請稍後再試";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "請儲值前先下載 [Google Play] ";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "抱歉，該商品已從列表移除";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "儲值失敗:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "大頭貼";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "性別";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "信箱";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "男性";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "女性";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "修改性別";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "我正在開播！快打開 StarMe:%@，跟我互動吧！\nStarMe是一款直播App，你可以在上面展示自己，或者發掘優秀的主播！";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "條款";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "規則";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "隱私";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "想和大家說點什麼..";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "關注喜歡的主播\n不錯過任何一個精彩的直播";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "用戶名";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "密碼";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "註 冊";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "信箱登入";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "信箱註冊";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "忘記密碼？";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "登入";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "正在登入";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "註冊失敗";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "信箱必填";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "用戶名必填";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "密碼必填";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "信箱格式錯誤";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "密碼長度不能少於6位";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "信箱已註冊";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "密碼輸入錯誤";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "信箱未註冊";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@正在StarMe直播";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "性別";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "檢舉?";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "伺服器連線失敗，如果長時間未收到商品請聯繫StarMe客服。\n信箱：support@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "數據加載失敗";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "重新加載";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "加載中";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "下滑刷新";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "鬆開刷新";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "正在刷新";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "Sign in with";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "網路斷開，正在重新連接";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "網路異常，已停止觀看";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "網路異常，已停止直播";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "live";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "請正常直播、拒絕色情聊天，如發現任何違反直播條例的行為，您的帳號將有可能被封禁，謝謝！";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "開啟彈幕，1星星/條";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "StarMe想給你發送系統通知。當你關注某主播后，會收到他的開播通知。這些可在“設置”中配置。";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "允許";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "不允許";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@分享了本次直播";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "直播你生活的精彩瞬間";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "密碼不能超過16位";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "左滑可解除封鎖";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "左滑可刪除重播";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "刪除重播";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "暫無搜尋結果： \”%@\”";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "舉報成功";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "你的StarMe帳號在其他設備上登入，本機登入已退出";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "分享至:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "隱藏位置";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "位置顯示";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "您的購物車中還有上一筆交易未完成，來完成交易吧！";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "成功！";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "異常狀況";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "分享成功！";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "分享失敗";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "往上滑加載更多";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "發送驗證碼";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "驗證碼已發送";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "驗證碼";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "新的密碼";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "再次輸入密碼";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "該Mail尚未註冊";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "忘記密碼";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "驗證碼已發送";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "驗證碼";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "新的密碼";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "再次輸入密碼";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "密碼無法匹配";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "驗證碼不能為空";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "重設密碼成功";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "重設密碼";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "重新發送";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "美顏開啟";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "美顏關閉";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "主播暫時離開，馬上回來！";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "半小时内的直播不被保存";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "已保存為重播，";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "刪除";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "在直播，馬上來看看！";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "發送驗證碼";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "網路異常";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "驗證碼錯誤";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "重設密碼失敗T-T";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "開啟定位功能，需在系統設置中開啟權限";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "設置權限";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "開閃光燈";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "關閃光燈";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "翻轉鏡頭";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "點擊此處開播";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "此信箱尚未註冊";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "郵件無法送達您的信箱";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "驗證碼錯誤";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "重設密碼失敗T-T";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "重設密碼成功!";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "重設";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "開播即默認遵守:";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "問題或建議";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "輸入信箱方便我們和您聯繫";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "星星";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "美顏";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "如需重新設置密碼，請輸入您的註冊郵箱\n我們會發送驗證郵件到您的郵箱";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "《StarMe 社區公約》";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "向右滑清空屏幕";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "上下滑動切換直播間";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "星星";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "目前應用沒有使用相機的權限，請到“設置”打開相機權限";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "主播離開一會兒";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "彈幕開";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "應用想獲取你的攝像頭使用權，請設置";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "麥克風禁用";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "應用想獲得您的麥克風使用權，請設置";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "發現新版本，請更新";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "重新設定";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "重新發送";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "密碼錯誤";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "無法使用相機";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "點卡";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "選擇付款方式";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "True money";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12CALL";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "HAPPY";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "請選擇點卡類型:";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "儲值卡已被使用";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "密碼不存在";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "儲值卡已過期";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "你取消了line pay（點卡）的使用權限，必须接受才能正常付款。";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "Line Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "你的等級小於2，不能開播。多參與互動，提升帳號等級。";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "伺服器繁忙，請稍後重試";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "Line";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "您的網絡狀態不佳，已自動幫您切換到普通模式";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "網絡狀態良好";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "主播網絡不佳，可能影響觀看體驗";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "目前版本不可使用，請下載最新版本";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "設置管理員";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "管理員列表";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "禁言";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "請先安裝Line";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "儲值遇到問題請聯繫：";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "我知道了";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "您的賬號已被永久封禁，無法開播";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "您的賬號已被封禁1天，請稍後再試";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "下次開播請遵守社區規範";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "《StarMe社區公約》";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "快來圍觀:%@ 正在 StarMe 開播！精彩不容錯過！";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "您當前的直播內容已違規";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "賬號將被封禁1天";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "賬號將被永久封禁";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "再次違規將有可能永久封禁";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "主播的直播內容因違規被停播";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "當前應用沒有使用麥克風的權限，請到“設置”開啟麥克風權限";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "您當前的直播內容已違規，賬號將被封禁1天，再次違規將有可能永久封禁";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "您當前的直播內容已違規，賬號將被永久封禁";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "您的賬號已被封禁1天，請稍後再試，下次開播請遵守社區規範";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "您的賬號已被永久封禁，無法開播";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "常見問題";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "您的網絡狀態不佳，已自動幫您切換到普通模式";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "常見問題";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "儲值問題";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "直播問題";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "賬號問題";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "申訴問題";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "可以給我評5顆星星嗎？";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "沒問題！";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "殘忍拒絕…";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "Help me improve";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "還沒有重播影片>-<";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "超過30分鐘的直播才能被保存哦！";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "你暫時還沒有忠實粉絲哦>-<";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "更多地直播，就有更多的機會被發現，就會有更多的死忠粉哦！";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "認真選擇你的頭像可以吸引更多的觀眾哦，快來上傳吧！";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "選擇相冊照片";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "點這裡開始你的直播吧！";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "分享你的直播消息給你的粉絲吧！";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "本機尚未配置Mail,請在设置-iCould Drive中配置";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "分享你的直播消息給你的粉絲吧！";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "設置相機";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "認真選擇你的頭像可以吸引更多的觀眾哦，快來上傳吧！";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "給主播送禮可以增加代表主播人氣的星星哦！";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "你暫時還沒有忠實粉絲哦>-<";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "更多的直播，就有更多的機會被發現，就會有更多的死忠粉絲哦！";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "目前還沒有忠實粉絲哦…";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "送禮物給主播即可加入忠實粉絲的行列哦！";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "你還沒關注任何人";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "多看直播，尋找那個你感興趣的人，\n關注他們，各種精彩瞬間不容錯過！";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "觀看精彩直播";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "這裡還沒有重播錄影>-<";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "超過30分鐘的直播才能被保存哦！";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "努力準備中……";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "歡迎回來，繼續直播嗎？";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "管理員列表";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "已禁言";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "取消管理員";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@被設置成為頻道管理員";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@被禁言";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "設置頻道管理員失敗，請重試";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "禁言失敗，請重試";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "取消管理員失敗，請重試";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@被取消管理員";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "額外送 %@ 鑽石";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "鏈接已斷開";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "綁定社交帳號";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "未綁定";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "解除綁定";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "你的帳號";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "為什麼要綁定社交帳號？";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "你可以更方便地發送你的直播推送信息到綁定的社交帳號，無需重新登入哦！";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "你可以方便地用不同的社交帳號登錄StarMe的同一個ID哦！";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "你可以隨意解綁、更換關聯StarMe的Mail或社交帳號哦！但請保證至少有一個賬號綁定在StarMe帳戶上，且要注意同一個Mail或社交帳號不可以綁定兩個StarMe帳號哦！";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "有人送你禮物哦~快說聲謝謝吧！";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "添加帳戶";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "你已被禁言";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "連接已斷開";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "綁定帳號";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "已被禁言，無法設置為管理員";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "取消管理員";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "是否取消管理員?";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "綁定成功";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "綁定失敗";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "該賬號已綁定";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "解綁失敗";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "解綁失敗，至少要有一個被綁定的賬號";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "快來看看世界各地的精彩生活！";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMe帶您體驗各國精彩生活";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "一大批明星進駐StarMe，快來看看吧！";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "沒有找到喜歡的主播？";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "下面都是StarMe上一些不錯的主播";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "完成";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "快關注主播，以免錯過下次直播噢！";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "發彈幕更能凸顯個性哦！";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "已發佈新版本";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "新版本功能更強大，體驗更好";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "馬上更新";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "稍後";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "收益";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "歷史記錄";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "當前星星數";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "申請提現";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "提現";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "提現失敗";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "上一筆交易為完成";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "輸入框必須填寫數字";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "提現申請已提交";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "提現金額：";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "確定";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "填寫帳號訊息";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "保存";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "個人信息";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "姓名";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "電話";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "聯絡地址";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "身份證號碼";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "帳號信息";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "銀行名稱";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "帳戶持有者";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "銀行帳戶";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "銀行地址";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "開戶銀行全稱（請寫清楚所在分行全稱）";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "簽約信息";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "你的經紀人：";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "你需要與你的經紀人分成的比例是：";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "你是否已經與StarMe簽署書面合同？";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "保存成功";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "提現成功";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "處理中";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "審核失敗";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "提現規則";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "任意時刻都可以提交提現申請，但需要上一筆交易完成才可以進行下一筆";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "直播記錄";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "暫無直播記錄";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "上一筆購買因未知原因未完成交易，需要重試嗎？";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "統計時間";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "平均同時觀看人數";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "已提交";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "提現記錄";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "如果想要分享到%@，需要先關聯帳號到StarMe";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "您已不是管理員";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "您已被設為管理員";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "輸入不能為空";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "請選擇支付方式";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "card number";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "點卡驗證失敗";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "該卡已充值";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "選擇點卡支付方式";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "請輸入序號";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "點卡";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "點卡支付";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "無法完成充值";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "暫無記錄";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "更多…";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "人氣排行榜";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "周榜";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "總榜";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "長按可快速發言~";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "星星數超過4萬才能申請提現";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "每筆提現的數目都必須是1萬的倍數";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "app正在初始化数据";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "舉報成功，官方會仔細核查";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "要從這個列表里刪除這個主播嗎?";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "粗俗或色情";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "違法或歧視";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "大頭貼違規";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "其他";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "賬號已註冊，立刻登入";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "獎勵";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "恭喜！通過分享你獲得了%d個星星";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "全球熱門話題";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "查看Facebook頁面";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "查看Twitter頁面";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "當前開播消息通知是關閉狀態，是否打開以免錯過下一場精彩直播？";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "馬上打開";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "稍後再說";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "不再提示";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "目前App系統消息通知是關閉狀態，是否打開以免錯過下一場精彩直播？";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "請填寫Mail以便我們與您聯繫";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "更多";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "Kakao登入";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "VK登入";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "分享給好友";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "請先安裝Kakao";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "FB申請添加好友";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "暫時沒有內容";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "還沒有綁定Twitter賬號";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "尚未綁定twitter賬號，您可在“設置”中添加或創建twitter賬號";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "Kakao授權失敗";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "獲得一個南瓜禮物";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "快去送給喜歡的主播吧！";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "活動介紹";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "領取的禮物已送完，還能到禮物欄購買哦！";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "等級";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "觀看直播和主播互動就可以獲得經驗值 /n自己開播經驗更加多哦 /n不想等待，禮物點起來，飛速升級";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "專屬圖標";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "排名靠前";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "進房特效";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "關注主播，不錯過下次直播";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "和主播聊聊天吧";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "喜歡主播就送小禮物吧";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "邀請朋友來看看";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@ 進入直播間，打個招呼吧";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "記得說謝謝哦";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "提醒大家點主播大頭貼加關注哦";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "進入";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "一道金光閃過，%@ 進入了直播間";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "附近";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "你關注的主播還沒開播";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "%@ 賬號授權已過期，重新授權即可使用";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "感謝您一直以來的支持，獎勵鑽石+%d";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "StarMe助手：歡迎使用StarMe，您可在此認識朋友、獲得更多粉絲並贏得禮物和現金獎勵";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "StarMe助手：想成為熱門人物，您需要擁有穩定的網絡連線，適宜的光線以及吸引人的主題";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "StarMe助手：邀請朋友參與，並在其他社交網站中分享您的直播，藉此增加觀眾數";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "StarMe助手：和剛進入直播間的觀眾打個招呼吧，感謝他們送禮物和點亮愛心，更多的互動讓你更受歡迎哦";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "StarMe助手：您可以觀看熱門直播，了解其他人在直播的時候都在做什麼，來獲得更多的靈感";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "使用清楚的大頭貼會更受歡迎哦";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "這張不錯!就決定用它了!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "重新授權";

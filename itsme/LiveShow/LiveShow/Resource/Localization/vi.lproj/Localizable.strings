@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: vi-VN, Vietnamese (Vietnam)
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "Cài đặt";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "Theo Dõi";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "HOT";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "Mới Nhất";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "Live";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "Theo dõi Live của bạn bè";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "Video lưu";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "Gợi ý Thần Tượng";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "Video lưu";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "Thêm các nhãn dán lên video của bạn";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "Bắt đầu Live";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "Live";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "Kim Cương";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%d EXP";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "Nạp Kim Cương";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "Gửi";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "Bạn ấy đã quên chữ ký rồi...";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "Đã gửi";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "Live";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "Fanned";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "Fans";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "PM";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "Theo dõi";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "Thêm vào danh sách đen";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "Theo dõi";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "Bạn bè đang đi vắng\nHiện tại vẫn chưa có Live";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "Mau đi xem Live mới nhất nào";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "%1$d Video đã lưu ";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "Mới nhất";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "HOT";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "Bạn ấy chưa từng Live";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "Bạn ấy vẫn chưa có người theo dõi";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "Bạn ấy vẫn chưa có Fans";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "Tên";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "Ký tên";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "Liên quan đến chúng tôi";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "Thu ích bản thân";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "Nạp Kim Cương";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "Level bản thân";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "Cài đặt";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "Đăng xuất";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "Mời bạn bè";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "Fans thân mật";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "Nhận thông báo";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "Liên quan đến chúng tôi";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "Người dùng kiến nghị";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "Danh sách đen";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "Chỉnh sửa thông tin cá nhân";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "Thoát";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "Nhắc nhỏ khi có Live";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "Bạn có thể tắt nhắc nhở Live của một ai đó và không nhận nhắc nhở từ người này";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "Chỉnh sửa thông tin";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "Cảnh quay";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "Quay hình";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "Chọn từ thư viện";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "Ngôi sao";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "Tiền có thể rút (đồng)";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "Tiền có thể rút hôm nay (đồng)";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "Đổi";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "Rút tiền";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "Vấn đề thường gặp";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "Xác nhận rút tiền";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "Rút tiền vào tài khoản Wechat";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "Rút tiền vào tài khoản Wechat:";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "Yêu cầu rút tiền đã gửi, xin đến Wechat kiểm tra";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "Hoàn thành";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "Dự kiến trong vòng 24h sẽ chuyển đến tài khoản";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "Tiền có thể rút (đồng)";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "Tài khoản còn dư:";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "Thu ích bản thân";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "Rút tiền thành công";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "Số tiền tích lũy rút (đồng):";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "Lịch sử rút tiền";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "Máy chủ không ổn định";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "Hiện tại: %1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "Theo dõi: %1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "Tặng: %1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "Fans: %1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "Số ngôi sao：%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "Theo dõi";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "Fans";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "Live";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "Xin nhập tên người bạn cần tìm";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "Tìm kiếm";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "Theo dõi";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "Trả lời";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "PM";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "Home";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "Báo cáo";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "Tặng: %1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "Ngôi sao";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "Quản lý";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "Xin chọn phương thức nạp";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "Phương thức nạp: tài khoản Wechat";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "Miễn phí";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "Khi gặp vấn đề nạp thẻ xin liên hệ Wechat meepay";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0 điểm";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "Tặng 0 kim cương";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "Bỏ qua chưa đọc";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "Chưa có bạn bè trò chuyện, hãy kiếm bạn bè ngay nào.";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "Garfield00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "Tặng %1$d ngôi sao";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "Tặng quà cho Streamer sẽ tăng độ thân mật Fans";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "Xem thêm";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "Đang tải...";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "NO.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "Đang theo dõi";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "Live của tôi";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "Đã theo dõi";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "Hủy danh sách cấm";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "Lưu";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "Tặng 1 cái";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "Gửi liên tục";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "Gợi ý";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "Hủy";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "Xác nhận";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "Xác nhận thoát khỏi Live？\n";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "Xác nhận cho vào danh sách cấm?";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "Phòng Chat";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "Nhật ký QQ";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "Facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "Twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "Weibo";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "Khoảnh khắc";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "Wechat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "Sửa chữ ký";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "Tối đa 32 ký tự";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "Tên gồm 16 ký tự";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "Tên chứa ký tự đặc biệt";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "Tên gồm 16 ký tự";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "Tên đã được sử dụng, hãy chọn tên khác";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "Sửa tên";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "Chữ ký có từ nhạy cảm";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "Hoàn thành";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "Đang xem";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "Bạn bè";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "Chưa theo dõi";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "Tải thất bại";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "Gửi";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "Trở về bàn phím";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "Gửi tin";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "Vừa mới";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "Phút trước";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "Giờ trước";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "Hôm qua";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "Cách 1 ngày";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "Chủ nhật";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "Thứ hai";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "Thứ ba";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "Thứ tư";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "Thứ năm";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "Thứ sáu";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "Thứ 7";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "Đang chat cùng %@ ";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "Thông tin nhập trống";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "Không được dài quá %d ký tự";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "Tin nhắn chat";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "Xin nhập từ khóa";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "Đăng nhập và đồng ý";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "Quy định StarMe";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "Chọn phương thức đăng nhập";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "Chưa đăng nhập";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "Chưa kết nối mạng, xin kiểm tra và thử lại";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "Đang tải. Xin chờ...";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "Đăng nhập thất bại";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "Không thấy tài khoản bạn đang tìm";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "Xác nhận báo cáo tài khoản này";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "Theo dõi Streamer";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "Home";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "Chia sẻ";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "Nhận được 0 ngôi sao";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0 người xem";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "Số người theo dõi: %d";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "Nhận được tiền U: %d";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "Live đã kết thúc";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "Lật ngược";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "Flash";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "Rất tiếc không nhận được nội dung liên quan";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "Xác nhận hủy bỏ danh sách đen";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "Cả thế giới đang đợi bạn Live";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "Bạn bè của bạn: %@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "đang live tại %@, vào xem nào!";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "Sao Hỏa";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "Độ thân mật Fans: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "Tạm thời không thể theo dõi";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "Tiền U bản thân";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "Chọn mốc nạp:";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "Rút tiền";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "Điền thông tin và xác nhận chính xác, nếu sai sẽ không thể rút tiền. Tất cả thông tin đều phải điền nhé";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "Họ:";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "Tên:";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "Tài khoản:";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "Điện thoại:";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "Đã xem và Đồng ý điều lệ rút tiền";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "Cố định tài khoản PAYPAL";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "Rút tiền từ thu ích";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "Yêu cầu đã được gửi";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "Sau khi rút tiền, dự kiến 15 ngày sẽ đến tài khoản, tiền nhận được sẽ dựa vào quy định pháp luật khấu trừ đi thuế và phí thủ tục";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "Tài Khoản PAYPAL:";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "Số tiền rút ra:";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "Số tiền nhận được:";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "Thu ích hiện tại";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "Chưa cố định";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "Trong vòng 15 ngày chỉ rút tiền 1 lần";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "Tiền có thể rút thấp hơn 100Usd, không thể rút.";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "Kim Cương không đủ, hãy nạp thêm Kim Cương!";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "Đã copy đến Clipboard";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "Home";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "Đậu U";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "Rút tiền";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "Quy định thu ích và rút tiền";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "Sử dụng tính năng rút tiền cần cố định 1 tài khoản có thể rút tiền";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "Cố định tài khoản rút tiền";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "Cài đặt";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "Đã tặng";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "Vấn đề của bạn:";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "Đã tặng 1 cái";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "Tặng: %1$s";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "Xem ngay: It\'s %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "Đã có phiên bản mới";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "Không có thông tin cần tìm";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "Tải thất bại, xin kiểm tra lại tình trang mạng.";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "Hoàn tất! cám ơn bạn đã để lại kiến nghị và giúp chúng tôi phát triển hơn.";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "Đang tải lên, xin chờ trong vài giây";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "Ứng dụng đang cập nhật";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "Danh sách đang được tải, xin chờ trong vài giây";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "Đang tải, xin chờ trong vài giây.";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "Nạp kim cương thành công:\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "Tình trạng mạng ảnh hưởng đến lỗi nạp kim cương, xin thử lại sau.";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "Vui lòng tải [Google Play] để nạp kim cương";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "Rất tiếc, sản phẩm đã bị xóa khỏi danh sách";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "Nạp kim cương thất bại";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "Hình đại diện";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "Giới tính";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "Mail";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "Nam";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "Nữ";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "Sửa giới tính";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "Bạn muốn LIVE! hãy vào StarMe:%@ ngay bây giờ!\n StarMe! là ứng dụng xem Live miễn phí giúp bạn thể hiện bản thân và theo dõi những Streamer nổi tiếng khác.";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "Điều khoản";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "Quy định";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "Riêng tư";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "Muốn trò chuyện với mọi người...";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "Theo dõi Streamer mình yêu thích\nVà không bỏ lỡ bất kỳ Live nào";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "Tên Tài khoản";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "Mật Khẩu";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "Đăng Ký";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "Đăng nhập bằng Mail";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "Đăng ký bằng Mail";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "Quên mật khẩu";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "Đăng nhập";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "Đang đăng nhập";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "Đăng ký thất bại";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "Mail bắt buộc phải điền";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "Tên tài khoản bắt buộc phải điền";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "Mật khẩu bắt buộc phải điền";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "Định dạng Mail không đúng";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "Mật khẩu tối thiểu gồm 6 ký tự";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "Mail đã được đăng ký";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "Mật khẩu không đúng";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "Mail chưa đăng ký";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@ đang StarMe Live";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "Giới tính";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "Báo cáo";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "Không tải được dữ liệu máy chủ, nếu trong thời gian dài không nhận được ";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "Tải dữ liệu thất bại";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "Đang tải lại";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "Đang tải....";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "Kéo xuống làm mới";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "Đang làm mới";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "Đang làm mới";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "Đăng nhập bằng";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "Đường truyền mạng mất kết nối, đang kết nối lại";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "Đường truyền mạng bất thường, đã tạm ngưng theo dõi";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "Đường truyền mạng bất thường, đã tạm ngưng Live";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "Live";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "Hãy tuân thủ quy định Live và nội dung trò chuyện,  #Cám ơn! Nếu vi phạm tài khoản của bạn sẽ bị xử lý.";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "Bắt đầu chat trực tuyến, 1 kim cương /1 tin";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "StarMe muốn gửi thông báo đến bạn. Khi bạn theo dõi 1 người nào đó, sẽ xuất hiện thông báo khi người đó bắt đầu Live. Vào cài đặt để thiết lập nhé.";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "Được phép";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "Không được phép";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@ đã chia sẻ Live";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "Sân khấu là một hành trình cuộc sống";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "Mật khẩu không được vượt quá 16 ký tự";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "Kéo qua trái để xóa bỏ danh sách cấm";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "Kéo quá trái để xóa Video đã lưu";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "Xóa bỏ Video đã lưu";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "Không có kết quả cho \”%@\”";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "Báo cáo hoàn tất!";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "Tài khoản StarMe đang đăng nhập ở 1 thiết bị khác, thiết bị này sẽ bị thoát ra";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "Chia sẻ đến:";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "Mở định vị";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "Tắt định vị";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "Bạn hãy hành động để giúp chúng tôi phát triển hơn nhé!";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "Hoàn tất!";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "Lỗi";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "Chia sẻ thành công";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "Chia sẻ thất bại";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "Kéo lên sẽ tải nhiều hơn nữa";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "Mã xác thực đã gửi";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "Mã xác thực đã gửi";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "Mã xác nhận";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "Mật khẩu mới";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "Xác thực mật khẩu";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "Hộp thư chưa được đăng ký";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "Quên mật khẩu";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "Mã xác thực đã gửi";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "Mã xác thực";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "Mật khẩu mới";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "Xác xác thực mật khẩu";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "Mật khẩu không đúng";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "Mã xác thực không được để trống";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "Khôi phục mật khẩu thành công";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "Khôi phục mật khẩu";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "Gửi lại";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "Mở làm đẹp";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "Tắt làm đẹp";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "Streamer tạm thời rời khỏi, sẽ quay lại ngay thôi!";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "Live trong vòng 30 phút sẽ không được lưu lại";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "Đã lưu để được xem lại";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "Xóa bỏ";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "Bạn có biết Live Stream, Hãy đến cùng trải nghiệm nào!";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "Gửi mã xác nhận";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "Mạng đang bất thường";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "Code không đúng";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "Khôi phục mật khẩu thất bại";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "Mở tính năng định vị, cần thiết lập quyền truy cập tại hệ thống cài đặt";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "Thiết lập quyền";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "Mở Flash";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "Tắt Flash";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "Chuyển máy ảnh";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "Nhấn bắt đầu Live";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "Hộp thư chưa được đăng ký";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "Thư không thể gửi đến hộp thư";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "Lỗi mã";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "Khôi phục mật khẩu thất bại";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "Gửi lại mật khẩu thành công";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "Gửi lại";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "Mặc định đồng ý quy định khi Live";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "Vấn đề hoặc kiến nghị";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "Nhập hộp thư vào để tiện liên lạc";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "Ngôi sao";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "Làm đẹp";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "Để khôi phục mật khẩu, hãy nhập hộp thư cố định.\n Thư sẽ được gửi đến ngay.";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "《Quy Định Sử Dụng Của StarMe 》";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "Kéo qua phải để làm mới màn hình";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "Kéo lên hoặc xuống để thay đổi phòng Live";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "Đậu U";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "Ứng dụng hiện tại không được phép truy cập camera, hãy vào \"Cài đặt\" thiết lập quyền truy cập";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "Streamer đã rời khỏi trong giây lát";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "Mở bình luận trực tuyến";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "Ứng dụng yêu cầu quyền sử dụng camera, hãy thiết lập ngay";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "Cấm dùng Mic";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "Ứng dụng yêu cầu quyền truy cập Mic, hãy thiết lập ngay";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "Có phiên bản mới, hãy cập nhật ngay";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "Khôi phục";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "Gửi lại";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "Mật khẩu không đúng";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "Không thể sử dụng máy ảnh";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "Nạp thẻ";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "Chọn phương thức nạp";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "Tiền mặt";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12 cuộc gọi";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "Vui Vẻ";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "Chọn loại thẻ nạp:";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "Thẻ nạp đã sử dụng";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "Mật mã không tồn tại";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "Thẻ nạp đã quá hạn";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "Bạn từ chối quyền sử dụng Line pay(thẻ cào), cần đồng ý để có thể sử dụng.";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "Line Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "Cấp Level của bạn dưới 2, không thể Live. Tham gia giao lưu nhiều hơn để tăng cấp Level.";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "Máy chủ xảy ra lỗi, xin vào lại sau";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "Line";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "Đường truyền mạng không tốt, đã tự chuyển sang hiển thị rõ nét";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "Đường truyền mạng không tốt";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "Đường truyền mạng Streamer không tốt, sẽ ảnh hưởng đến quá trình theo dõi";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "Phiên bản hiện tại không thể dùng, xin cập nhật bản mới nhất";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "Điều chỉnh Admin";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "Danh sách Admin";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "Cấm";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "Xin cài đặt Line trước";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "Vấn đề nạp thẻ liên hệ:";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "Bạn có biết";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "Tài khoản của bạn đã khóa vĩnh viễn, không thể Live nữa";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "Tài khoản sẽ bị khóa 1 ngày, xin vào lại sau";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "Lần sau Live cần tuân thủ quy định sử dụng";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "《Quy Định Sử Dụng Của StarMe 》";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "Muốn xem: %@ Live stream! vào ngay StarMe nào!";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "Nội dung Live đã vi phạm";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "Tài khoản sẽ bị khóa 1 ngày";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "Tài khoản sẽ bị khóa vĩnh viễn";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "Khi tiếp tục vi phạm sẽ bị khóa vĩnh viễn";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "Nội dung Live của Streamer đã vi phạm và bị ngừng phát";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "Ứng dụng chưa được phép truy cập Mic, xin vào cài đặt mở quyền truy cập";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "Nội dung Live của bạn đã vi phạm, tài khoản sẽ bị khóa 1 ngày, xin tuân thủ quy định sử dụng";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "Nội dung Live của bạn đã vi phạm, tài khoản sẽ bị khóa vĩnh viễn";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "Tài khoản của bạn bị khóa 1 ngày, xin hãy vào lại sau, xin tuân thủ quy định sử dụng";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "Tài khoản của bạn đã khóa vĩnh viễn, không thể xem nữa";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "Vấn đề thường gặp";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "Đường truyền mạng không tốt, đã tự chuyển sang hiển thị rõ nét";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "Vấn đề thường gặp";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "Vấn đề nạp Kim Cương";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "Vấn đề Live";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "Vấn đề tài khoản";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "Vấn đề thắc mắc";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "Hãy cho chúng tôi 5 sao ?";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "Chuyện nhỏ!";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "Từ chối....";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "Giúp chúng tôi phát triển hơn";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "Chưa có Video lưu>-<";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "Live cần dài trên 30 phút mới có thể lưu lại!";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "Hiện tại bạn vẫn chưa có Fans>-<";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "Live thật nhiều, người theo dõi càng nhiều thì càng được nhiều Fans hơn!";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "Hãy chọn thật kỹ hình đại diện để có thật nhiều người theo dõi nhé, tải ngay lên nào!";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "Chọn hình trong thư viện.";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "Nhấn vào đây để bắt đầu Live nào!";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "Hãy chia sẻ thông tin Live đến Fans nhé!";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "Thiết bị này vẫn chưa cài đặt mail, hãy cài đặt ngay trong iCould Drive";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "Hãy chia sẽ thông tin Live của bạn đến các fans nhé.";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "Cài đặt máy ảnh";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "Hãy chọn hình đại diện thật đẹp để nhiều người theo dõi hơn nhé!";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "Tặng quà cho VJ sẽ giúp tăng số ngôi sao của VJ!";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "Bạn tạm thời vẫn chưa có Fans>-<";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "Thường xuyên Live để có cơ hội được nhiều Fans hơn nhé!";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "Bạn ấy vẫn chưa có Fans...";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "Tặng quà cho Streamer sẽ được thêm vào danh sách Fans!";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "Bạn chưa theo dõi người nào cả";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "Thường xuyên xem Live để tìm kiếm người ấy, \nTheo dõi người ấy, đừng bỏ lỡ bất kỳ khoảnh khắc nào nhé!";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "Xem Live đang phát";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "Chưa có Video lưu>-<";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "Live cần dài trên 30 phút mới có thể lưu lại!";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "Chuẩn bị xuất hiện......";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "Chào mừng bạn quay lại, có muốn tiếp tục Live？";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "Danh sách Admin";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "Đã khóa chat";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "Hủy bỏ Admin";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@ được điều chỉnh thành Admin kênh";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@ bị cấm chat";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "Điều chỉnh Admin kênh thất bại, xin thử lại";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "Cấm chat thất bại, xin thử lại";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "Hủy quyền Admin thất bại, xin thử lại";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@ bị hủy quyền Admin";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "+ %@ Kim Cương";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "Mất kết nối";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "Tài khoản cố định";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "Chưa cố định";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "Hủy cố định";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "Tài khoản của bạn";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "Tại sao phải cố định tài khoản?";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "Bạn có thể gửi thông báo Live trên các tài khoản cố định mà không cần đăng nhập lại.";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "Bạn có thể dùng nhiều tài khoản để đăng nhập cùng 1 ID StarMe";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "Bạn có thể thay đổi tài khoản cố định cho StarMe! nhưng tối thiểu phải có 1 tài khoản dùng để cố định, một tài khoản không thể cố định cho hai StarMe";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "Đã có bạn tặng quà~mau nói lời cám ơn nào!";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "Thêm tài khoản";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "Bạn đã bị khóa chat";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "Mất kết nối";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "Cố định tài khoản";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "Đang bị khóa chat, không thể điều chỉnh Admin";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "Hủy bỏ Admin";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "Muốn hủy bỏ Admin?";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "Kết nối thành công";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "Kết nối thất bại";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "Tài khoản đã được kết nối";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "Ngắt kết nối thất bại";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "Không thể ngắt kết nối, tối thiểu phải có 1 tài khoản kết nối";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "Hãy đến tham quan cuộc sống của các bạn Streamer trên thế giới nào!";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "Hãy cùng StarMe trải nghiệm cuộc sống của cả thế giới nào";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "Rất nhiều người nổi tiếng đã đến với StarMe, mau đến xem nào!";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "Không tìm đựơc VJ Yêu Thích?";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "Các Hot VJ của StarMe";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "Hoàn Thành";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "Mau theo dõi Streamer nào, đừng để bỏ lỡ cơ hội xem Live của bạn ấy!";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "Thể hiện cá tính bằng cách gửi nhiều món quà lên màn hình chat nhé.";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "Đã có bản update";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "Bản cập nhận mới rất nhiều tính năng, trải nghiệm càng thích thú hơn";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "Cập nhật";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "Xin đợi";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "Thu ích";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "Lịch sử";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "Kim cương hiện tại";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "Yêu cầu rút tiền";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "Rút tiền";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "Rút tiền thất bại";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "Lần giao dịch trước vẫn chưa hoàn thành";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "Khung thông tin yêu cầu nhập số";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "Yêu cầu đã được gửi";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "Số tiền rút:";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "Xác nhận";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "Điền thông tin tài khoản";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "Lưu";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "Thông tin cá nhân";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "Họ Tên";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "Số điện thoại";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "Địa Chỉ Nhà";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "Số CMND";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "Thông tin tài khoản";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "Tên Ngân Hàng";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "Chủ tài khoản";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "Tài khoản ngân hàng";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "Địa chỉ ngân hàng";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "Tên ngân hàng đăng ký (yêu cần điền đầy đủ tên chi nhánh)";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "Thông tin hợp đồng";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "Người quản lý của bạn:";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "Bạn cùng người quản lý sẽ chia tỷ lệ thù lao:";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "Bạn đã có hợp đồng quản lý với StarMe?";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "Lưu thành công";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "Rút tiền thành công";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "Đang xử lý";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "Yêu cầu thất bại";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "Quy định rút tiền";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "Bạn có thể rút tiền vào mọi lúc, nhưng phải hoàn thành lần giao dịch trước thì mới có thể tiếp tục giao dịch tiếp theo";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "Lưu Video";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "Tạm thời chưa có Video lưu";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "Lần mua hàng trước vẫn chưa hoàn thành, có muốn thử lại ?";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "Tổng thời gian";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "Số người xem cùng lúc";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "Đã gửi";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "Hiện video lưu";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "Nếu muốn chia sẻ đến %@, cần kết nối tài khoản với StarMe";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "Bạn hiện không phải là quản trị viên";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "Bạn được chỉ định làm Quản trị viên";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "Nội dung không thể trống";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "Hãy chọn hình thức nạp";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "Thẻ Cào";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "Thẻ cào kiểm tra thất bại";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "Thẻ này đã được sử dụng";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "Chọn kênh nạp";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "Vui lòng nhập số serial";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "Thẻ cào";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "Nạp bằng thẻ cào";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "Không thể nạp thẻ";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "Không có lịch sử nạp";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "Thêm nữa";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "Bảng Xếp Hạng";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "Tuần";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "Tổng";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "Nhấn để phát ngôn";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "Đá quý cần nhiều hơn 40000 mới có thể rút tiền";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "Kim cương rút phải là bội số của 10000";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "App đang tải dữ liệu";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "Báo cáo thành công, QTV sẽ kiểm tra";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "Có muốn xoá VJ này không?";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "Kích dục hoặc biến thái";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "Vi phạm nội quy";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "Ảnh đại diện vi phạm";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "Khác";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "Đã đăng ký. đăng nhập ngay";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "Thưởng";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "Chúc mừng! Chia sẻ nhận được %d KC";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "Từ khóa hot";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "Xem Facebook";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "Xem Twitter";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "Thông báo đã tắt, có muốn mở lại không?";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "Mở ngay";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "Để sau";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "Không hiện thị nữa";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "Thông báo của app đang tắt, có muốn mở không?";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "Hãy ghi rõ Email để chúng tôi tiện liên lạc nhé";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "Khác";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "Đăng Nhập Kakao";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "Đăng nhập VK";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "Chia sẻ cho bạn bè";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "Xin cài đặt Kakao trước";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "Mời bạn bè FB";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "Chưa có nội dung";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "Vẫn chưa cố định tài khoản Twitter";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "Vào \"Cài Đặt\" để thêm hoặc đăng ký tài khoản Twitter";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "Trao quyền Kakao thất bại";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "Nhận được 1 trái Bí ngô";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "Hãy tặng cho VJ mà bạn yêu thích!";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "Sự Kiện ";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "Đã hết quà tặng, hãy đi mua thêm";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "Cấp";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "Xem và chat với VJ sẽ nhận được Kinh nghiệm /nTự mình live sẽ nhận nhiều kinh nghiệm hơn /nCòn đợi gì nữa, tặng quà ngay nào";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "Nhãn chuyên thuộc";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "Xếp hạng Top";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "Hiệu ứng vào phòng";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "Theo dõi VJ, không bỏ lỡ lần live sau";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "Chat với VJ nào";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "Yêu thích VJ thì tặng quà nhé";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "Mời bạn bè vào xem";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@ đã vào phòng, đến chào cái nào";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "Nhớ nói lời cám ơn nhé";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "Hãy nhắc nhở mọi người nhấn theo dõi nhé";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "Vào";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "Có ánh sáng vừa lóe lên, %@ đã vào phòng";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "Gần đây";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "VJ mà bạn theo dõi chưa lên live";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "Tài khoản %@ đã quá hạn, vui lòng thử lại";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "Cám ơn bạn đã ủng hộ, kim cương thưởng+%d";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "Trợ thủ StarMe: Chào mừng sử dụng StarMe, bạn có thể vào đây làm quen bạn bè, sẽ nhận được thêm nhiều Fans, quà và cả phần thưởng nữa nhé";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "Trợ thủ StarMe: Muốn trở thành nhân vật Hot, bạn cần kết nối Wifi mạnh, và biết cách thu hút người xem";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "Trợ thủ StarMe: Mời bạn bè tham gia, chia sẻ Video live của bạn lên các trang MXH khác, tăng lượt view cho bạn";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "Trợ thủ StarMe: Hãy gửi lời chào đến khán giả mới vào phòng, cám ơn họ đã tặng quà, cố gắng trò chuyện với họ càng nhiều càng tốt";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "Trợ thủ StarMe: Bạn có thể xem những VJ Hot, học hỏi những gì họ đã live, để tích lũy thêm kinh nghiệm ";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "Dùng hình đại diện đẹp sẽ thu hút hơn đó!";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "Tấm hình rất đẹp! Dùng nó thôi!";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "Giấy phép";

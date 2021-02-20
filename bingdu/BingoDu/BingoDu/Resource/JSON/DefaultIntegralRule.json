@@ -1,0 +1,96 @@
+{
+    "rules" : [
+               {
+               "display" : true,
+               "pointMax" : 5,
+               "pointName" : "每日登陆",
+               "pointType" : 1,
+               "pointValue" : 5
+               },
+               {
+               "display" : true,
+               "pointMax" : 6,
+               "pointName" : "分享新闻",
+               "pointType" : 2,
+               "pointValue" : 2
+               },
+               {
+               "display" : true,
+               "pointMax" : 500,
+               "pointName" : "推荐注册",
+               "pointType" : 3,
+               "pointValue" : 100
+               },
+               {
+               "display" : true,
+               "pointMax" : 15,
+               "pointName" : "分享被阅读",
+               "pointType" : 4,
+               "pointValue" : 1.5
+               },
+               {
+               "display" : true,
+               "pointMax" : 5,
+               "pointName" : "评论点赞",
+               "pointType" : 5,
+               "pointValue" : 0.5
+               },
+               {
+               "display" : true,
+               "pointMax" : 5,
+               "pointName" : "评论被点赞",
+               "pointType" : 6,
+               "pointValue" : 0.5
+               },
+               {
+               "display" : true,
+               "pointMax" : 10,
+               "pointName" : "评论新闻",
+               "pointType" : 7,
+               "pointValue" : 1
+               },
+               {
+               "display" : true,
+               "pointMax" : 9,
+               "pointName" : "阅读新闻",
+               "pointType" : 8,
+               "pointValue" : 0.3
+               },
+               {
+               "display" : true,
+               "pointMax" : 10,
+               "pointName" : "点击广告",
+               "pointType" : 9,
+               "pointValue" : 5
+               },
+               {
+               "display" : false,
+               "pointMax" : 10,
+               "pointName" : "提现分享",
+               "pointType" : 10,
+               "pointValue" : 10
+               },
+               {
+               "display" : false,
+               "pointMax" : 10,
+               "pointName" : "兑换商品",
+               "pointType" : 11,
+               "pointValue" : 10
+               },
+               {
+               "display" : false,
+               "pointMax" : 40,
+               "pointName" : "绑定账号",
+               "pointType" : 12,
+               "pointValue" : 20
+               },
+               {
+               "display" : false,
+               "pointMax" : 2000,
+               "pointName" : "活动专用",
+               "pointType" : 13,
+               "pointValue" : 20
+               }
+               ],
+    "version" : "1.0"
+}

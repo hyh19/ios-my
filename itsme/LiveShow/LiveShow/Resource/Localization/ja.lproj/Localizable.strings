@@ -1,0 +1,1864 @@
+/*
+ * Loco ios export: iOS Localizable.strings
+ * Project: It's Me!
+ * Release: Working copy
+ * Locale: ja-JP, Japanese (Japan)
+ * Exported by: It's Me! Everyone Happy Entertainment Limited
+ * Exported at: Mon, 05 Dec 2016 06:11:05 +0000
+ */
+
+/* loco:5708ca1414d72553138b4567 */
+"app_name" = "StarMe";
+
+/* loco:5708ca1414d72553138b4568 */
+"action_settings" = "設定";
+
+/* loco:5708ca1414d72553138b4569 */
+"item_tab_focus" = "フォロー";
+
+/* loco:5708ca1414d72553138b456a */
+"item_tab_hot" = "人気";
+
+/* loco:5708ca1414d72553138b456b */
+"item_tab_recomm" = "最新";
+
+/* loco:5708ca1414d72553138b456c */
+"item_audio_status_living" = "ライブ";
+
+/* loco:5708ca1414d72553138b456d */
+"focus_list_header" = "フォローする";
+
+/* loco:5708ca1414d72553138b456e */
+"record_item_header" = "リプレイ";
+
+/* loco:5708ca1414d72553138b456f */
+"master_recomm_item_header" = "オススメ";
+
+/* loco:5708ca1414d72553138b4570 */
+"record" = "リプレイ";
+
+/* loco:5708ca1414d72553138b4571 */
+"live_rooname_default" = "タイトルにハッシュタグをつけましょう！";
+
+/* loco:5708ca1414d72553138b4572 */
+"live_start" = "ライブ開始";
+
+/* loco:5708ca1414d72553138b4573 */
+"room_live_logo" = "ライブ配信中";
+
+/* loco:5708ca1414d72553138b4574 */
+"room_ticket" = "スター";
+
+/* loco:5708ca1414d72553138b4575 */
+"room_gift_exp" = "+%dEXP";
+
+/* loco:5708ca1414d72553138b4576 */
+"recharge" = "チャージ：";
+
+/* loco:5708ca1414d72553138b4577 */
+"room_send" = "送信";
+
+/* loco:5708ca1414d72553138b4578 */
+"userhome_description_default" = "恥ずかしがらず自己紹介してみましょう！";
+
+/* loco:5708ca1414d72553138b4579 */
+"userhome_account_inout_default" = "送信済み";
+
+/* loco:5708ca1414d72553138b457a */
+"userhome_lives_num_default" = "ライブ";
+
+/* loco:5708ca1414d72553138b457b */
+"userhome_follows_num_default" = "フォロー";
+
+/* loco:5708ca1414d72553138b457c */
+"userhome_fans_num_default" = "フォロワー";
+
+/* loco:5708ca1414d72553138b457d */
+"sixin_chat" = "メッセージ";
+
+/* loco:5708ca1414d72553138b457e */
+"sixin_follow" = "フォロー";
+
+/* loco:5708ca1414d72553138b457f */
+"sixin_lahei" = "ブロック";
+
+/* loco:5708ca1414d72553138b4580 */
+"sixin_following" = "フォロー";
+
+/* loco:5708ca1414d72553138b4581 */
+"hall_no_live_tip" = "ライブ中のフレンドはいません！";
+
+/* loco:5708ca1414d72553138b4582 */
+"hall_goto_hot" = "新着ライブをチェック！";
+
+/* loco:5708ca1414d72553138b4583
+ * 修改前<string name="hall_live_records_num_default">0个精彩回放</string>
+ 修改后 */
+"hall_live_records_num_default" = "リプレイ%1$d";
+
+/* loco:5708ca1414d72553138b4584 */
+"hall_live_recent" = "最新";
+
+/* loco:5708ca1414d72553138b4585 */
+"hall_live_hottest" = "人気";
+
+/* loco:5708ca1414d72553138b4586 */
+"emtpy_living" = "ライブ配信なし";
+
+/* loco:5708ca1414d72553138b4587 */
+"emtpy_following" = "フォローなし";
+
+/* loco:5708ca1414d72553138b4588 */
+"emtpy_fans" = "フォロワーなし";
+
+/* loco:5708ca1414d72553138b4589 */
+"userhome_nickname_tip" = "ユーザー名";
+
+/* loco:5708ca1414d72553138b458a */
+"userhome_description_tip" = "ひとこと";
+
+/* loco:5708ca1414d72553138b458b
+ * <string name="title_activity_user_setting">UserSettingActivity</string>
+ <string name="title_activity_protrait__edit">Protrait_EditActivity</string> */
+"usersetting_aboutus" = "StarMeについて";
+
+/* loco:5708ca1414d72553138b458c */
+"userhome_my_gain_item" = "収益";
+
+/* loco:5708ca1414d72553138b458d */
+"userhome_my_account" = "チャージ";
+
+/* loco:5708ca1414d72553138b458e */
+"userhome_my_level" = "レベル";
+
+/* loco:5708ca1414d72553138b458f */
+"userhome_nodisturb" = "設定";
+
+/* loco:5708ca1414d72553138b4590 */
+"userhome_logout" = "ログアウト";
+
+/* loco:5708ca1414d72553138b4591 */
+"userhome_my_invite" = "招待";
+
+/* loco:5708ca1414d72553138b4592 */
+"room_contributor_contributors" = "フォロワーランキング";
+
+/* loco:5708ca1414d72553138b4593
+ * 设置 */
+"settings_manage_push" = "プッシュ通知";
+
+/* loco:5708ca1414d72553138b4594 */
+"settings_about_us" = "サービス概要";
+
+/* loco:5708ca1414d72553138b4595 */
+"settings_feedback" = "フィードバック";
+
+/* loco:5708ca1414d72553138b4596 */
+"settings_balck_list" = "ブロックリスト";
+
+/* loco:5708ca1414d72553138b4597 */
+"settings_edit_userinfo" = "プロフィール編集";
+
+/* loco:5708ca1414d72553138b4598 */
+"log_out" = "ログアウト";
+
+/* loco:5708ca1414d72553138b4599
+ * 消息提醒 */
+"usersetting_live_msg_alert" = "ライブ配信のお知らせ";
+
+/* loco:5708ca1414d72553138b459a */
+"usersetting_nodisturb_open_tip" = "お知らせをオフにすれば通知が来ません";
+
+/* loco:5708ca1414d72553138b459b
+ * <string name="title_activity_user_setting_msg_alert">UserSettingMsgAlertActivity</string> */
+"userhome_edit_info" = "プロフィール";
+
+/* loco:5708ca1414d72553138b459c
+ * 用户资料编辑 */
+"live_take_cover" = "ホーム画面を撮る";
+
+/* loco:5708ca1414d72553138b459d */
+"login_take_photo" = "写真を撮る";
+
+/* loco:5708ca1414d72553138b459e */
+"userhome_choose_from_photoalbum" = "アルバムから選択";
+
+/* loco:5708ca1414d72553138b459f
+ * <string name="title_activity_user_info_edit__protrait">ProtraitEditActivity</string>
+ 我的收益 */
+"charge_ying_point" = "スター";
+
+/* loco:5708ca1414d72553138b45a0 */
+"charge_value_default" = "0";
+
+/* loco:5708ca1414d72553138b45a1 */
+"charge_withdraw_all" = "現金化申請可能額";
+
+/* loco:5708ca1414d72553138b45a2 */
+"charge_withdraw_today" = "今日の現金化可能額";
+
+/* loco:5708ca1414d72553138b45a3 */
+"charge_exchange" = "現金化する";
+
+/* loco:5708ca1414d72553138b45a4 */
+"charge_withdraw_cash" = "現金化";
+
+/* loco:5708ca1414d72553138b45a5 */
+"charge_common_problems" = "よくある質問";
+
+/* loco:5708ca1414d72553138b45a6 */
+"charge_withdraw_cash_confirm" = "OK";
+
+/* loco:5708ca1414d72553138b45a7 */
+"charge_withdraw_cash_to_wechat" = "WeChatアカウントに振込";
+
+/* loco:5708ca1414d72553138b45a8 */
+"charge_withdraw_cash_to_account" = "振込先：";
+
+/* loco:5708ca1414d72553138b45a9 */
+"charge_withdraw_cash_success_tip1" = "現金化申請済み。WeChatをチェック！";
+
+/* loco:5708ca1414d72553138b45aa */
+"charge_withdraw_cash_money" = "￥%1$s";
+
+/* loco:5708ca1414d72553138b45ab */
+"charge_withdraw_cash_complete" = "完成";
+
+/* loco:5708ca1414d72553138b45ac */
+"charge_withdraw_success_tip" = "24時間以内に振込されます";
+
+/* loco:5708ca1414d72553138b45ad */
+"charge_withdraw_cash_count" = "金額：";
+
+/* loco:5708ca1414d72553138b45ae */
+"charge_balance" = "所有ダイヤ数：";
+
+/* loco:5708ca1414d72553138b45af */
+"userhome_my_gain" = "収益";
+
+/* loco:5708ca1414d72553138b45b0 */
+"charge_withdraw_cash_success" = "現金化に成功";
+
+/* loco:5708ca1414d72553138b45b1 */
+"charge_withdraw_cash_all" = "現金化合計：";
+
+/* loco:5708ca1414d72553138b45b2 */
+"charge_withdraw_history" = "現金化記録";
+
+/* loco:5708ca1414d72553138b45b3
+ * <string name="title_activity_user_gain">UserGainActivity</string>
+ 我的等级 */
+"network_server_wrong" = "ネットワーク接続エラー";
+
+/* loco:5708ca1414d72553138b45b4
+ * 房间里面的点击游客头像出来的对话框 */
+"userinfo_verify" = "認証：%1$s";
+
+/* loco:5708ca1414d72553138b45b5 */
+"userinfo_follows" = "フォロー中：%1$s";
+
+/* loco:5708ca1414d72553138b45b6 */
+"userinfo_out_gold" = "送信：%1$s";
+
+/* loco:5708ca1414d72553138b45b7 */
+"userinfo_fans" = "フォロワー：%1$s";
+
+/* loco:5708ca1414d72553138b45b8 */
+"userinfo_gain" = "スター：%1$s";
+
+/* loco:5708ca1414d72553138b45b9 */
+"userhome_followers_prefix" = "フォロー";
+
+/* loco:5708ca1414d72553138b45ba */
+"userhome_fans_prefix" = "フォロワー";
+
+/* loco:5708ca1414d72553138b45bb */
+"userhome_lives_prefix" = "ライブ配信";
+
+/* loco:5708ca1414d72553138b45bc */
+"userhome_searchfriend_hint" = "頭文字2文字で検索";
+
+/* loco:5708ca1414d72553138b45bd */
+"userhome_search" = "検索";
+
+/* loco:5708ca1414d72553138b45be */
+"userhome_add_attention" = "フォロー";
+
+/* loco:5708ca1414d72553138b45bf */
+"userhome_room_reply" = "返信";
+
+/* loco:5708ca1414d72553138b45c0 */
+"userhome_private_chat" = "チャット";
+
+/* loco:5708ca1414d72553138b45c1 */
+"userhome_goto_home" = "ホーム";
+
+/* loco:5708ca1414d72553138b45c2 */
+"room_roomuser_manage" = "報告";
+
+/* loco:5708ca1414d72553138b45c3 */
+"userhome_account_inout" = "送信:%1$s";
+
+/* loco:5708ca1414d72553138b45c4 */
+"userhome_account_goldcoin" = "スター";
+
+/* loco:5708ca1414d72553138b45c5 */
+"global_manage" = "管理";
+
+/* loco:5708ca1414d72553138b45c6
+ * 我的钻石 */
+"charge_choose_paymethod" = "支払い方法を選択";
+
+/* loco:5708ca1414d72553138b45c7 */
+"charge_choose_numof_charge_default" = "WeChat";
+
+/* loco:5708ca1414d72553138b45c8 */
+"charge_free" = "無料";
+
+/* loco:5708ca1414d72553138b45c9 */
+"charge_meepay_customservice" = "チャージに関してはmeepayカスタマーサービスまでお問合せ下さい";
+
+/* loco:5708ca1414d72553138b45ca */
+"charge_points_default" = "0ポイント";
+
+/* loco:5708ca1414d72553138b45cb */
+"charge_desc_default" = "0ダイヤをプレゼント";
+
+/* loco:5708ca1414d72553138b45cc
+ * 用户消息 */
+"ignoreunread" = "未読を無視";
+
+/* loco:5708ca1414d72553138b45cd */
+"sixin_nonfriends" = "まだ会話がありません。フレンドと話しましょう！";
+
+/* loco:5708ca1414d72553138b45ce
+ * 映票贡献榜 */
+"userhome_nickname_default" = "Garfield00";
+
+/* loco:5708ca1414d72553138b45cf */
+"room_contributor_contribution" = "スター%1$d寄付";
+
+/* loco:5708ca1414d72553138b45d0 */
+"room_contributors_contribution_default" = "配信者にギフトを送ると親密度がアップ";
+
+/* loco:5708ca1414d72553138b45d1 */
+"global_more" = "もっと";
+
+/* loco:5708ca1414d72553138b45d2 */
+"loading_text" = "読み込み中・・・";
+
+/* loco:5708ca1414d72553138b45d3 */
+"room_contributor_rank" = "NO.%1$d";
+
+/* loco:5708ca1414d72553138b45d4 */
+"userhome_followings" = "フォロー中";
+
+/* loco:5708ca1414d72553138b45d5 */
+"hall_my_liverecords" = "MYライブ";
+
+/* loco:5708ca1414d72553138b45d6
+ * 个人信息页面 */
+"userhome_already_followed" = "フォロー済み";
+
+/* loco:5708ca1414d72553138b45d7 */
+"otheruserhome_blacklist" = "ブロック解除";
+
+/* loco:5708ca1414d72553138b45d8
+ * 保存头像图片 */
+"global_save" = "保存";
+
+/* loco:5708ca1414d72553138b45d9
+ * 送礼 */
+"send_gift" = "ギフトを贈る";
+
+/* loco:5708ca1414d72553138b45da */
+"send_continue_str" = "連続";
+
+/* loco:5708ca1414d72553138b45db
+ * 提示对话框 */
+"global_tip" = "ヒント";
+
+/* loco:5708ca1414d72553138b45dc */
+"global_cancel" = "キャンセル";
+
+/* loco:5708ca1414d72553138b45dd */
+"confirm" = "確認";
+
+/* loco:5708ca1414d72553138b45de */
+"exit_play" = "終了しますか？";
+
+/* loco:5708ca1414d72553138b45df */
+"lahei_alert" = "ブロックしますか？";
+
+/* loco:5708ca1414d72553138b45e0
+ * 私信 */
+"chat_title_default" = "チャットルーム";
+
+/* loco:5708ca1414d72553138b45e1 */
+"share_qqzone" = "QQ";
+
+/* loco:5708ca1414d72553138b45e2 */
+"share_facebook" = "facebook";
+
+/* loco:5708ca1414d72553138b45e3 */
+"share_qq" = "QQ";
+
+/* loco:5708ca1414d72553138b45e4 */
+"share_twitter" = "Twitter";
+
+/* loco:5708ca1414d72553138b45e5 */
+"share_sinaweibo" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e6 */
+"share_friendcircle" = "友達";
+
+/* loco:5708ca1414d72553138b45e7 */
+"share_wechat" = "WeChat";
+
+/* loco:5708ca1414d72553138b45e8
+ * 新增修改个人信息相关string */
+"userhome_update_sign" = "変更する";
+
+/* loco:5708ca1414d72553138b45e9 */
+"userhome_input_maxcount_tip1" = "32文字以内で入力";
+
+/* loco:5708ca1414d72553138b45ea */
+"userhome_input_maxcount_tip2" = "16文字以内で入力";
+
+/* loco:5708ca1414d72553138b45eb */
+"userhome_input_maxcount_tip3" = "無効な文字が含まれています";
+
+/* loco:5708ca1414d72553138b45ec */
+"userhome_nickname_format_error" = "ユーザー名は16文字以内で入力";
+
+/* loco:5708ca1414d72553138b45ed */
+"userhome_nickname_exists" = "既に使用されているユーザー名です";
+
+/* loco:5708ca1414d72553138b45ee */
+"userhome_update_nickname" = "名前変更";
+
+/* loco:5708ca1414d72553138b45ef */
+"userhome_sensitive_word_error" = "不適切な言葉が使われています";
+
+/* loco:5708ca1414d72553138b45f0 */
+"userhome_complete" = "完成";
+
+/* loco:5708ca1414d72553138b45f1
+ * 新增直播相关string */
+"live_record_watching" = "視聴者";
+
+/* loco:5708ca1414d72553138b45f2
+ * 用户消息新增string */
+"sixin_friend" = "フレンド";
+
+/* loco:5708ca1414d72553138b45f3 */
+"sixin_unfollowed" = "未フォロー";
+
+/* loco:5708ca1414d72553138b45f4 */
+"sixin_unread" = "99+";
+
+/* loco:5708ca1414d72553138b45f5 */
+"global_loading_failure" = "読み込み失敗";
+
+/* loco:5708ca1414d72553138b45f6
+ * IM */
+"send" = "送信";
+
+/* loco:5708ca1414d72553138b45f7 */
+"change_keyboard" = "キーボード";
+
+/* loco:5708ca1414d72553138b45f8
+ * IM */
+"send_emoji" = "絵文字送信";
+
+/* loco:5708ca1414d72553138b45f9 */
+"just_now" = "たった今";
+
+/* loco:5708ca1414d72553138b45fa */
+"before_minute" = "分前";
+
+/* loco:5708ca1414d72553138b45fb */
+"before_hour" = "時間前";
+
+/* loco:5708ca1414d72553138b45fc */
+"yesterday" = "昨日";
+
+/* loco:5708ca1414d72553138b45fd */
+"before_day" = "日前";
+
+/* loco:5708ca1414d72553138b45fe */
+"weeks[0]" = "日曜";
+
+/* loco:5708ca1414d72553138b45ff */
+"weeks[1]" = "月曜";
+
+/* loco:5708ca1414d72553138b4600 */
+"weeks[2]" = "火曜";
+
+/* loco:5708ca1414d72553138b4601 */
+"weeks[3]" = "水曜";
+
+/* loco:5708ca1414d72553138b4602 */
+"weeks[4]" = "木曜";
+
+/* loco:5708ca1414d72553138b4603 */
+"weeks[5]" = "金曜";
+
+/* loco:5708ca1414d72553138b4604 */
+"weeks[6]" = "土曜";
+
+/* loco:5708ca1414d72553138b4605 */
+"chating_with" = "%@さんとチャット中";
+
+/* loco:5708ca1414d72553138b4606 */
+"input_empty" = "空";
+
+/* loco:5708ca1414d72553138b4607 */
+"word_less_than" = "%d文字以内";
+
+/* loco:5708ca1414d72553138b4608
+ * IM chat */
+"title_im" = "メッセージ";
+
+/* loco:5708ca1414d72553138b4609
+ * 登录 */
+"global_input_keyword" = "キーワード入力";
+
+/* loco:5708ca1414d72553138b460a */
+"login_terms_prefix" = "同意してログイン";
+
+/* loco:5708ca1414d72553138b460b */
+"login_terms_suffix" = "StarMe利用規約";
+
+/* loco:5708ca1414d72553138b460c */
+"login_choose_logintype" = "ログイン方法を選択";
+
+/* loco:5708ca1414d72553138b460d */
+"userhome_please_login" = "未ログイン";
+
+/* loco:5708ca1414d72553138b460e */
+"network_no_avaliable" = "ネットワーク未接続、ご確認下さい";
+
+/* loco:5708ca1414d72553138b460f */
+"login_terms_loading" = "読み込み中。暫くお待ち下さい";
+
+/* loco:5708ca1414d72553138b4610 */
+"login_fail" = "ログイン失敗";
+
+/* loco:5708ca1414d72553138b4611 */
+"userhome_search_user_noresult" = "ユーザーが見つかりませんでした";
+
+/* loco:5708ca1414d72553138b4612 */
+"tip_report" = "このユーザーを通報する";
+
+/* loco:5708ca1414d72553138b4613
+ * 新增直播结束相关string */
+"room_live_finish_follow" = "フォロー";
+
+/* loco:5708ca1414d72553138b4614 */
+"room_live_finish_backtoindex" = "ホーム";
+
+/* loco:5708ca1414d72553138b4615 */
+"room_live_finish_share_tip" = "シェア";
+
+/* loco:5708ca1414d72553138b4616 */
+"room_live_finish_gain_default" = "0スター獲得";
+
+/* loco:5708ca1414d72553138b4617 */
+"room_live_finish_users_num_default" = "0人視聴中";
+
+/* loco:5708ca1414d72553138b4618 */
+"room_live_finish_users_num" = "%d人視聴中";
+
+/* loco:5708ca1414d72553138b4619 */
+"room_live_finish_gain" = "獲得スター: %d";
+
+/* loco:5708ca1414d72553138b461a */
+"room_live_finish" = "ライブ終了";
+
+/* loco:5708ca1414d72553138b461b
+ * 开播相关 */
+"room_camera_setting" = "切り替え";
+
+/* loco:5708ca1414d72553138b461c */
+"room_shan_guang" = "フラッシュ";
+
+/* loco:5708ca1414d72553138b461d */
+"err_loading" = "読み込み失敗";
+
+/* loco:5708ca1414d72553138b461e */
+"unLahei_alert" = "ブロックを解除しますか？";
+
+/* loco:5708ca1414d72553138b461f */
+"empty_text" = "気軽にライブ配信してみよう！";
+
+/* loco:5708ca1414d72553138b4620
+ * FlyBirNotification */
+"noti_bro_cast_your_friend" = "イッツミー:%@";
+
+/* loco:5708ca1414d72553138b4621 */
+"noti_bro_cast_location" = "%@でライブ配信中、今すぐチェック！";
+
+/* loco:5708ca1414d72553138b4622 */
+"defaultCity" = "火星";
+
+/* loco:5708ca1414d72553138b4623 */
+"room_contributor_contributors_maohao" = "親密度: %1$s";
+
+/* loco:5708ca1414d72553138b4624 */
+"can_not_follow" = "フォローできません";
+
+/* loco:5708ca1414d72553138b4625
+ * 我的U人币 */
+"my_u_momey" = "残額";
+
+/* loco:5708ca1414d72553138b4626 */
+"my_u_select_num_momey" = "チャージ金額を選択：\n";
+
+/* loco:5708ca1414d72553138b4627
+ * 提现账户 */
+"account_withdraw" = "お振込口座";
+
+/* loco:5708ca1414d72553138b4628 */
+"withdraw_hint" = "全て記入して内容に誤りがないか確認して下さい。誤りがあった場合はお振込みができません。";
+
+/* loco:5708ca1414d72553138b4629 */
+"account_withdraw_last_name" = "姓";
+
+/* loco:5708ca1414d72553138b462a */
+"account_withdraw_first_name" = "名";
+
+/* loco:5708ca1414d72553138b462b */
+"account_withdraw_account" = "アカウント";
+
+/* loco:5708ca1414d72553138b462c */
+"account_withdraw_phone" = "携帯";
+
+/* loco:5708ca1414d72553138b462d */
+"account_withdraw_agreement_hint" = "お支払方法について同意";
+
+/* loco:5708ca1414d72553138b462e */
+"account_withdraw_bind_account" = "PAYPALで支払い";
+
+/* loco:5708ca1414d72553138b462f
+ * 收益提现 */
+"income_withdraw_title" = "収益を現金化";
+
+/* loco:5708ca1414d72553138b4630 */
+"apply_submit_hint" = "申請済み";
+
+/* loco:5708ca1414d72553138b4631 */
+"apply_submit_hint2" = "現金化後、15日以内に税金と手数料を差し引いた金額が振り込まれます";
+
+/* loco:5708ca1414d72553138b4632 */
+"account" = "PAYPALアカウント：";
+
+/* loco:5708ca1414d72553138b4633 */
+"withdraw_money" = "金額：";
+
+/* loco:5708ca1414d72553138b4634 */
+"account_money" = "差引後の金額：";
+
+/* loco:5708ca1414d72553138b4635 */
+"account_now" = "現在の収益";
+
+/* loco:5708ca1414d72553138b4636 */
+"not_bind_account" = "口座なし";
+
+/* loco:5708ca1414d72553138b4637 */
+"less_than_days" = "現金化は15日で1回のみ可能です";
+
+/* loco:5708ca1414d72553138b4638 */
+"less_than_money" = "現在現金化できる額は100USDまでです";
+
+/* loco:5708ca1414d72553138b4639 */
+"dialog_recharge_hint" = "ダイヤが不足しています。　チャージしますか？";
+
+/* loco:5708ca1414d72553138b463a */
+"copy_to_ram" = "コピー済み";
+
+/* loco:5708ca1414d72553138b463b */
+"tab_home" = "ホーム";
+
+/* loco:5708ca1414d72553138b463c
+ * 我的收益 */
+"virtual_money" = "スター";
+
+/* loco:5708ca1414d72553138b463d */
+"withdraw" = "現金化";
+
+/* loco:5708ca1414d72553138b463e */
+"withdraw_rule" = "現金化について";
+
+/* loco:5708ca1414d72553138b463f */
+"dialog_bind_hint" = "現金振込先の口座を選択";
+
+/* loco:5708ca1414d72553138b4640 */
+"bind_account" = "選択";
+
+/* loco:5708ca1414d72553138b4641 */
+"install" = "インストール";
+
+/* loco:5708ca1414d72553138b4642 */
+"str_light_on_heart" = "いいね！";
+
+/* loco:5708ca1414d72553138b4643 */
+"title_your_problem" = "件名：";
+
+/* loco:5708ca1414d72553138b4644 */
+"str_send_gift" = "ギフト";
+
+/* loco:5708ca1414d72553138b4645 */
+"userhome_account_inout_for_room" = "%1$sを贈りました";
+
+/* loco:5708ccaf14d72549178b456a */
+"str_share_title" = "今すぐ見る：It's %@";
+
+/* loco:5708cd1b14d725c5148b4568 */
+"update_app_title" = "新バージョンが見つかりました";
+
+/* loco:5708cd4014d725c5148b456a */
+"info_search_no_data" = "情報が見つかりません";
+
+/* loco:5708cd6214d725da138b4569 */
+"feedback_upload_fail" = "読み込み失敗、ネットワーク状態を確認して下さい";
+
+/* loco:5708cd7714d72549178b456c */
+"feedback_upload_success" = "フィードバックに成功！";
+
+/* loco:5708cd8914d725af148b4578 */
+"feedback_uploading" = "アップロード中。お待ち下さい";
+
+/* loco:5708cd9f14d725c5148b456d */
+"update_app_ticker" = "アップデート";
+
+/* loco:5708cdb314d72517138b4567 */
+"recharge_data_loading" = "読み込み中・・・お待ち下さい";
+
+/* loco:5708cdc514d725da138b456b */
+"recharge_loading" = "読み込み中・・・お待ち下さい";
+
+/* loco:5708cdda14d72549178b456f */
+"recharge_success" = "チャージ成功:\n";
+
+/* loco:5708cdee14d7253c148b4570 */
+"recharge_fail_network" = "現在のネットワーク環境でのチャージに失敗、後ほどお試し下さい";
+
+/* loco:5708ce0014d72517138b456a */
+"no_google_play" = "購入前にGoogle Playをダウンロードして下さい";
+
+/* loco:5708ce1814d725da138b456d */
+"recharge_fail_sold_out" = "このアイテムはもうありません";
+
+/* loco:5708ce2f14d72549178b4571 */
+"recharge_fail_other" = "チャージ失敗:\n";
+
+/* loco:570b13cc14d72530318b457b */
+"str_head" = "アイコン";
+
+/* loco:570b1d3c14d72585748b4567 */
+"str_sex" = "性別";
+
+/* loco:570ce7a814d7257d238b456a */
+"userhome_email_tip" = "メール";
+
+/* loco:570ce7c714d72503248b456d */
+"gender_male" = "男性";
+
+/* loco:570ce7ea14d725b6248b4578 */
+"gender_female" = "女性";
+
+/* loco:570ce80614d725d7248b4568 */
+"userhome_update_gender" = "性別変更";
+
+/* loco:570e28a814d725f66f8b4567 */
+"str_share_desc" = "LIVE！StarMeへ！：%@今すぐ！\nStarMeはあなたの今を世界に配信する無料ライブ動画アプリです";
+
+/* loco:570e28a814d725f66f8b4568 */
+"terms" = "利用規約";
+
+/* loco:570e28a814d725f66f8b4569 */
+"rules" = "ルール";
+
+/* loco:570e28a814d725f66f8b456a */
+"privacy" = "プライバシー";
+
+/* loco:570e28a814d725f66f8b456b */
+"room_chat_edittext_hint" = "配信者さんにコメント";
+
+/* loco:570e28a814d725f66f8b456c */
+"follow_empty_hint" = "お気に入りの配信をフォロー！\n Don't miss ouｔ!";
+
+/* loco:570e28a814d725f66f8b456d */
+"user_name" = "ユーザー名";
+
+/* loco:570e28a814d725f66f8b456e */
+"password" = "パスワード";
+
+/* loco:570e28a814d725f66f8b456f */
+"sign_up" = "新規登録";
+
+/* loco:570e28a814d725f66f8b4570 */
+"login_by_email" = "メールアドレスでログイン";
+
+/* loco:570e28a814d725f66f8b4571 */
+"sign_up_email" = "メールアドレス登録";
+
+/* loco:570e28a814d725f66f8b4572 */
+"forget_pass" = "パスワードを忘れた方";
+
+/* loco:570e28a814d725f66f8b4573 */
+"login" = "ログイン";
+
+/* loco:570e28a814d725f66f8b4574 */
+"logining" = "ログイン中";
+
+/* loco:570e28a814d725f66f8b4575 */
+"register_fail" = "ログイン失敗";
+
+/* loco:570e28a814d725f66f8b4576 */
+"email_empty" = "メールアドレスは必須です";
+
+/* loco:570e28a814d725f66f8b4577 */
+"nick_empty" = "ユーザー名は必須です";
+
+/* loco:570e28a814d725f66f8b4578 */
+"pass_empty" = "パスワードは必須です";
+
+/* loco:570e28a814d725f66f8b4579 */
+"email_incorrect" = "メール形式が正しくありません";
+
+/* loco:570e28a814d725f66f8b457a */
+"pass_length_incorrect" = "パスワードは6文字以上で入力して下さい";
+
+/* loco:570e28a814d725f66f8b457b */
+"email_exist" = "このメールアドレスは登録済みです";
+
+/* loco:570e28a814d725f66f8b457c */
+"pass_input_incorrect" = "パスワードエラー";
+
+/* loco:570e28a814d725f66f8b457d */
+"username_not_exist" = "メールアドレス未登録";
+
+/* loco:570e28a814d725f66f8b457e */
+"str_twitter_share_title" = "%@さんがStarMeライブ中！";
+
+/* loco:570e28a814d725f66f8b457f */
+"userhome_gender_tip" = "性別";
+
+/* loco:570e2a1e14d725a8718b4567 */
+"str_report" = "通報しますか？";
+
+/* loco:5716404914d72502448b458f */
+"recharge_notify_fail" = "通信失敗。アイテムを長時間受け取ることができなかった場合、サポートまでご連絡下さい\n：support.jp@ushow.media";
+
+/* loco:5716409d14d72544498b4567 */
+"data_load_fail" = "データ読み込み失敗";
+
+/* loco:571640bb14d725fb488b4567 */
+"reload" = "再読み込み";
+
+/* loco:5716416614d7255d4a8b4567 */
+"progress_loading" = "読み込み中";
+
+/* loco:571641a014d7251a4a8b4567 */
+"refresh_pull_hint" = "更新";
+
+/* loco:571641be14d7255d4a8b456a */
+"refresh_pull_hint2" = "更新";
+
+/* loco:5716423714d725a54a8b4567 */
+"refresh_pull_hint3" = "更新中";
+
+/* loco:5716426114d725a2498b456a */
+"str_title_login" = "ログイン";
+
+/* loco:5716ef8014d7259a378b4568 */
+"err_net_room_reconnect" = "ネットワークが接続されました、再度接続中です";
+
+/* loco:5716f06014d7253c378b4567 */
+"err_net_room_stop_watch" = "ネットワークエラー、視聴中止";
+
+/* loco:5716f07414d7253c378b4569 */
+"err_net_room_stop_live" = "ネットワークエラー、配信中止";
+
+/* loco:5718a48714d725575c8b456a */
+"str_room_user_name" = "ライブ";
+
+/* loco:5718b92114d7258e718b456b */
+"str_room_chat_tips" = "若年者や各国の視聴者がいます。発言内容に気を配り、フレンドリーなコミュニーケーションを楽しみましょう！利用規約違反があった場合、アカウントが停止されます。";
+
+/* loco:57201be114d725774c8b4568 */
+"room_chat_edittext_hint_barrage" = "ライブコメントは1ダイヤ消費";
+
+/* loco:57201c8714d725164d8b4567 */
+"dialog_follow_hint" = "StarMeからのメッセージです。フォローした人がライブを開始すると、お知らせが届きます。お知らせの有無は設定できます。";
+
+/* loco:57201ca714d725214c8b4567 */
+"allow" = "はい";
+
+/* loco:57201cc014d725d64c8b4567 */
+"unallow" = "いいえ";
+
+/* loco:57201d0614d7259e4a8b4567 */
+"str_shareed" = "%@はライブ配信をシェアしました";
+
+/* loco:57201d1d14d725164d8b4569 */
+"str_title_notice" = "StarMeで世界中にあなたの今を配信しよう！";
+
+/* loco:57201d5714d725164d8b456b */
+"str_waring_passwd" = "パスワードは16ケタ以内で入力";
+
+/* loco:57201d7614d7259e4a8b4569 */
+"str_left_la_hei" = "左にスワイプでブロック解除";
+
+/* loco:57201d8b14d7254e4a8b4569 */
+"str_left_delete_replay" = "左にスワイプでリプレイを削除";
+
+/* loco:57201dba14d7254e4a8b456b */
+"str_delete_replay" = "リプレイを削除";
+
+/* loco:57201dd014d7259e4a8b456b */
+"str_search_not_result" = "\”%@\”の結果なし";
+
+/* loco:5723389a14d72583398b4576 */
+"str_report_successful" = "報告成功";
+
+/* loco:5723390014d72597388b4574 */
+"tick_off" = "あなたのStarMeアカウントは他の端末でログインされたため、ログアウトされました";
+
+/* loco:572339f214d725e13d8b4568 */
+"str_go_live_share" = "シェア";
+
+/* loco:57233a5014d725a73b8b4570 */
+"str_go_live_location_on" = "位置情報ON";
+
+/* loco:57233a6c14d725223c8b456b */
+"str_go_live_location_off" = "位置情報OFF";
+
+/* loco:57233a8414d725413f8b4569 */
+"str_approve" = "承認が必要です";
+
+/* loco:57233a9b14d7259d3a8b456d */
+"str_successfully" = "Success！";
+
+/* loco:57233aae14d72553408b4569 */
+"str_error" = "エラー";
+
+/* loco:57233b0514d725fe3b8b456e */
+"str_share_successfully" = "シェア成功";
+
+/* loco:57233b5a14d725e03a8b4572 */
+"str_share_failed" = "シェア失敗";
+
+/* loco:57233b7014d72553408b456e */
+"str_load_more" = "更新";
+
+/* loco:57233b8614d725cf3b8b4570 */
+"str_verification" = "認証コードを送信";
+
+/* loco:57233b9914d725e13d8b456c */
+"str_check" = "認証コードを送信しました";
+
+/* loco:57233bb914d725cf3b8b4573 */
+"str_verification_code" = "認証コード";
+
+/* loco:57233bcf14d7258d3f8b4568 */
+"str_new_password" = "新しいパスワード";
+
+/* loco:57233be114d725fe3b8b4572 */
+"str_confirm_password" = "パスワードを確認";
+
+/* loco:5727feea14d72559188b4567 */
+"email_not_register_hint" = "メールアドレスが登録されていません";
+
+/* loco:5727ff0814d725ea1b8b4567 */
+"forget_password" = "パスワードを忘れた方";
+
+/* loco:5727ff2714d7256c1b8b4567 */
+"verification_code_sended_hint" = "認証コードを送信しました";
+
+/* loco:5727ff7514d72559188b456a */
+"verification_code" = "認証コード";
+
+/* loco:5727ffa914d72583178b4569 */
+"new_password" = "新しいパスワード";
+
+/* loco:5727ffcc14d7251e178b4568 */
+"confirm_password" = "パスワード確認";
+
+/* loco:5727ffe714d725181a8b4567 */
+"pass_word_not_match" = "パスワードが一致しません";
+
+/* loco:5728000014d725ea1b8b4569 */
+"verification_code_null" = "認証コードを入力して下さい";
+
+/* loco:5728001b14d7256c1b8b4569 */
+"reset_pass_success" = "パスワードリセットに成功";
+
+/* loco:5728002f14d725141b8b4567 */
+"reset_pass" = "パスワードリセット";
+
+/* loco:5728004614d725ea1b8b456b */
+"resend" = "再送信";
+
+/* loco:5728007814d72583178b456d */
+"room_camera_beauty_on" = "美顔ON";
+
+/* loco:5728008d14d72559188b456c */
+"room_camera_beauty_off" = "美顔OFF";
+
+/* loco:572800a214d72583178b456f */
+"liver_is_leaving" = "離席中です、まもなく戻ります！";
+
+/* loco:572800b614d7256c1b8b456b */
+"room_video_save_text_hint" = "30分以内のライブは保存できません";
+
+/* loco:572800cd14d725ea1b8b456e */
+"room_video_save_text_hint2" = "リプレイ用に保存";
+
+/* loco:572800f814d7257f188b4569 */
+"room_video_save_text_delete" = "削除";
+
+/* loco:572807cd14d7256c1b8b456f */
+"noti_bro_cast_location_default" = "さんがライブ配信中、今すぐチェック！";
+
+/* loco:57295d8d14d725874b8b456a */
+"send_verification_code" = "認証コードを送信";
+
+/* loco:57295da714d725334e8b4567 */
+"network_error" = "ネットワークエラー";
+
+/* loco:57295dc014d725574d8b4568 */
+"code_not_match" = "コードが一致しません";
+
+/* loco:57295dd814d725f24b8b456b */
+"reset_pass_fail" = "パスワードリセットに失敗";
+
+/* loco:572960bf14d725754c8b4569 */
+"str_turn_on_location" = "システムが位置情報を求めています";
+
+/* loco:572960e314d725754c8b456b */
+"str_permissions" = "設定";
+
+/* loco:572aaa4c14d72571518b4569 */
+"str_flash_on" = "フラッシュON";
+
+/* loco:572aab8014d72571518b456b */
+"str_flash_off" = "フラッシュOFF";
+
+/* loco:572aab9714d725fa538b4567 */
+"str_flip_camera" = "カメラ切り替え";
+
+/* loco:572aabb314d725a9538b4567 */
+"str_click_to_start_live" = "スタートをタップしてライブ配信開始";
+
+/* loco:572aabcc14d72571518b456d */
+"str_email_not_register" = "メールアドレスが登録されていません";
+
+/* loco:572aabe314d725b5528b4568 */
+"str_email_can_not_send" = "メールを送ることができません";
+
+/* loco:572aabfc14d725b5528b456a */
+"str_code_err" = "コードエラー";
+
+/* loco:572aac1314d72548518b4569 */
+"str_reset_failure" = "パスワードリセットに失敗";
+
+/* loco:572aac2914d725a9538b456a */
+"str_reset_succeed" = "パスワードリセットに成功";
+
+/* loco:572aac3b14d725c1528b4568 */
+"str_reset" = "リセット";
+
+/* loco:5731506014d72512368b456a */
+"broadcast_rules" = "同意してライブ配信する：";
+
+/* loco:5731508f14d725e3378b4569 */
+"feedback_content" = "ご意見 ご要望";
+
+/* loco:573150ac14d725f7388b4567 */
+"feedback_email" = "有効なメールアドレスを入力して下さい";
+
+/* loco:5731556014d72504388b45a2 */
+"room_contributor_contributors_maohao_hint" = "スター";
+
+/* loco:5731559114d725bf3c8b4567 */
+"room_camera_beauty" = "美顔";
+
+/* loco:573155b614d725ca3b8b4569 */
+"str_desc_reset_passwd" = "パスワードをリセットします。登録したメールアドレスを入力して下さい。\n メールが送られます";
+
+/* loco:5731be6e14d725630e8b456c */
+"broadcast_rules_link" = "StarMeコミュニティルール";
+
+/* loco:5732c91314d725e84d8b4567 */
+"action_ok" = "OK";
+
+/* loco:5732c92b14d725e84d8b4569 */
+"str_guide_room_right_slide" = "スワイプでチャットを非表示にできます";
+
+/* loco:5732c95814d7252f518b4567 */
+"str_guide_room_up_slide" = "スワイプでルームの切り替え";
+
+/* loco:5732c9ab14d725d5498b4587 */
+"str_diamonds" = "スター";
+
+/* loco:5732c9c614d725bf4f8b4567 */
+"action_permissions_tip" = "「設定」よりカメラ設定を変更してください";
+
+/* loco:5732cad914d7252f518b456c */
+"str_leave" = "少々お待ち下さい...";
+
+/* loco:5732cb0814d7252f518b456e */
+"room_barrage_on_hint" = "ライブコメント";
+
+/* loco:5732cc8f14d725d24a8b456d */
+"str_perssiom_open" = "カメラを設定して下さい";
+
+/* loco:5732ccdb14d725e2518b4567 */
+"str_microphone_disabled" = "マイクは使用できません";
+
+/* loco:5732cdca14d725e84d8b456f */
+"str_perssion_video_open" = "マイク設定をオンにして下さい";
+
+/* loco:5732fdbf14d725d47a8b456f */
+"str_app_update" = "新しいバージョンがあります。更新して下さい";
+
+/* loco:573318ad14d725f41b8b4569 */
+"str_reset_password" = "リセット";
+
+/* loco:5733196114d725411c8b4572 */
+"str_resent" = "再送信";
+
+/* loco:57347e4914d7256d218b4571 */
+"str_pass_do_not_match" = "パスワードが一致しません";
+
+/* loco:57347e7414d72506248b456b */
+"str_cannot_use_camera" = "カメラは使えません";
+
+/* loco:57347e8d14d72514228b4571 */
+"charge_type_cardpay" = "カード";
+
+/* loco:57347fab14d7254f248b456a */
+"charge_type_select" = "支払い方法を選択";
+
+/* loco:57347fcd14d72564258b456b */
+"cardpay_type_truemoney" = "現金";
+
+/* loco:57347fec14d7254a268b4568 */
+"cardpay_type_12call" = "12CALL";
+
+/* loco:573480ee14d725b1278b4567 */
+"cardpay_type_happy" = "HAPPY";
+
+/* loco:5734810514d725c6238b456a */
+"charge_type_hint2" = "カードの種類を選んで下さい：";
+
+/* loco:5734812114d72506248b456f */
+"cashcard_is_used" = "使用済みのカードです";
+
+/* loco:5734813614d7254a268b456b */
+"cashcard_pass_not_exist" = "パスワードが存在しません";
+
+/* loco:5734828214d72516298b4569 */
+"cashcard_expir" = "カードの有効期限切れです";
+
+/* loco:5734829a14d725cc268b456a */
+"permission_deny" = "Line Payの使用権限をキャンセルしました。承認しなければ正常に支払いができません";
+
+/* loco:573e701d14d725f4418b456a */
+"charge_type_google" = "Google Play";
+
+/* loco:573e704d14d7252e408b4567 */
+"charge_type_linepay" = "LINE Pay";
+
+/* loco:573e706a14d725be3f8b4567 */
+"level_limit" = "レベル2未満のため、まだライブ配信ができません。他の人と交流をしてレベルを上げましょう";
+
+/* loco:573e709114d725f4418b456d */
+"str_net_warnning" = "サーバーメンテナンス中です。恐れ入りますが、後ほどお試し下さい";
+
+/* loco:573e70b114d725663e8b4568 */
+"share_line" = "LINE";
+
+/* loco:573e70ca14d725f4418b456f */
+"str_live_switch_to_sd" = "ネットワーク状態が不安定です。標準モードに切り替えました";
+
+/* loco:573e70ed14d7252e408b4569 */
+"str_live_switch_to_hd" = "ネットワーク状態は良好です";
+
+/* loco:573e710914d7253d3f8b459a */
+"str_watcher_switch_to_sd" = "ネットワーク状態が不安定です。視聴に影響が出るおそれがあります";
+
+/* loco:573fd4d714d72547148b4568 */
+"upgrade_compulsively" = "現在のバージョンは使用できません。最新版をダウンロードして下さい";
+
+/* loco:5743007414d725b97b8b456a */
+"str_set_adnimi" = "管理者設定";
+
+/* loco:5743009414d725f3788b4578 */
+"str_adnimi_list" = "管理者リスト";
+
+/* loco:574300a814d72560798b4572 */
+"str_banned" = "発言禁止";
+
+/* loco:574300b814d725a0798b4584 */
+"str_line_noinstall" = "LINEをインストールして下さい";
+
+/* loco:574300cb14d725f3788b457a */
+"can_not_recharge_hint" = "サポート：";
+
+/* loco:5743013c14d725c2788b4571 */
+"can_not_broadcast_btn_hint" = "OK";
+
+/* loco:5743014d14d725cf7a8b457a */
+"forever_limit_broadcast_hint" = "あなたのアカウントは永久に停止されているため、ライブ配信できません";
+
+/* loco:5743016014d725f3788b457c */
+"one_day_limit_broadcast_hint1" = "あなたのアカウントは1日停止中です。1日後再度お試し下さい。";
+
+/* loco:5743017214d725c2788b4573 */
+"one_day_limit_broadcast_hint2" = "次回ライブ配信はコミュニティルールを遵守して下さい";
+
+/* loco:5743018214d725f3788b457e */
+"one_day_limit_broadcast_hint3" = "StarMeコミュニティルール";
+
+/* loco:5743020e14d725cf7a8b457f */
+"str_share_text" = "StarMe：%@さんがライブ配信中！今すぐStarMe！";
+
+/* loco:5743b6ba14d725e3098b4574 */
+"str_lllegal_live" = "今ライブ配信中のコンテンツは利用規約に違反しています";
+
+/* loco:5743b6d414d72561098b4567 */
+"str_no_live_one_day" = "アカウントを1日利用停止";
+
+/* loco:5743b6e914d72561098b4569 */
+"str_no_live_forever" = "アカウントを永久に停止";
+
+/* loco:5743b6fc14d725aa0b8b4567 */
+"str_warning_forever" = "再度利用規約に違反した場合は、アカウントを永久に停止することがあります";
+
+/* loco:5743b70e14d725380a8b4567 */
+"str_tips_live_stop" = "あなたのコンテンツは利用規約に違反しているため、配信を停止しました";
+
+/* loco:5743c50614d725eb118b4567 */
+"action_permissions_audio_tip" = "録音機能を使うには、「設定」から録音をオンにして下さい";
+
+/* loco:5746a72114d725915a8b456b */
+"ban_oneday_tip" = "あなたのコンテンツは利用規約に違反しているため、アカウントを1日停止します。次回利用規約に違反した場合は、永久に停止します";
+
+/* loco:5746a74f14d7255f598b4581 */
+"ban_forever_tip" = "あなたのコンテンツは利用規約に違反しているため、アカウントを永久に停止します";
+
+/* loco:5746a76714d7256c5a8b4575 */
+"ban_oneday_openlive_tip" = "あなたのアカウントは1日停止されています。後ほど再度お試し下さい。次回は利用規約を遵守して下さい。";
+
+/* loco:5746a79a14d725785d8b4569 */
+"ban_forever_openlive_tip" = "あなたのアカウントは永久に停止されています";
+
+/* loco:5752b34714d7254d2d8b4567 */
+"userhome_faq" = "よくある質問";
+
+/* loco:5752b36214d7252b2b8b4567 */
+"network_error_switch_to_standard" = "ネットワーク状態が不安定です。標準モードに切り替えました。";
+
+/* loco:5752b38714d725642b8b4569 */
+"settings_daily_question" = "よくある質問";
+
+/* loco:5752b3c914d725f02a8b4569 */
+"recharg_question" = "チャージに関する質問";
+
+/* loco:5752b3de14d7258f2a8b456a */
+"live_question" = "ライブ配信に関する質問";
+
+/* loco:5752b3f214d725cd278b456a */
+"account_question" = "アカウントに関する質問";
+
+/* loco:5752b44714d7257a288b4569 */
+"request_question" = "質問をする";
+
+/* loco:5752b45814d7255b298b4568 */
+"tips_rating" = "五つ星をもらえますか？";
+
+/* loco:5752b46a14d725cd278b456c */
+"tips_rating_sure" = "OK！";
+
+/* loco:5752b48214d725642b8b456b */
+"tips_rating_no" = "断る・・・！";
+
+/* loco:5752b58514d7255b298b456a */
+"tips_rating_help" = "評価して下さい";
+
+/* loco:5752b59714d725b12d8b4567 */
+"str_no_replay" = "まだ再生していません";
+
+/* loco:5752b5ae14d725f02a8b456c */
+"str_no_replay_tip" = "30分以上のライブ配信で保存できます！";
+
+/* loco:5752b5dd14d725cd278b456e */
+"str_no_superfans" = "フォロワーがまだいません(..)";
+
+/* loco:5752b6f914d725642b8b456f */
+"str_no_superfans_tip" = "動画配信が多いと、より目立って、フォロワーを増やすことができます";
+
+/* loco:5752b7d314d725b12d8b456a */
+"photo_text_hint" = "お気に入りの写真を今すぐアップ！";
+
+/* loco:5752b84014d725b12d8b456c */
+"photo_choose_exist" = "アルバムから写真を選択";
+
+/* loco:5752b88114d725cd278b4570 */
+"str_click_to_start" = "ここをクリックしてライブ配信を開始！";
+
+/* loco:5752b8b214d725cd278b4572 */
+"str_click_to_share" = "フォロワーにライブ配信を伝えましょう！";
+
+/* loco:5752b8ec14d725f02a8b4570 */
+"no_setup_email" = "iCould Driveからメールの設定をして下さい";
+
+/* loco:5752b90714d7257a288b456c */
+"guide_share" = "フォロワーにライブ配信を伝えましょう！";
+
+/* loco:5752b92314d7254d2d8b456c */
+"guide_camera" = "カメラ設置";
+
+/* loco:5752b94514d7252b2b8b456c */
+"guide_avatar" = "お気に入りの写真をアイコンにしましょう！";
+
+/* loco:5752b98214d7259c2e8b456a */
+"guide_gift" = "ギフトを贈って、お気に入りの配信者を応援しよう！";
+
+/* loco:5752ba5b14d7254d2d8b456e */
+"no_fans_me" = "フォロワーがまだいません(..)";
+
+/* loco:5752ba8614d725f02a8b4573 */
+"to_have_more_fans" = "動画配信を増やしたり、タグ付けを工夫して、フォロワーを増やそう！";
+
+/* loco:5752bacc14d7254d2d8b4570 */
+"no_fans_other" = "この配信者をフォローして応援しよう！";
+
+/* loco:5752bb3814d72500308b4568 */
+"become_super_fans" = "ギフトを贈ると、フォロワーランキングが上がるよ☆";
+
+/* loco:5752bb7814d7259c2e8b456c */
+"no_following" = "お気に入りの配信者をフォローしよう！";
+
+/* loco:5752bba414d7255b298b456e */
+"following_more" = "面白いLIVE動画を見つけたら気軽にフォロー！\nフォローしてお気に入りの配信を見逃さないようにしよう";
+
+/* loco:5752bc3e14d725872f8b4567 */
+"watch_live" = "ライブ配信を見る";
+
+/* loco:5752bc9214d725872f8b4569 */
+"no_replay" = "まだリプレイしていません";
+
+/* loco:5752bd9114d725642b8b4575 */
+"save_morethan" = "30分以上のライブ配信で保存ができます！";
+
+/* loco:5763fd6114d72501058b456e */
+"live-preparing" = "準備中";
+
+/* loco:576b50c114d725cb658b456a */
+"str-back-live-message" = "Welcome Back！配信を続けますか？";
+
+/* loco:576b510614d72557658b4569 */
+"manager-list" = "管理者リスト";
+
+/* loco:576b514014d725cb658b456d */
+"str-is-bantalk" = "発言禁止";
+
+/* loco:576b515914d725cb658b456f */
+"str-cancel-manager" = "管理者を解除\n";
+
+/* loco:576b517014d7255f668b456a */
+"str-set-admin-ok" = "%@はチャンネル管理者に設定されました";
+
+/* loco:576b518d14d725d8668b456c */
+"str-ban-talk-ok" = "%@は発言を禁止されました";
+
+/* loco:576b51a014d725f3678b4567 */
+"str-set-admin-fail" = "操作失敗、再度お試し下さい";
+
+/* loco:576b51b614d72554678b456a */
+"str-ban-talk-fail" = "発言禁止に失敗、再度お試し下さい";
+
+/* loco:576b51cf14d7255f668b456c */
+"str-cancel-admin-fail" = "管理者解除に失敗、再度お試し下さい";
+
+/* loco:576b51e914d725a1658b456a */
+"str-cancel-admin-ok" = "%@は管理者を解除されました";
+
+/* loco:57779b5414d7257a788b4567 */
+"extra-diamonds" = "ボーナス%@ダイヤ";
+
+/* loco:577b73ff14d725a43f8b456b */
+"network-broken" = "ネットワークが切断されました";
+
+/* loco:577bb26c14d72525788b4567 */
+"connected-account" = "SNSアカウント";
+
+/* loco:577bb29114d72518758b4569 */
+"unconnected-account" = "未登録";
+
+/* loco:577bb2aa14d72593778b4567 */
+"disconnect-account" = "アカウント連携解除";
+
+/* loco:577bb2c114d72557778b4568 */
+"your-account" = "アカウント";
+
+/* loco:577bb2d814d725da778b4569 */
+"why-to-connected" = "なぜSNSアカウント連携をするのか？";
+
+/* loco:577bb2ef14d725da778b456b */
+"answer1-to-connected" = "アカウント連携をすることで、ライブ配信のお知らせを自動的にあなたのSNSに投稿することができます。";
+
+/* loco:577bb31114d725da778b456d */
+"answer2-to-connected" = "連携済みの異なるSNSアカウントでログインしてもStarMeのIDは変わりません。";
+
+/* loco:577bb32d14d72503798b4567 */
+"answer3-to-connected" = "StarMeに登録するメール、SNSアカウントはいつでも変更することができます。ただし少なくとも1つのアカウントはStarMeに連携させましょう。また、1つのメール、SNSアカウントを複数StarMeのアカウントに連携することはできません。";
+
+/* loco:577bb34e14d725f0778b4567 */
+"first-received-gift-tip" = "ギフト獲得！お礼を言いましょう！";
+
+/* loco:577c787014d725003d8b457b */
+"add-account" = "アカウント連携";
+
+/* loco:5780747314d72552648b4574 */
+"str-you-has-been-bantalked" = "発言をブロックされました";
+
+/* loco:5780749214d725d8638b456a */
+"str-connect-err" = "ネットワークが切断されました";
+
+/* loco:578074ac14d72503638b456d */
+"settings-account-connect" = "アカウント連携";
+
+/* loco:578074c314d725c6638b456b */
+"str-no-set-admin" = "発言を禁止されたので、管理者に設定できません";
+
+/* loco:578074de14d72503658b4569 */
+"str-unset-admin" = "管理者を解除";
+
+/* loco:57807c4a14d725196f8b456c */
+"str-cancel-admin" = "管理者を取り消しますか？";
+
+/* loco:57839df114d72594068b456b */
+"connected-successed" = "連携成功";
+
+/* loco:57839e9814d725c6068b456c */
+"connected-failed" = "連携失敗";
+
+/* loco:57839efb14d72594068b456f */
+"already-connected" = "連携済み";
+
+/* loco:57839f4f14d7254a068b456a */
+"unconnected-failed" = "連携解除に失敗";
+
+/* loco:57839f6714d725bf068b4571 */
+"unconnceted-failed-null" = "連携解除に失敗。最低1つは連携して下さい";
+
+/* loco:5797067814d725cf6f8b4576 */
+"push-content1" = "世界各地の生活をのぞいてみましょう！";
+
+/* loco:579706b514d725896f8b4575 */
+"push-content2" = "StarMeで海外生活をのぞいてみよう！";
+
+/* loco:579707d914d725d8738b456a */
+"push-content3" = "人気配信者のあの人がStarMeに登場！早速チェック！";
+
+/* loco:579707f814d72539748b4569 */
+"tip-anchor-not-found" = "お気に入りの配信者は見つかりましたか？";
+
+/* loco:5797080a14d7255c738b4576 */
+"tip-anchor-recommend" = "StarMeの人気配信者さんをフォローしよう！";
+
+/* loco:5797085814d7252f758b4567 */
+"button-finish" = "完成";
+
+/* loco:5797088014d7259e728b4578 */
+"tip-follow-anchor" = "フォローしてライブ配信を見逃さないようにしよう！";
+
+/* loco:57970a7614d725ac778b4567 */
+"tip-send-danmu" = "ライブメッセージで目立っちゃおう！";
+
+/* loco:57970a9114d725e47a8b4567 */
+"tip-already-update" = "新バージョンがご利用可能です";
+
+/* loco:57970aa314d7255d798b456a */
+"tip-update-content" = "新バージョンは更に多機能で使いやすくなりました！";
+
+/* loco:57970ab214d725ac778b4569 */
+"button-update" = "更新予定";
+
+/* loco:57970ac314d725e77a8b4568 */
+"button-later" = "暫くお待ち下さい";
+
+/* loco:57970b1d14d725e77a8b456a */
+"withdrawals-profit" = "収益";
+
+/* loco:57970b2c14d7257a7c8b4567 */
+"withdrawals-history" = "履歴";
+
+/* loco:57970b3b14d7251b7c8b456a */
+"withdrawals-diamonds" = "現在のダイヤ数";
+
+/* loco:57970bf914d7257a7c8b4572 */
+"withdrawals-apply" = "現金化のお申込み";
+
+/* loco:57970c0a14d7252f7c8b4570 */
+"withdrawals-cash" = "現金化";
+
+/* loco:57970c1d14d725eb7b8b4577 */
+"withdrawals-cash-fail" = "現金化に失敗";
+
+/* loco:57970c6114d725eb7b8b457e */
+"withdrawals-text2" = "前回の現金化が完了していません";
+
+/* loco:57970dd214d72561018b457d */
+"withdrawals-text6" = "数字を入力して下さい";
+
+/* loco:57970ee714d7255e048b4576 */
+"withdrawals-text7" = "現金化申込済み";
+
+/* loco:57970efe14d72550058b4572 */
+"withdrawals-amount" = "現金化金額：";
+
+/* loco:57970f4c14d7253b068b4571 */
+"withdrawals-sure" = "OK";
+
+/* loco:57970f6114d7250a058b457d */
+"withdrawals-write-info" = "口座情報を記入";
+
+/* loco:57970f6f14d725fd058b4576 */
+"withdrawals-save" = "保存";
+
+/* loco:57970fa014d72550058b4576 */
+"withdrawals-info" = "プロフィール";
+
+/* loco:57970fd214d7259e058b457e */
+"withdrawals-name" = "お名前";
+
+/* loco:57970fe814d72526098b4567 */
+"withdrawals-phone" = "電話番号";
+
+/* loco:57970ff714d72550058b457c */
+"withdrawals-addr" = "ご住所";
+
+/* loco:5797101814d725fd058b4584 */
+"withdrawals-idcard" = "マイナンバー";
+
+/* loco:5797102c14d725fd058b4587 */
+"withdrawals-account-info" = "口座情報";
+
+/* loco:5797106c14d725e6068b457d */
+"withdrawals-bank" = "銀行名";
+
+/* loco:579710a014d72570088b4581 */
+"withdrawals-bank-holder" = "口座名義";
+
+/* loco:579710be14d72570088b4584 */
+"withdrawals-bank-acc" = "銀行口座";
+
+/* loco:5797112714d725090b8b456f */
+"withdrawals-bank-addr" = "銀行の住所";
+
+/* loco:5797114c14d725090b8b4573 */
+"withdrawals-bank-branch" = "銀行名（支店名もご記入下さい）";
+
+/* loco:5797116f14d725ad098b4576 */
+"withdrawals-sign-info" = "契約について";
+
+/* loco:579711c114d7255d0a8b457a */
+"withdrawals-info-text1" = "エージェント名：";
+
+/* loco:579713ae14d725310e8b457c */
+"withdrawals-info-text2" = "エージェントへのロイヤリティ率：";
+
+/* loco:5797142714d72557128b456f */
+"withdrawals-info-text3" = "StarMeの紙の契約書にサインしましたか？";
+
+/* loco:5797145714d7254a138b456c */
+"withdrawals-save-success" = "保存成功";
+
+/* loco:5797146814d725ac108b457c */
+"withdrawals-status-ok" = "現金化に成功しました";
+
+/* loco:5797156214d725d4158b456d */
+"withdrawals-status-in" = "処理中";
+
+/* loco:5797157214d725b1168b4568 */
+"withdrawals-statu-fail" = "審査失敗";
+
+/* loco:5797158814d725d4158b4570 */
+"withdrawals-rule" = "現金化について";
+
+/* loco:579715b114d72599158b4576 */
+"withdrawals-rule-text2" = "いつでも現金化の申込ができますが、現金化は1件ずつ、となります。";
+
+/* loco:5797161014d725b1168b4575 */
+"live-record" = "ライブ配信記録";
+
+/* loco:5797161e14d7257a168b4577 */
+"no-live-record" = "ライブ配信記録はありません";
+
+/* loco:5797165914d725d4158b4578 */
+"tip-charge-retry" = "前回の購入はエラーにより失敗しました。再度試しますか？";
+
+/* loco:57971a1814d725a2228b4567 */
+"live-record-time" = "ライブ配信時間";
+
+/* loco:57971b2514d725c4228b458d */
+"live-record-times" = "平均同時視聴者数";
+
+/* loco:5799c91a14d7252e4d8b456c */
+"withdrawals-status-sub" = "申込済み";
+
+/* loco:5799c97c14d725974e8b456a */
+"withdrawals-record" = "現金化履歴";
+
+/* loco:5799d89214d7252e648b457a */
+"str-connection-tip" = "動画を%@でシェアするにはアカウントをStarMeと紐づけて下さい";
+
+/* loco:57a1f20e14d72585038b4568 */
+"str-lost-admin" = "あなたは管理者ではありません";
+
+/* loco:57a1f23e14d725b2038b4569 */
+"str-assigned-admin" = "管理者ログオンしました";
+
+/* loco:57a1f26714d72588038b4568 */
+"str-payment-input-empty" = "必須項目";
+
+/* loco:57a1f29014d72562038b4569 */
+"str-payment-method" = "支払い方法を選択して下さい";
+
+/* loco:57a1f2e714d7255b058b4567 */
+"str-payment-card-number" = "カード番号を入力して下さい";
+
+/* loco:57a316f614d725c5568b4569 */
+"str-payment-verify-fail" = "プリペイドカードの承認に失敗しました";
+
+/* loco:57a3171814d725d5568b4567 */
+"str-paymet-be-used" = "このカードはチャージされました";
+
+/* loco:57a45af914d725372b8b456c */
+"str-payment-card-method" = "支払い方法を選択してください";
+
+/* loco:57a45b0714d725692b8b456b */
+"str-payment-serial" = "シリアルナンバーを入力してください";
+
+/* loco:57a45b1714d7252c2e8b4567 */
+"str-payment-card-title" = "プリペイドカード";
+
+/* loco:57a45b2814d725ab2b8b456f */
+"str-payment-cardpay" = "プリペイドカードを使用する";
+
+/* loco:57a45b4214d725a72b8b456d */
+"str-payment-uable-charged" = "再チャージを完成することができません";
+
+/* loco:57a45b5714d725a72b8b456f */
+"no-cash-record" = "履歴がありません";
+
+/* loco:57b18a5e14d725e6058b456d */
+"hashtag-more" = "もっと見る";
+
+/* loco:57b18a8114d725b4068b456d */
+"ranking" = "人気ランキング";
+
+/* loco:57b18a9c14d72587058b456d */
+"ranking-weekly" = "週間";
+
+/* loco:57b18ab314d725b6088b4567 */
+"ranking-totally" = "総合";
+
+/* loco:57b18ac914d72579048b45bf */
+"text-input" = "長押しで迅速に発言";
+
+/* loco:57b6cb6414d7251b788b456b */
+"withdrawals-rule-text1" = "スター4万以上で現金化の申込ができます";
+
+/* loco:57b6cc7d14d725f5788b456a */
+"withdrawals-rule-text3" = "現金化できるスターは1万単位です";
+
+/* loco:57bbfc6914d72573318b4571 */
+"appstarttips" = "アプリを初期化中です";
+
+/* loco:57bfaffc14d7257f148b4569 */
+"report-successfully" = "報告成功、調査の結果をお待ち下さい";
+
+/* loco:57bfb01714d7257f148b456b */
+"popular-delete" = "この人をリストから削除しますか？";
+
+/* loco:57bfb76e14d725cd178b4567 */
+"report-type1" = "わいせつな内容";
+
+/* loco:57bfb78114d7250c148b4569 */
+"report-type2" = "不正が疑われる内容";
+
+/* loco:57bfb79414d72546148b456a */
+"report-type3" = "不正なアイコン";
+
+/* loco:57bfb7aa14d72525168b456a */
+"report-type4" = "その他";
+
+/* loco:57c5154314d725c1138b4567 */
+"haveaccount-login" = "メールアドレス登録済みの方はこちら";
+
+/* loco:57c5157414d725b6128b456a */
+"reward-title" = "ボーナス";
+
+/* loco:57c5158814d72587108b4569 */
+"reward-content" = "シェアして%dダイヤ獲得！";
+
+/* loco:57c515ff14d72565138b456a */
+"worldhottag" = "ワールドワイド";
+
+/* loco:57c5161b14d72565138b456c */
+"view-fbpage" = "facebookを確認";
+
+/* loco:57c5163514d72587108b456b */
+"view-twpage" = "twitterを確認";
+
+/* loco:57c5166314d7254a138b456b */
+"pushswitch-guide" = "現在配信開始の通知がオフになっています。通知をオンにしますか？";
+
+/* loco:57c516e314d72539138b4567 */
+"opennow" = "まもなく";
+
+/* loco:57c516f614d725a5118b456c */
+"later" = "後で";
+
+/* loco:57c5170714d72587108b456d */
+"nomoretips" = "今後表示しない";
+
+/* loco:57c5172214d7258f148b4569 */
+"appnotificationswitch-guide" = "現在アプリのシステム通知がオフになっています。通知をオンにしますか？";
+
+/* loco:57c5177914d7254a138b4570 */
+"report-emailtip" = "メールアドレスを入力して下さい";
+
+/* loco:57c5179c14d72580128b456c */
+"more" = "もっと";
+
+/* loco:57c517ad14d72580128b456e */
+"login-kakao" = "kakaoログイン";
+
+/* loco:57c517c114d725a5118b456f */
+"login-vk" = "VKログイン";
+
+/* loco:57c517d114d725b6128b456d */
+"sharefriendtip" = "シェア";
+
+/* loco:57c8f70f14d725d8528b456a */
+"installkakao-2" = "Kakao Talkをインストールして下さい";
+
+/* loco:57d01b4114d725352d8b4568 */
+"fb-addfriend" = "Facebookで友達申請";
+
+/* loco:57d01dc214d72593368b4567 */
+"notag-tiptitle" = "コンテンツはありません";
+
+/* loco:57d0fcef14d725071d8b4567 */
+"share_kakao" = "kakao";
+
+/* loco:57e3731a14d725822b8b4567 */
+"ip7notwtip" = "Twitter連携がありません";
+
+/* loco:57e3734314d725882b8b4567 */
+"ip7notwtip-content" = "Twitterアカウントとの連携がありません。「設定」からTwitterアカウントの登録・追加を行うことができます。";
+
+/* loco:57e4ec3b14d725ea038b45e1 */
+"kakaofailtips" = "カカオのライセンス取得に失敗しました";
+
+/* loco:580485fd52e1a151248b4569 */
+"halloweentips1" = "パンプキンを1つ獲得!";
+
+/* loco:5804861f52e1a157248b4570 */
+"halloweentips2" = "お気に入りの配信者さんにパンプキンを贈ろう!";
+
+/* loco:58089ab452e1a1b40a8b4568 */
+"gamesrule" = "イベント詳細";
+
+/* loco:580981b952e1a127248b456e */
+"pumpkin-giftguide" = "パンプキンはダイヤで購入することもできます。";
+
+/* loco:5821849c52e1a148108b4ce7 */
+"user-label-level-into-item" = "レベル";
+
+/* loco:582184b352e1a157108b4568 */
+"user-label-level-up-info" = "ライブ配信を見たり配信者と交流することでexpを獲得/n自分でライブ配信をするとexpは更にアップ/nギフトをタップしてより早くLvUP！";
+
+/* loco:58218aac52e1a1ff108b4567 */
+"user-label-level-privilege1" = "専用アイコン";
+
+/* loco:58218ac452e1a1e6108b4567 */
+"user-label-level-privilege2" = "ランキング上位";
+
+/* loco:58218ad352e1a1e2108b4d39 */
+"user-label-level-privilege3" = "入室エフェクト";
+
+/* loco:58218ae952e1a1ff108b456a */
+"global-label-guide-follow" = "フォローすれば配信を見逃しません";
+
+/* loco:58218d8452e1a1ff108b4573 */
+"live-label-guide-chat" = "話しかけてみよう！";
+
+/* loco:58218d9a52e1a115118b456d */
+"live-label-guide-gift" = "気に入ったらギフトを贈りましょう";
+
+/* loco:58218eee52e1a117118b4581 */
+"live-label-guide-share" = "友達を招待しましょう";
+
+/* loco:5821914452e1a16c118b4568 */
+"live-label-guide-say-hi" = "%@が入室。あいさつしましょう！";
+
+/* loco:5821929352e1a18b118b4569 */
+"live-label-guide-say-thx" = "ありがとうを伝えよう！";
+
+/* loco:582192be52e1a159118b456c */
+"live-label-guide-say-follow" = "配信者のアイコンをタップするとフォローできます";
+
+/* loco:5821932f52e1a16c118b457a */
+"live-label-user-coming" = "入室";
+
+/* loco:5821934452e1a1b3118b4568 */
+"live-label-super-user-notice" = "%@が入室しました";
+
+/* loco:5821936252e1a18a118b456b */
+"home-label-nearby-into-item" = "付近";
+
+/* loco:5821939552e1a1aa118b456e */
+"home-label-followed-none-live" = "フォロー中の配信者はまだ配信していません";
+
+/* loco:582193ad52e1a18b118b456d */
+"global-alert-token-tips" = "%@アカウントが期限切れです。再度ライセンスを獲得して下さい。";
+
+/* loco:582193d352e1a1ba118b4569 */
+"home-alert-reward100" = "いつも応援ありがとうございます！ /nダイヤ獲得x %d";
+
+/* loco:5822d23652e1a1e9328b4567 */
+"live-label-guide-assistant1" = "StarMeアシスタント：StarMeをご利用いただきありがとうございます。友達を増やし、ギフトや現金報酬を獲得しましょう！";
+
+/* loco:5822d5c452e1a1d2328b4567 */
+"live-label-guide-assistant2" = "StarMeアシスタント：人気配信者になるには、安定したネットワーク状態、適切な照明、目を引くタイトルが大切です！";
+
+/* loco:5822d6eb52e1a102338b4568 */
+"live-label-guide-assistant3" = "StarMeアシスタント：友達を招待し、SNSであなたの配信をシェアしよう！";
+
+/* loco:5822d74f52e1a1d2328b456a */
+"live-label-guide-assistant4" = "StarMeアシスタント：先ほど入室した人にあいさつしましょう！ギフトやいいね！をくれた人に感謝を示すことで人望につながるかも！？";
+
+/* loco:5822dc3352e1a168338b456a */
+"live-label-guide-assistant5" = "StarMeアシスタント：人気配信をチェックして、流行のヒントを得よう！";
+
+/* loco:5824272452e1a1155a8b456b */
+"user-label-photo-check" = "見やすいアイコンで更に人気に！";
+
+/* loco:5824274f52e1a1de598b4574 */
+"user-btn-photo-check-ok" = "この写真にきーめた！";
+
+/* loco:58242f3e52e1a1585b8b456a */
+"exp-live-label-exp" = "exp";
+
+/* loco:5832962052e1a1e8448b4567 */
+"global-alert-token-buttontips" = "再承認する";
